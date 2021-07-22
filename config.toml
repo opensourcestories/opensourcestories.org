@@ -1,0 +1,31 @@
+baseURL = "https://opensourcestories.org/"
+languageCode = "en-us"
+title = "Open Source Stories"
+theme = "ananke"
+copyright = "Amanda Casari and Julia Ferraioli,"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 8
+enableRobotsTXT = true
+googleAnalytics = ""
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+  [[menu.main]]
+    identifier = "storycorp"
+    name = "StoryCorps"
+    url = "https://archive.storycorps.org/communities/open-source-stories/"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Narratives of open source"
+  twitter = "https://twitter.com/StoriesOfOSS"
+  github = "https://github.com/opensourcestories"
+  rss = "index.xml"
+  featured_image = ""
+  recent_posts_number = 4
