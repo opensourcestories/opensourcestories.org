@@ -5,6 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
     <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <script type="application/ld+json">
+      {
+	  "@context": "https://schema.org/",
+	  "@type": "WebSite",
+	  "name": "{{ .Site.Title }}",
+	  "url": "{{ .Permalink }}",
+	  "description": "{{ .Params.Description }}",
+	  "author": {
+	      "@type": "Person",
+	      "name": "{{ .Site.Author.amanda.name }}",
+	  },
+	  "author": {
+	      "@type": "Person",
+	      "name": "{{ .Site.Author.julia.name }}",
+	  },
+	  "keywords": "Storytelling, Open Source, History, StoryCorps, Narratives, Open-source, Contribute, Contribution",
+      }
+    </script>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
     {{ hugo.Generator }}
