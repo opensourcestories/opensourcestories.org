@@ -2,7 +2,7 @@ baseURL = "https://opensourcestories.org/"
 languageCode = "en-us"
 title = "Open Source Stories"
 theme = "ananke"
-copyright = "Amanda Casari and Julia Ferraioli,"
+copyright = "Open Source Stories,"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -27,5 +27,12 @@ googleAnalytics = ""
   twitter = "https://twitter.com/StoriesOfOSS"
   github = "https://github.com/opensourcestories"
   rss = "index.xml"
-  featured_image = ""
+  featured_image = "/images/heroes/seedlings-background.png"
   recent_posts_number = 4
+  background_color_class = "bg-black"
+  custom_css = ["opensourcestories.css"]
+
+[author.amanda]
+  name = "Amanda Casari"
+[author.julia]
+  name = "Julia Ferraioli"
