@@ -25,3 +25,6 @@ To generate the HTML, run:
 `$ hugo`
 
 The static files will be stored in the `public/` subdirectory.
+
+_____
+The theme for this website is based upon [ananke](https://github.com/theNewDynamic/gohugo-theme-ananke).
