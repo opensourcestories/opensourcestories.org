@@ -9,3 +9,14 @@
 .almost-black {
     color: #222222;
 }
+
+footer {
+    margin-top: auto;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}

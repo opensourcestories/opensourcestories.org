@@ -71,7 +71,7 @@
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main class="pb7" role="main">
+    <main role="main">
       {{ block "main" . }}{{ end }}
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
