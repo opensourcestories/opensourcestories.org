@@ -1,7 +1,7 @@
 ---
 title: "Aaron Patterson on open source game changers"
 date: 2021-10-14
-draft: true
+draft: false
 description: "Aaron Patterson talks with Julia and Amanda about installing Linux for the first time, the story behind first patch, initial hesitancy around forking, and shares some advice for fellow programmers. Features plenty of bad puns from everyone." 
 storyteller: Aaron Patterson
 storycorps: https://archive.storycorps.org/embed/3444324/
