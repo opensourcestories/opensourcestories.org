@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 8
 enableRobotsTXT = true
-googleAnalytics = ""
+googleAnalytics = "G-7TL98FG4D8"
 
 [menu]
   [[menu.main]]
