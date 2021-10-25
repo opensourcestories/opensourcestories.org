@@ -3,9 +3,9 @@ title: "Aaron Patterson on open source game changers"
 date: 2021-10-14
 draft: false
 description: "Aaron Patterson talks with Julia and Amanda about installing Linux for the first time, the story behind first patch, initial hesitancy around forking, and shares some advice for fellow programmers. Features plenty of bad puns from everyone." 
-storyteller: Aaron Patterson
-storycorps: https://archive.storycorps.org/embed/3444324/
-bio: Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing.
+storyteller: "Aaron Patterson"
+storycorps: 'https://archive.storycorps.org/embed/3444324/'
+bio: "Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing."
 ---
 
 **Julia Ferraioli**: Hello, my name is Julia Ferraioli. This is October 14 2021. Time has no meaning anymore. I'm sorry. I am here with Amanda Casari and Aaron Patterson. Aaron is our storyteller for today. I'm recording this conversation for Open Source Stories in my office in Seattle, Washington, where it's strangely sunny right now, which is really weird. I will pass it off to Amanda to introduce herself.
@@ -130,7 +130,7 @@ There's two other points I wanted to make after this. I think now we're seeing a
 
 **Amanda Casari**: Do you remember when the projects you were most interested in and/or you were contributing on moved to GitHub?
 
-**Aaron Patterson**: Yeah, Rails is probably the biggest one. Before we were using subversion on our own hosted thing, I think we had our own hosted server. And then we moved that to GitHub, and it was a big deal. It was super nice; moving away from your own hosted thing is just, just great[laughter]. But on top of that, with the other things, like pull requests, that wasn't a thing.
+**Aaron Patterson**: Rails is probably the biggest one. Before we were using subversion on our own hosted thing, I think we had our own hosted server. And then we moved that to GitHub, and it was a big deal. It was super nice; moving away from your own hosted thing is just, just great [laughter]. But on top of that, with the other things, like pull requests, that wasn't a thing.
 
 Also I remember one thing, when GitHub came around, they said, "you fork a project", and at the time, I was like, "Whoa, you get to fork a project. You can't do that. That's not legal." [More laughter.] Because before this forking a project was a big deal. If you forked somebody's project that meant that you were like, "No, you guys are the worst. I'm not gonna work with you ever again. Forking your project!" And now GitHub comes along and like, "No, you just fork it. Do your changes, and you just send it back..."
 
@@ -154,7 +154,7 @@ Also I remember one thing, when GitHub came around, they said, "you fork a proje
 
 **Julia Ferraioli**: When GitHub first launched, they actually weren't focused on open source. Right? Social coding platform?
 
-**Aaron Patterson**: Yeah, yeah. I think that's true. They were just a social coding platform. But I mean, I don't know what else you would be. If it's gonna be social, it's got to be open source, basically. Right? Especially if you're just launching a website, who else is going to use it? You can't socially code your closed source project. Like, how is that social?
+**Aaron Patterson**: I think that's true. They were just a social coding platform. But I mean, I don't know what else you would be. If it's gonna be social, it's got to be open source, basically. Right? Especially if you're just launching a website, who else is going to use it? You can't socially code your closed source project. Like, how is that social?
 
 **Julia Ferraioli**: Your anti-social coding platform?
 
@@ -162,7 +162,7 @@ Also I remember one thing, when GitHub came around, they said, "you fork a proje
 
 **Julia Ferraioli**: It's true. But the advent of this user-friendly platform that made it so that you don't have to email the library author a patch, because you don't know where the repository is, that was a huge shift for open source, and the open source industry.
 
-**Aaron Patterson**: Yeah, I mean, before that we had SourceForge, which was kind of like this, but they didn't offer... GitHub's main offering was a pull request, like that was **_the_** thing. You couldn't do that on SourceForge. They had hosting, but you'd still have to email a patch somewhere. And also, at the time, SourceForge was trying to monetize. So they just became covered in ads. I don't know if this is appropriate for this.
+**Aaron Patterson**: Before that we had SourceForge, which was kind of like this, but they didn't offer... GitHub's main offering was a pull request, like that was **_the_** thing. You couldn't do that on SourceForge. They had hosting, but you'd still have to email a patch somewhere. And also, at the time, SourceForge was trying to monetize. So they just became covered in ads. I don't know if this is appropriate for this.
 
 **Julia Ferraioli**: My first experience with open source was on SourceForge. And you had to be very careful where you clicked.
 
@@ -204,7 +204,7 @@ Other stuff that changed? I don't know. IRC dying off. Now, instead of using IRC
 
 **Amanda Casari**: I think it's interesting too, especially hearing about your experience with your first open source installation, and how scary it was thinking, "What if I destroy the technology I'm actually trying to change or work with". But so many of the tools, especially in the last few years now have that ability to have interoperability, and integration, and being able to build these chains and workflows, with good documentation. So that it's not this mystical process feels really revolutionary. It changes a lot of being able to do things without having to necessarily have somebody that can't approach it from the beginning or be new to the community or come in and ask good educated questions from looking things up on how to contribute but doesn't have to learn a secret knock?
 
-**Aaron Patterson**: Yep. Yeah, for sure. Absolutely. I totally agree. It's so good, having these tools that are easy to use. I guess I'm a huge fan of things lowering the barrier to entry. So GitHub is one of those things and these new editors, that's another that's another thing. And I think it's just gonna get better. I have no idea how, like, I can't imagine. I don't know how we'll get the barrier lower. But I think that will keep lowering it. And I think that's a good thing.
+**Aaron Patterson**: Absolutely. I totally agree. It's so good, having these tools that are easy to use. I guess I'm a huge fan of things lowering the barrier to entry. So GitHub is one of those things and these new editors, that's another that's another thing. And I think it's just gonna get better. I have no idea how, like, I can't imagine. I don't know how we'll get the barrier lower. But I think that will keep lowering it. And I think that's a good thing.
 
 **Julia Ferraioli**: Awesome. Thank you, Aaron. We have just 10 minutes left. I know, you were worried about the duration. So we just covered predictions, or lack thereof maybe. Where do you see some of the unsolved problems in open source? The challenges?
 
