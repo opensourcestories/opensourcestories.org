@@ -1,6 +1,5 @@
 ---
 title: "Contribute"
-featured_image: '/images/heroes/seedlings-background.png'
 description: We welcome contributions to Open Source Stories!
 ---
 
