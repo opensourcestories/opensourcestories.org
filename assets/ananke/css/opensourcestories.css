@@ -32,3 +32,9 @@ body {
 .storycorps {
     padding-top: 1em;
 }
+
+.team-profile {
+    max-width: 100%;
+    justify-content: center;
+    display: flex;
+}

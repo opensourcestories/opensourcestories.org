@@ -20,9 +20,3 @@ Open Source Stories was born.
 Open Source Stories is still in its initial stages. Right now, we are reaching out to select storytellers as we smooth out the edges of the contributor experience. By the end of the year, we hope to expand storytelling slots to anyone with an open source story to share, as well as introduce a self-directed option.
 
 Please stay tuned!
-
-## About the founders
-
-Amanda Casari is a developer relations engineer leading research and open data projects to better understand risk and resilience in open source ecosystems. She once co-wrote a [SuperbOwl](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/) book because where you choose to shelve a feature matters. She was named an External Faculty member of the Vermont Complex Systems Center in 2021. Amanda is persistently fascinated by the difference between the systems we aim to create and the ones that emerge, and pie.
-
-Julia Ferraioli is a technical program manager focused on the meta of open source: compliance, sustainability, tooling, and research. Her background includes research in machine learning, robotics, HCI, and accessibility. Julia finds energy in developing creative demos, creating beautiful documents, and rainbow sprinkles. She’s a fierce supporter of LaTeX, the Oxford comma, and small pull requests.
