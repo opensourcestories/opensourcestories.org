@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "More about Open Source Stories"
-featured_image: '/images/heroes/seedlings-background.png'
 draft: false
 ---
 

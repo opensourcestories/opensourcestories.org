@@ -27,9 +27,9 @@ googleAnalytics = "G-7TL98FG4D8"
   twitter = "https://twitter.com/StoriesOfOSS"
   github = "https://github.com/opensourcestories"
   rss = "index.xml"
-  featured_image = "/images/heroes/seedlings-background.png"
+  featured_image = ""
   recent_posts_number = 4
-  background_color_class = "bg-black"
+  background_color_class = "oss-dark-green"
   custom_css = ["opensourcestories.css"]
 
 [author.amanda]
