@@ -10,6 +10,10 @@
     color: #222222;
 }
 
+.oss-dark-green {
+    background-color: #021C0E;
+}
+
 footer {
     margin-top: auto;
 }
@@ -37,4 +41,12 @@ body {
     max-width: 100%;
     justify-content: center;
     display: flex;
+}
+
+.logo {
+    max-height: 256px;
+}
+
+.center-flex {
+    justify-content: center;
 }
