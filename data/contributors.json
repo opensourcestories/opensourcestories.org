@@ -1,0 +1,21 @@
+{
+    "Julia": {
+        "name": "Julia Ferraioli",
+        "roles": "Co-founder",
+        "profile": "julia.png",
+        "bio": "Julia Ferraioli is a technical program manager focused on open source compliance, sustainability, tooling, and research. Her background includes research in machine learning, robotics, HCI, and accessibility. Julia finds energy in developing creative demos, creating beautiful documents, and rainbow sprinkles. She’s also a fierce supporter of LaTeX, the Oxford comma, and small pull requests."
+    },
+    "Amanda": {
+        "name": "Amanda Casari",
+        "roles": "Co-founder",
+        "profile": "amanda.png",
+        "bio": "Amanda Casari is a developer relations engineering manager in the Open Source Programs Office at Google, where she is leading research and engineering to better understand risk and resilience in open source ecosystems. She was named an External Faculty member of the Vermont Complex Systems Center in 2021. amanda is persistently fascinated by the difference between the systems we aim to create and the ones that emerge, and pie."
+    },
+    "Perrie": {
+        "name": "Peace Ojemeh",
+        "roles": "Design Lead",
+        "profile": "perrie.png",
+        "bio": "Peace is a product designer who helps communities & organizations build & improve the quality of their products & overall experience, to match the needs of their target audience. She is enthusiastic about solving problems, places great emphasis on functionality and usability while ensuring a visually captivating product. She is an advocate for inclusion, accessibility, and open source."
+
+    }
+}
