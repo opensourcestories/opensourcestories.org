@@ -1,6 +1,6 @@
 ---
 title: "Samson Goddy on the power of centering open source on community needs"
-date: 2021-12-23T09:27:22-05:00
+date: 2021-10-23T09:27:22-05:00
 description: "Samson talks with Amanda about his lifelong journey in open source, why growing a culture of sharing is so important, and how his early experiences influenced where and how he has directed his energy into re-centering the nexus of open source."
 storyteller: "Samson Goddy"
 storycorps: 'https://archive.storycorps.org/embed/3448105'

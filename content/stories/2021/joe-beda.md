@@ -1,6 +1,6 @@
 ---
 title: "Joe Beda on open source as a positive sum game"
-date: 2021-11-07T19:11:04-05:00
+date: 2021-10-21T19:11:04-05:00
 description: "Joe Beda shares with Julia and Amanda about his multigenerational family history with computers, his changing experience with open source since submitting the first commit to Kubernetes, and how the future of open source contains both 'danger and opportunity'."
 storyteller: "Joe Beda"
 storycorps: https://archive.storycorps.org/embed/3455153
