@@ -21,7 +21,7 @@ googleAnalytics = "G-7TL98FG4D8"
     url = "https://archive.storycorps.org/communities/open-source-stories/"
 
 [params]
-  favicon = ""
+  favicon = "favicon.ico"
   site_logo = ""
   description = "Narratives of open source"
   twitter = "https://twitter.com/StoriesOfOSS"
