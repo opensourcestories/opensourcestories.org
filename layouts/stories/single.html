@@ -48,14 +48,14 @@
     {{ end }}
   </header>
   <section>
-  <div class="nested-copy-line-height lh-copy f5 dark-gray">
+  <div class="nested-copy-line-height lh-copy f5 dark-gray flex-ns">
     <p class="bio">{{ $.Page.Params.bio }}</p>
     <div class="storycorps">
       <iframe src="{{ $.Page.Params.storycorps }}" frameborder="0" scrolling="no"></iframe>
     </div>
   </div>
   </section>
-  <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "avenir"}} f4 nested-links nested-img dark-gray pr4-l">
+  <div class="nested-copy-line-height lh-copy  {{ $.Param "post_content_classes"  | default "avenir"}} f4 nested-links nested-img dark-gray pr4-l">
     {{- .Content -}}
     {{- partial "tags.html" . -}}
     <div class="mt6 instapaper_ignoref">

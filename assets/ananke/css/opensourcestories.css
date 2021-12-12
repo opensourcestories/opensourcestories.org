@@ -26,15 +26,18 @@ body {
 }
 
 .bio {
-    max-width: 65%;
     text-align: justify;
     float: left;
-    padding-right: 1em;
     font-style: italic;
+    flex: 3;
 }
 
 .storycorps {
-    padding-top: 1em;
+    padding: 1em 2em 1em 1em;
+}
+
+.storycorps iframe {
+    height: 100%;
 }
 
 .team-profile {
