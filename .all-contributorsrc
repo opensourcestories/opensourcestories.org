@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Arthur-Milchior",
+      "name": "Arthur Milchior",
+      "avatar_url": "https://avatars.githubusercontent.com/u/357361?v=4",
+      "profile": "http://www.milchior.fr",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "opensourcestories.org",
+  "projectOwner": "opensourcestories",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
