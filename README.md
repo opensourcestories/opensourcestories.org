@@ -1,4 +1,7 @@
 # opensourcestories.org
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Setup
 
@@ -28,3 +31,23 @@ The static files will be stored in the `public/` subdirectory.
 
 _____
 The theme for this website is based upon [ananke](https://github.com/theNewDynamic/gohugo-theme-ananke).
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://www.milchior.fr"><img src="https://avatars.githubusercontent.com/u/357361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arthur Milchior</b></sub></a><br /><a href="#content-Arthur-Milchior" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
