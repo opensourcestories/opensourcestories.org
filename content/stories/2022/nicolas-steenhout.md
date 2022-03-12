@@ -165,8 +165,6 @@ So do that homework, start implementing things once you demonstrate to me that y
 
 **julia ferraioli**: Well, thank you again for coming on Open Source Stories and sharing your open source story with us.
 
-**Nicolas Steenhout**:  
-
-Thank you for having me.
+**Nicolas Steenhout**: Thank you for having me.
 
 **amanda casari**: Thank you, Nic.
