@@ -6,7 +6,7 @@ storyteller: "Nicolas Steenhout"
 storycorps: 'https://archive.storycorps.org/embed/3526196'
 bio: " Nicolas Steenhout offers real-world insight into accessibility issues. 
 His work began in the mid-'90s. As a developer, he was confronted by accessibility hurdles that were preventing those with disabilities from engaging with a technological revolution. As he began championing web accessibility, Nic transitioned into the non-profit sector where he collaborated with people with a wide variety of impairments. Today, Nic works as an independent consultant for private businesses and non-profits. Having lent his services on three continents, he’s engaged with thousands of individuals with disabilities. He blogs about accessibility at https://incl.ca and he hosts the A11y Rules Podcast."
-draft: true
+draft: false
 ---
 **julia ferraioli**: Hello, everyone. My name is julia ferraioli, my pronouns are she/her, and I am based in Seattle, Washington. I'm recording this for Open Source Stories. And I will pass it off to Amanda to introduce herself. 
 
