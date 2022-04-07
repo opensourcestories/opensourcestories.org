@@ -12,6 +12,8 @@ tags:
 - Web
 - Drupal
 - Diversity
+- Disability
+- Inclusion
 ---
 **julia ferraioli**: Hello, everyone. My name is julia ferraioli, my pronouns are she/her, and I am based in Seattle, Washington. I'm recording this for Open Source Stories. And I will pass it off to Amanda to introduce herself. 
 

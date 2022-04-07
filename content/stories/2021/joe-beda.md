@@ -11,6 +11,7 @@ tags:
 - Ownership
 - BDFL
 - Communitiy
+- Governance
 ---
 
 __Amanda Casari:__ Hello, my name is Amanda Casari. My pronouns are she/her. Today is October 21, 2021. I'm speaking with Julia Ferraioli and with Joe Beda. Julia, I know from our project, *opensourcestories.org* and then Joe, this is my first time meeting, I guess "in person" online. We are recording this conversation for Open Source Stories and I'm currently in, it looks like a cave but I promise it's an office, in New England that just needs better lighting. My first memory of a computer -- so Joe, we always do a warm up question -- my first memory of a computer is when my uncle, who worked for IBM in the early 1980s, gave everybody in the family a PC for Christmas, and we got an IBM PC Jr. in our living room.

@@ -11,6 +11,7 @@ tags:
 - Diversity
 - Communitiy
 - Africa
+- OSCA
 ---
 
 **Amanda Casari:** My name is Amanda Casari. My pronouns are she/her. Today is 23, October 2021. I'm speaking with Samson Goddy, who I met at PyCon two years ago now — I think it was 2019, in Cleveland, Ohio. I'm recording this conversation for Open Source Stories in what looks pretty dark, but it's actually a beautiful sunny-ish day here in New England. My first memory of a computer — my uncle worked for IBM in the early 1980s. He gave us a home PC, it was an IBM PC, Jr, to have that started living in my dining room when I was a kid. Samson, can you introduce yourself?
