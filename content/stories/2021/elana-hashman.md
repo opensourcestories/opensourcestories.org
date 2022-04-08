@@ -6,6 +6,11 @@ storyteller: "Elana Hashman"
 storycorps: https://archive.storycorps.org/embed/3519220
 bio: "Elana Hashman is an open source software developer and free software advocate. Contributing to the Python, Debian, Clojure, JavaScript, and Kubernetes communities, she seeks to advance both the ideals and implementation of free and open source software. Elana is a Python Software Foundation Fellow and serves as a member of the Debian Technical Committee. She currently works for Red Hat as a Principal Software Engineer on the OpenShift Container Platform Node Team."
 draft: false
+tags:
+- Python
+- Kubernetes
+- Community
+- Safety
 ---
 **Amanda Casari**: My name is Amanda Casari, my pronouns are she/her. Today is November 18. And I'm speaking with Elana Hashman, who I originally met, I think PyCon, maybe in like 2019, because we started nerding out together over open source and its complexities. We are recording this conversation for Open Source Stories. I am in an office in New England, which is lit much better now than it was a few weeks ago. And when I think about connecting with people in open source, I tend to think about talking with people not just using social media, but also trying to find where are the lists and communication platforms that people work on? Because they all seem to be so different and have their own cultures and conversations. And it's interesting to see the way that different people communicate on different platforms. So Elana, would you mind introducing yourself, please?
 
