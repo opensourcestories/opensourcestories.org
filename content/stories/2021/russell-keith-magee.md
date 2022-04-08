@@ -10,7 +10,7 @@ tags:
 - Python
 - Compassion
 - Django
-- Communitiy
+- Community
 ---
 **Julia Ferraioli**: My name is Julia Ferraioli, and my pronouns are she/her. Today is October 5 2021. And I'm speaking with Russell Keith-Magee, who is a committed technologist, core developer on the Django project, and the founder of the beware project. I'm recording this conversation for open source stories in a rather Spartan office that I still haven't decorated after moving in. And my first memory of a computer is actually playing Wheel of Fortune on MS DOS, if you can believe that. That was a while ago. And Russell, would you like to introduce yourself?
 

@@ -9,7 +9,7 @@ draft: false
 tags:
 - Python
 - Diversity
-- Communitiy
+- Community
 - Africa
 - OSCA
 ---

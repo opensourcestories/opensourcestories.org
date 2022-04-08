@@ -10,7 +10,7 @@ tags:
 - Kubernetes
 - Ownership
 - BDFL
-- Communitiy
+- Community
 - Governance
 ---
 
