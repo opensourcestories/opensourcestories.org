@@ -13,6 +13,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Pow3r5",
+      "name": "Bailey Powers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89673452?v=4",
+      "profile": "https://github.com/Pow3r5",
+      "contributions": [
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

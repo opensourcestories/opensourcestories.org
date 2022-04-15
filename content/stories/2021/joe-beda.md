@@ -6,6 +6,12 @@ storyteller: "Joe Beda"
 storycorps: https://archive.storycorps.org/embed/3455153
 bio: "Joe Beda is a Principal Engineer at VMware. Joe organizes Kubernetes technical direction across VMware and VMware Tanzu. Joe arrived at VMware via the acquisition of Heptio, a leader in the cloud native movement and a company that he co-founded. Previously, at Google, Joe co-created Google Compute Engine and filed the first ever Kubernetes project commit. Joe started his career at Microsoft working on Internet Explorer and Windows. Joe holds a B.S. from Harvey Mudd College and lives in Seattle, Washington with his wife Rachel (a medical doctor and also an HMC alum) and their two children."
 draft: "false"
+tags:
+- Kubernetes
+- Ownership
+- BDFL
+- Community
+- Governance
 ---
 
 __Amanda Casari:__ Hello, my name is Amanda Casari. My pronouns are she/her. Today is October 21, 2021. I'm speaking with Julia Ferraioli and with Joe Beda. Julia, I know from our project, *opensourcestories.org* and then Joe, this is my first time meeting, I guess "in person" online. We are recording this conversation for Open Source Stories and I'm currently in, it looks like a cave but I promise it's an office, in New England that just needs better lighting. My first memory of a computer -- so Joe, we always do a warm up question -- my first memory of a computer is when my uncle, who worked for IBM in the early 1980s, gave everybody in the family a PC for Christmas, and we got an IBM PC Jr. in our living room.

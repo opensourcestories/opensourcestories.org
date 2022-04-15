@@ -6,6 +6,10 @@ storyteller: "Josh Simmons"
 storycorps: 'https://archive.storycorps.org/embed/3446308/'
 bio: "Josh Simmons is a short stack developer, community organizer, and North Bay local. He does open source strategy for Tidelift and serves as a chair of the Open Source Initiative. Josh is recognized globally as an advocate for free and open source software, inclusive community building, and ethical technology. He works on multiple boards and is frequently sought out to advise and consult. Through this work, he builds bridges into software freedom and corporate open source, across cultural divides, and convenes all manner of stakeholders around shared interests."
 draft: false
+tags:
+- Diplomacy
+- Ownership
+- Diversity
 ---
 
 **Amanda Casari**: Hi, my name is Amanda Casari, my pronouns are she/her. Today is Tuesday, October 19 2021, and I'm speaking with Julia Ferraioli and Josh Simmons. Julia -- I work with on the Open Source Stories project. And I met Josh, I think originally on Twitter and then we just have been fans of each other's work. And now we're getting to know each other better. I'm recording this conversation for Open Source Stories in what feels like a cave, but is actually just a room that needs more lighting in New England. My first time that I remember watching a spooky movie was actually Poltergeist which was released in the early 80s and I still find terrifying to this day. Julia, would you like to introduce yourself?

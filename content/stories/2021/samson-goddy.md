@@ -6,6 +6,12 @@ storyteller: "Samson Goddy"
 storycorps: 'https://archive.storycorps.org/embed/3448105'
 bio: "Samson Goddy is a software engineer, an open source advocate, community builder. He leads Community Relations and Advocacy at Sourcegraph and is the co-founder for Open Source Community Africa; he is a long-time contributor for the Sugar Labs project and serves on Open Source Collective's board. Samson is passionate about building diverse communities around projects and loves teaching."
 draft: false
+tags:
+- Python
+- Diversity
+- Community
+- Africa
+- OSCA
 ---
 
 **Amanda Casari:** My name is Amanda Casari. My pronouns are she/her. Today is 23, October 2021. I'm speaking with Samson Goddy, who I met at PyCon two years ago now — I think it was 2019, in Cleveland, Ohio. I'm recording this conversation for Open Source Stories in what looks pretty dark, but it's actually a beautiful sunny-ish day here in New England. My first memory of a computer — my uncle worked for IBM in the early 1980s. He gave us a home PC, it was an IBM PC, Jr, to have that started living in my dining room when I was a kid. Samson, can you introduce yourself?

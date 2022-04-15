@@ -9,7 +9,10 @@ Open Source Stories uses [StoryCorps](https://storycorps.org/) to record and arc
 
 Recording stories is done with the [StoryCorps app](https://storycorps.org/participate/storycorps-app/) for in-person interviews or with [StoryCorps Connect](https://storycorps.org/participate/storycorps-connect/) for remote interviews. If you prefer to not create a StoryCorps account, please let us know and we will work with you to find an alternate method. 
 
-At the moment, we are testing out the format with a limited number of invited contributors before opening it up to a larger audience. If you would like to request to be added to the list, please [email us](mailto:interviews@opensourcestories.org) with some background about the story you would like to tell.
+If you have a story you would like to tell, please fill out [our storytelling signup form](https://bit.ly/open-invitation-StoriesOfOSS). While we cannot respond to every submission, we are committed to sustainably scaling our team to share as many as possible. We are currently prioritizing stories from:
+- people whose work and impact in open source are not always quantifiable into a dashboard or evident from an API
+- communities who have navigated major inflection points in open source
+- open source decision makers who are interested in sharing their perspectives on foundational changes to open source projects
 
 ### Recommended equipment
 
