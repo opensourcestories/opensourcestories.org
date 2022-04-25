@@ -53,3 +53,7 @@ body {
 .center-flex {
     justify-content: center;
 }
+
+.tags {
+    display:inline-block;
+}
