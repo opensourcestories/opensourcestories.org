@@ -3,8 +3,13 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description:
 storyteller:
-storycorps:
 bio:
+storycorps:
+story_image:
+facilitators: []
+audio: ""
+explicit: "false"
+bytes:
 draft: true
 tags:
 -

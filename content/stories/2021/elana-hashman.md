@@ -5,6 +5,11 @@ description: "Elana Hashman recounts her first contribution to open source, the 
 storyteller: "Elana Hashman"
 storycorps: https://archive.storycorps.org/embed/3519220
 bio: "Elana Hashman is an open source software developer and free software advocate. Contributing to the Python, Debian, Clojure, JavaScript, and Kubernetes communities, she seeks to advance both the ideals and implementation of free and open source software. Elana is a Python Software Foundation Fellow and serves as a member of the Debian Technical Committee. She currently works for Red Hat as a Principal Software Engineer on the OpenShift Container Platform Node Team."
+story_image:
+facilitators: ["amanda casari"]
+audio: "https://archive.storycorps.org/interviews/elana-hashman-on-the-evolution-of-open-source/audio/"
+explicit: "no"
+bytes: 39424462
 draft: false
 tags:
 - Python
