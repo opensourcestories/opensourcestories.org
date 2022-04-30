@@ -2,8 +2,7 @@ baseURL = "https://opensourcestories.org/"
 languageCode = "en-us"
 title = "Open Source Stories"
 theme = "ananke"
-copyright = "Open Source Stories,"
-
+copyright = "The content on Open Source Stories is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 8
@@ -23,7 +22,7 @@ googleAnalytics = "G-7TL98FG4D8"
 [params]
   favicon = "favicon.ico"
   site_logo = ""
-  description = "Narratives of open source"
+  description = "The Open Source Stories project celebrates collaboration, communication, community and, more in open source by collecting narratives from creators, contributors, and consumers alike."
   twitter = "https://twitter.com/StoriesOfOSS"
   github = "https://github.com/opensourcestories"
   rss = "/index.xml"
@@ -31,6 +30,19 @@ googleAnalytics = "G-7TL98FG4D8"
   recent_posts_number = 4
   background_color_class = "oss-dark-green"
   custom_css = ["opensourcestories.css"]
+
+
+  [params.podcast]
+    podcast_author = "Open Source Stories"
+    podcast_email = "admin@opensourcestories.org"
+    podcast_owner = "julia ferraioli"
+    podcast_image = "https://opensourcestories.org/images/logos/logo-square-1600x1600.png"
+    podcast_category_primary = "Technology"
+    podcast_category_secondary = "News"
+    podcast_subcategories_secondary = ["Tech News", "News Commentary"]
+    podcast_explicit = "no"
+
+
 
 [author.amanda]
   name = "Amanda Casari"
