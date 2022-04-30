@@ -8,7 +8,7 @@
     <!-- required podcast elements -->
     <title>{{ $.Site.Title }}</title>
     <link>{{ .Site.BaseURL }}</link>
-    <itunes:image href="{{ .Site.BaseURL }}{{ .Site.Params.podcast.podcast_image }}"/>
+    <itunes:image href="{{ .Site.Params.podcast.podcast_image }}"/>
     <description>{{ .Site.Params.description }}</description>
     <!--<itunes:summary>{{ .Site.Params.description }}</itunes:summary>-->
     <itunes:explicit>{{ .Site.Params.podcast.podcast_explicit }}</itunes:explicit>
