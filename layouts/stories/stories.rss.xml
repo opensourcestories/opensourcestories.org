@@ -1,0 +1,62 @@
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    >
+  <channel>
+    <!-- podcast -->
+    <atom:link href="{{ "stories/index.xml" | absURL }}" rel="self" type="application/rss+xml" />
+    <!-- required podcast elements -->
+    <title>{{ $.Site.Title }}</title>
+    <link>{{ .Site.BaseURL }}</link>
+    <itunes:image href="{{ .Site.Params.podcast.podcast_image }}"/>
+    <description>{{ .Site.Params.description }}</description>
+    <!--<itunes:summary>{{ .Site.Params.description }}</itunes:summary>-->
+    <itunes:explicit>{{ .Site.Params.podcast.podcast_explicit }}</itunes:explicit>
+    <itunes:category text="{{ .Site.Params.podcast.podcast_category_primary }}">
+    {{ if isset .Params "podcast_subcategories_primary"}}
+      {{ range .Site.Params.podcast.podcast_subcategories }}
+          <itunes:category text="{{ . }}"/>
+      {{ end }}
+    {{ end }}
+    </itunes:category>
+    <itunes:category text="{{ .Site.Params.podcast.podcast_category_secondary }}">
+    {{ if isset .Params "podcast_subcategories_secondary"}}
+      {{ range .Site.Params.podcast.podcast_subcategories_secondary }}
+          <itunes:category text="{{ . }}"/>
+      {{ end }}
+    {{ end }}
+    </itunes:category>
+    
+    <!-- optional podcast elements -->
+    <language>{{ .Site.LanguageCode }}</language>
+    <copyright>{{ .Site.Copyright }}</copyright>
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    <itunes:title>{{ $.Site.Title }}</itunes:title>
+    <itunes:owner>
+        <itunes:name>{{ .Site.Params.podcast.podcast_owner }}</itunes:name>
+        <itunes:email>{{ .Site.Params.podcast.podcast_email }} </itunes:email>
+    </itunes:owner>
+    <itunes:author>{{ .Site.Params.podcast.podcast_author }}</itunes:author>
+    <generator>Hugo -- gohugo.io</generator>
+
+    <!-- episodes -->
+    {{ range (where .Site.RegularPages "Type" "stories") }}
+      <item>
+        <!-- required episode elements -->
+        <title>{{ .Title }}</title>
+        <enclosure url="{{ .Params.audio }}" length="{{ .Params.bytes }}" type="audio/mpeg"/>
+
+        <!-- optional episode elements -->
+        <description>{{ .Description }}</description>
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+        <guid>{{ .Params.audio }}</guid>
+        <link>{{ .Permalink }}</link>
+        {{ if isset .Params "story_image" }}
+          <itunes:image href="{{ .Site.BaseURL }}{{ .Params.story_image }}"></itunes:image>
+        {{ end }}
+        <itunes:explicit>{{ .Params.explicit }}</itunes:explicit>
+        <itunes:title>{{ .Title }}</itunes:title>
+      </item>
+    {{ end }}
+  </channel>
+</rss>
