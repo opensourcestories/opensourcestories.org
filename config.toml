@@ -30,15 +30,17 @@ googleAnalytics = "G-7TL98FG4D8"
   recent_posts_number = 4
   background_color_class = "oss-dark-green"
   custom_css = ["opensourcestories.css"]
-  explicit = "no"
+
 
   [params.podcast]
     podcast_author = "Open Source Stories"
     podcast_email = "admin@opensourcestories.org"
     podcast_owner = "julia ferraioli"
-    podcast_image = ""
-    podcast_category = "Technology"
-    podcast_subcategory = "Open Source"
+    podcast_image = "images/logos/logo-square.png"
+    podcast_category_primary = "Technology"
+    podcast_category_secondary = "News"
+    podcast_subcategories_secondary = ["Tech News", "News Commentary"]
+    podcast_explicit = "no"
 
 
 

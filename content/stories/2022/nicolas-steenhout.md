@@ -6,10 +6,9 @@ storyteller: "Nicolas Steenhout"
 storycorps: 'https://archive.storycorps.org/embed/3526196'
 bio: " Nicolas Steenhout offers real-world insight into accessibility issues. 
 His work began in the mid-'90s. As a developer, he was confronted by accessibility hurdles that were preventing those with disabilities from engaging with a technological revolution. As he began championing web accessibility, Nic transitioned into the non-profit sector where he collaborated with people with a wide variety of impairments. Today, Nic works as an independent consultant for private businesses and non-profits. Having lent his services on three continents, he’s engaged with thousands of individuals with disabilities. He blogs about accessibility at https://incl.ca and he hosts the A11y Rules Podcast."
-story_image:
 facilitators: ["julia ferraioli", "amanda casari"]
 audio: "https://archive.storycorps.org/interviews/nicolas-steenhout-on-accessibility-in-open-source-and-beyond/audio/"
-explicit: "false"
+explicit: "no"
 bytes: 35377094
 draft: false
 tags:

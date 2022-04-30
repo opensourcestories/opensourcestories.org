@@ -5,10 +5,10 @@ description:
 storyteller:
 bio:
 storycorps:
-story_image:
+story_image: "images/storytellers/"
 facilitators: []
 audio: ""
-explicit: "false"
+explicit: "no"
 bytes:
 draft: true
 tags:

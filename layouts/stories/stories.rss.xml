@@ -8,24 +8,29 @@
     <!-- required podcast elements -->
     <title>{{ $.Site.Title }}</title>
     <link>{{ .Site.BaseURL }}</link>
-    <image>
-      <url>{{ .Site.Params.podcast.podcast_image }}</url>
-      <title>{{ $.Site.Title }}</title>
-      <link>{{ .Site.BaseURL }}</link>
-    </image>
-    <itunes:image href="{{ .Site.Params.podcast.podcast_image }}"/>
+    <itunes:image href="{{ .Site.BaseURL }}{{ .Site.Params.podcast.podcast_image }}"/>
     <description>{{ .Site.Params.description }}</description>
     <!--<itunes:summary>{{ .Site.Params.description }}</itunes:summary>-->
-    <itunes:explicit>{{ .Site.Params.podcast.explicit }}</itunes:explicit>
-    <itunes:category>
-      <itunes:category text="{{ .Site.Params.podcast.podcast_category }}"/>
-      <itunes:category text="{{ .Site.Params.podcast.podcast_subcategory }}"/>
+    <itunes:explicit>{{ .Site.Params.podcast.podcast_explicit }}</itunes:explicit>
+    <itunes:category text="{{ .Site.Params.podcast.podcast_category_primary }}">
+    {{ if isset .Params "podcast_subcategories_primary"}}
+      {{ range .Site.Params.podcast.podcast_subcategories }}
+          <itunes:category text="{{ . }}"/>
+      {{ end }}
+    {{ end }}
+    </itunes:category>
+    <itunes:category text="{{ .Site.Params.podcast.podcast_category_secondary }}">
+    {{ if isset .Params "podcast_subcategories_secondary"}}
+      {{ range .Site.Params.podcast.podcast_subcategories_secondary }}
+          <itunes:category text="{{ . }}"/>
+      {{ end }}
+    {{ end }}
     </itunes:category>
     
     <!-- optional podcast elements -->
     <language>{{ .Site.LanguageCode }}</language>
     <copyright>{{ .Site.Copyright }}</copyright>
-    <lastBuildDate>{{ .Date.Format "January 02, 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
     <itunes:title>{{ $.Site.Title }}</itunes:title>
     <itunes:owner>
         <itunes:name>{{ .Site.Params.podcast.podcast_owner }}</itunes:name>
@@ -43,10 +48,12 @@
 
         <!-- optional episode elements -->
         <description>{{ .Description }}</description>
-        <pubdate>{{ .Date }} </pubdate>
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
         <guid>{{ .Params.audio }}</guid>
         <link>{{ .Permalink }}</link>
-        <itunes:image href="{{ .Params.story_image }}"></itunes:image>
+        {{ if isset .Params "story_image" }}
+          <itunes:image href="{{ .Site.BaseURL }}{{ .Params.story_image }}"></itunes:image>
+        {{ end }}
         <itunes:explicit>{{ .Params.explicit }}</itunes:explicit>
         <itunes:title>{{ .Title }}</itunes:title>
       </item>
