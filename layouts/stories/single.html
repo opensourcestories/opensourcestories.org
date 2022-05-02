@@ -57,15 +57,7 @@
   </section>
   <div class="nested-copy-line-height lh-copy  {{ $.Param "post_content_classes"  | default "avenir"}} f4 nested-links nested-img dark-gray pr4-l">
     {{- .Content -}}
-    <div class="tag-group" style="display:inline-block;">
-     {{ range sort .Params.tags }}
-     <div class="tag" style="display:inline-block;">
-       <span class="tag-textlink">
-         <a href="/tags/{{. | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">{{.}}</a>
-       </span>
-      </div>
-    {{end}}
-    </div>
+    {{- partial "tags.html" . -}}
     <div class="mt6 instapaper_ignoref">
       {{ if .Site.DisqusShortname }}
       {{ template "_internal/disqus.html" . }}
