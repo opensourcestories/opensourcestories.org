@@ -6,6 +6,10 @@ description: "Aaron Patterson talks with Julia and Amanda about installing Linux
 storyteller: "Aaron Patterson"
 storycorps: 'https://archive.storycorps.org/embed/3444324/'
 bio: "Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing."
+facilitators: ["julia ferraioli", "amanda casari"]
+audio: "https://archive.storycorps.org/interviews/aaron-patterson-amanda-casari-and-julia-ferraioli/audio/"
+explicit: "no"
+bytes: 38309764
 tags:
 - GitHub
 - GPL
