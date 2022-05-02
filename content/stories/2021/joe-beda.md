@@ -5,6 +5,10 @@ description: "Joe Beda shares with Julia and Amanda about his multigenerational 
 storyteller: "Joe Beda"
 storycorps: https://archive.storycorps.org/embed/3455153
 bio: "Joe Beda is a Principal Engineer at VMware. Joe organizes Kubernetes technical direction across VMware and VMware Tanzu. Joe arrived at VMware via the acquisition of Heptio, a leader in the cloud native movement and a company that he co-founded. Previously, at Google, Joe co-created Google Compute Engine and filed the first ever Kubernetes project commit. Joe started his career at Microsoft working on Internet Explorer and Windows. Joe holds a B.S. from Harvey Mudd College and lives in Seattle, Washington with his wife Rachel (a medical doctor and also an HMC alum) and their two children."
+facilitators: ["julia ferraioli", "amanda casari"]
+audio: "https://archive.storycorps.org/interviews/joe-beda-on-open-source-as-a-positive-sum-game/audio/"
+explicit: "no"
+bytes: 35927157
 draft: "false"
 tags:
 - Kubernetes
