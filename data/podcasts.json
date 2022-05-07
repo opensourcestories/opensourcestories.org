@@ -1,0 +1,17 @@
+{
+    "stitcher": {
+        "name": "Stitcher",
+        "subscribe": "https://www.stitcher.com/podcast/open-source-stories",
+        "icon": "podcast.svg"
+    },
+    "spotify": {
+        "name": "Spotify",
+        "subscribe": "https://open.spotify.com/show/21YVDAzO2H21WCndbowuRk",
+        "icon": "spotify.svg"
+    },
+    "rss": {
+        "name": "RSS",
+        "subscribe": "/stories/index.xml",
+        "icon": "rss-raw.svg"
+    }
+}
