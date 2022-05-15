@@ -41,10 +41,9 @@ googleAnalytics = "G-7TL98FG4D8"
     podcast_category_secondary = "News"
     podcast_subcategories_secondary = ["Tech News", "News Commentary"]
     podcast_explicit = "no"
-
-
+    podcast_rss = "/stories/index.xml"
 
 [author.amanda]
-  name = "Amanda Casari"
+  name = "amanda casari"
 [author.julia]
-  name = "Julia Ferraioli"
+  name = "julia ferraioli"
