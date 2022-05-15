@@ -57,9 +57,9 @@
   {{ end }}
 
   {{ if .OutputFormats.Get "RSS" }}
-  <link href="{{ .Site.Params.podcast.podcast_rss }}" rel="alternate" type="application/rss+xml"
+  <link href="{{ .Site.Params.podcast.podcast_rss | absURL }}" rel="alternate" type="application/rss+xml"
     title="{{ $.Site.Title }}" />
-  <link href="{{ .Site.Params.podcast.podcast_rss }}" rel="feed" type="application/rss+xml"
+  <link href="{{ .Site.Params.podcast.podcast_rss | absURL }}" rel="feed" type="application/rss+xml"
     title="{{ $.Site.Title }}" />
   {{ end }}
 
