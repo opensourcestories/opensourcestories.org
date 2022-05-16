@@ -6,7 +6,7 @@ storyteller: "Dawn Wages"
 bio: "Dawn Wages is a web, Data and Ethical OSS Engineer based in Philadelphia. On the Wagtail Core Team and volunteer for Django Girls and DjangoCon US, you may see her around the Python conference circuit. She is a Python and Django tool-maker with a passion for helping black, queer, and otherwise underrepresented engineers."
 storycorps: "https://archive.storycorps.org/embed/3555905"
 facilitators: ["julia ferraioli"]
-audio: "https://archive.storycorps.org/interviews/dawn-wages-on-being-an-ethical-open-source-engineer/audio"
+audio: "https://archive.storycorps.org/interviews/dawn-wages-on-being-an-ethical-open-source-engineer/audio/"
 explicit: "no"
 bytes: 22140756
 draft: false
