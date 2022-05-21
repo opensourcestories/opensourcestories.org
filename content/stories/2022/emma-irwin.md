@@ -6,9 +6,9 @@ storyteller: "Emma Irwin"
 storycorps: "https://archive.storycorps.org/embed/3543191"
 bio: "A long time contributor, and participant in open source Emma is currently working in her dream role helping teach, empower and support open source success as part of Microsoft's Open Source Programs Office. Emma lives in Sooke, BC Canada with her family which includes 2 dogs, 1 cat and a garden of plant babies."
 facilitators: ["julia ferraioli"]
-audio: "https://archive.storycorps.org/interviews/julia-ferraioli-5/audio/"
+audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Emma_Irwin_and_open_source_maintainership.mp3"
 explicit: "no"
-bytes: 18465163
+bytes: 18975171
 draft: false
 tags:
 - Maintainership

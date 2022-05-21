@@ -6,7 +6,7 @@ storyteller: "Josh Simmons"
 storycorps: 'https://archive.storycorps.org/embed/3446308/'
 bio: "Josh Simmons is a short stack developer, community organizer, and North Bay local. He does open source strategy for Tidelift and serves as a chair of the Open Source Initiative. Josh is recognized globally as an advocate for free and open source software, inclusive community building, and ethical technology. He works on multiple boards and is frequently sought out to advise and consult. Through this work, he builds bridges into software freedom and corporate open source, across cultural divides, and convenes all manner of stakeholders around shared interests."
 facilitators: ["julia ferraioli", "amanda casari"]
-audio: "https://archive.storycorps.org/interviews/josh-simmons-amanda-casari-and-julia-ferraioli/audio/"
+audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Josh_Simmons_and_open_source_diplomacy.mp3"
 explicit: "no"
 bytes: 36601565
 draft: false
