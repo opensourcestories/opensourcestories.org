@@ -32,7 +32,6 @@
     <language>{{ .Site.LanguageCode }}</language>
     <copyright>{{ .Site.Copyright }}</copyright>
     <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
-    <itunes:title>{{ $.Site.Title }}</itunes:title>
     <itunes:owner>
         <itunes:name>{{ .Site.Params.podcast.podcast_owner }}</itunes:name>
         <itunes:email>{{ .Site.Params.podcast.podcast_email }} </itunes:email>
