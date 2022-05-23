@@ -1,12 +1,19 @@
 {{ $icon_size := "32px" }}
 
   <section class="flex-ns flex-wrap justify-center center pa2-ns">
+    {{ $categories := slice }}
     {{ range .Site.Data.podcasts }}
-    {{ $partial_name := printf "svg/%s" .icon }}
-      <div class="ph2">
-            <a class="link db f4 pa2 br3 black dim w4 tc ba b--black flex-l items-center" href="{{ .subscribe }}">
+      {{ $categories = $categories | append .order}}
+    {{ end }}
+    {{ $categories = $categories | uniq | sort }}
+    {{ range $categories }}
+      {{ range where (sort $.Site.Data.podcasts "name" "asc") "order" . }}
+        {{ $partial_name := printf "svg/%s" .icon }}
+          <div class="ph2">
+            <a class="link db f4 pa2 br3 black dim tc ba b--black flex-l items-center" href="{{ .subscribe }}">
                 {{ partial $partial_name (dict "size" $icon_size) }}<span>&nbsp;{{ .name }}</span>
             </a>
-      </div>
+          </div>
+      {{ end }}
     {{ end }}
   </section>

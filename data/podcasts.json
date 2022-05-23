@@ -2,16 +2,25 @@
     "stitcher": {
         "name": "Stitcher",
         "subscribe": "https://www.stitcher.com/podcast/open-source-stories",
-        "icon": "podcast.svg"
+        "icon": "podcast.svg",
+        "order": 1
     },
     "spotify": {
         "name": "Spotify",
         "subscribe": "https://open.spotify.com/show/21YVDAzO2H21WCndbowuRk",
-        "icon": "spotify.svg"
+        "icon": "spotify.svg",
+        "order": 0
     },
     "rss": {
         "name": "RSS",
         "subscribe": "/stories/index.xml",
-        "icon": "rss-raw.svg"
+        "icon": "rss-raw.svg",
+        "order": 1000
+    },
+    "apple": {
+        "name": "Apple Podcasts",
+        "subscribe": "https://podcasts.apple.com/us/podcast/open-source-stories/id1622070098",
+        "icon": "apple.svg",
+        "order": 0
     }
 }
