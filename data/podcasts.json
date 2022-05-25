@@ -22,5 +22,11 @@
         "subscribe": "https://podcasts.apple.com/us/podcast/open-source-stories/id1622070098",
         "icon": "apple.svg",
         "order": 0
+    },
+    "google": {
+        "name": "Google Podcasts",
+        "subscribe": "https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cub3BlbnNvdXJjZXN0b3JpZXMub3JnL3N0b3JpZXMvaW5kZXgueG1s",
+        "icon": "google.svg",
+        "order": 0
     }
 }
