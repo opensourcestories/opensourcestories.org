@@ -52,3 +52,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## License
+
+Code is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+Content is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Where noted in the files themselves, icons (svgs) are licensed under the [Font Awesome Free License](https://github.com/FortAwesome/Font-Awesome/blob/6.x/LICENSE.txt).
+
+## Thank you
+
+Thank you to everyone who tells their own open source story.
