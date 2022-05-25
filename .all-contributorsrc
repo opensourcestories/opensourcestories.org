@@ -23,6 +23,15 @@
         "code",
         "content"
       ]
+    },
+    {
+      "login": "TeresaP",
+      "name": "Teresa Peters",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5288351?v=4",
+      "profile": "https://github.com/TeresaP",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
