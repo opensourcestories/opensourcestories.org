@@ -1,6 +1,6 @@
 # opensourcestories.org
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Setup
@@ -41,9 +41,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://www.milchior.fr"><img src="https://avatars.githubusercontent.com/u/357361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arthur Milchior</b></sub></a><br /><a href="#content-Arthur-Milchior" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/Pow3r5"><img src="https://avatars.githubusercontent.com/u/89673452?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bailey Powers</b></sub></a><br /><a href="https://github.com/opensourcestories/opensourcestories.org/commits?author=Pow3r5" title="Code">💻</a> <a href="#content-Pow3r5" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/TeresaP"><img src="https://avatars.githubusercontent.com/u/5288351?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Teresa Peters</b></sub></a><br /><a href="#ideas-TeresaP" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/perriefidelis"><img src="https://avatars.githubusercontent.com/u/30669761?v=4?s=100" width="100px;" alt="Peace's GitHub profile picture"/><br /><sub><b>Peace Ojemeh</b></sub></a><br /><a href="#design-perriefidelis" title="Design">🎨</a></td>
+    <td align="center"><a href="http://www.milchior.fr"><img src="https://avatars.githubusercontent.com/u/357361?v=4?s=100" width="100px;" alt="Arthur's GitHub profile picture"/><br /><sub><b>Arthur Milchior</b></sub></a><br /><a href="#content-Arthur-Milchior" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Pow3r5"><img src="https://avatars.githubusercontent.com/u/89673452?v=4?s=100" width="100px;" alt="Bailey's GitHub profile picture"/><br /><sub><b>Bailey Powers</b></sub></a><br /><a href="https://github.com/opensourcestories/opensourcestories.org/commits?author=Pow3r5" title="Code">💻</a> <a href="#content-Pow3r5" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/TeresaP"><img src="https://avatars.githubusercontent.com/u/5288351?v=4?s=100" width="100px;" alt="Teresa's GitHub profile picture"/><br /><sub><b>Teresa Peters</b></sub></a><br /><a href="#ideas-TeresaP" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
