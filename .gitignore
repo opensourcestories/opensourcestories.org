@@ -15,6 +15,17 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-# Hugo theme
+# Hugo files
 resources/
 public/
+.hugo_build.lock
+
+# VSCode files
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix

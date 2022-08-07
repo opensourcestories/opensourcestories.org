@@ -1,13 +1,17 @@
 baseURL = "https://www.opensourcestories.org/"
 languageCode = "en-us"
 title = "Open Source Stories"
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 copyright = "The content on Open Source Stories is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 8
 enableRobotsTXT = true
 googleAnalytics = "G-7TL98FG4D8"
+
+[module]
+[[module.imports]]
+  path = 'github.com/theNewDynamic/gohugo-theme-ananke'
 
 [menu]
   [[menu.main]]

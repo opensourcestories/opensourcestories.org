@@ -12,3 +12,7 @@ command = "hugo --gc"
   
 [context.deploy-preview]
   command = "hugo --gc -b $DEPLOY_PRIME_URL"
+
+[build.processing]
+  skip_processing = true
+  
