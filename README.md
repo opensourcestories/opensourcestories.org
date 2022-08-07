@@ -7,7 +7,7 @@
 
 1. Install [go](https://golang.org)
 1. Install [hugo](https://gohugo.io)
-1. Clone this repository, *being sure to get the submodules*: `git clone --recurse-submodules --depth 1 https://github.com/opensourcestories/opensourcestories.org.git`
+1. Clone this repository: `git clone https://github.com/opensourcestories/opensourcestories.org.git`
 
 ## Run the server
 
