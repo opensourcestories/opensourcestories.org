@@ -1,7 +1,3 @@
-.facebook, .twitter, .instagram, .youtube, .github, .gitlab, .keybase, .linkedin, .medium, .mastodon, .slack, .stackoverflow, .rss {
-    fill: #ffffff;
-}
-
 .measure-wide {
     max-width: 68em;
 }
@@ -52,4 +48,11 @@ body {
 
 .center-flex {
     justify-content: center;
+}
+
+.ananke-socials a {
+    display: inline-block;
+    vertical-align: middle;
+    color: #ffffff;
+    fill: currentColor;
 }
