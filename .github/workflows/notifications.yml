@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: '3.8'
       - name: install dependencies
-        run: sudo apt install libolm-dev
+        run: sudo apt install libolm-dev libdbus-1-dev
       - name: upgrade pip
         run: python -m pip install --upgrade pip
       - name: install matrix-commander
