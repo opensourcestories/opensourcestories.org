@@ -1,7 +1,12 @@
 # opensourcestories.org
+![matrix shield](https://img.shields.io/matrix/opensourcestories:matrix.org?label=matrix%20chat)
+![Apache 2.0 shield](https://img.shields.io/github/license/opensourcestories/opensourcestories.org)
+![Sponsors shield](https://img.shields.io/github/sponsors/opensourcestories)
+![Twitter shield](https://img.shields.io/twitter/follow/StoriesOfOSS)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 ## Setup
 
