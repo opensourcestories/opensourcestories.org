@@ -41,6 +41,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "tylerauerbeck",
+      "name": "Tyler Auerbeck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29497147?v=4",
+      "profile": "https://dev.to/tylerauerbeck",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
