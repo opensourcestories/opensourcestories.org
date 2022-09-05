@@ -1,15 +1,16 @@
-name: notify
+name: issue_notify
 
 on:
-  pull_request:
-    types: [ opened, synchronize, closed ]
-    branches: [ "main" ]
+  issues:
+    types: [ opened, edited, closed ]
+  issue_comment:
+    types: [ created, edited ]
 
   # For testing only; to be removed
   workflow_dispatch:
 
 jobs:
-  pr_opened:
+  issue_notify:
     runs-on: ubuntu-latest
 
     steps:
@@ -29,4 +30,4 @@ jobs:
           password: ${{ secrets.MATRIX_BOT_PASSWORD }}
           server: ${{ secrets.MATRIX_SERVER }}
           room: ${{ secrets.MATRIX_MAINTAINERS_ROOM }}
-        run: matrix-commander --login password --user-login "$login" --password "$password" --homeserver "$server" --device "GitHub Actions" --room-default "$room" -m "[PR ${{ github.event.action }}] ${{ github.event.pull_request.title }} (${{ github.event.pull_request.url }})"
+        run: matrix-commander --login password --user-login "$login" --password "$password" --homeserver "$server" --device "GitHub Actions" --room-default "$room" -m "[Issue ${{ github.event.action }}] ${{ github.event.issue.title }} (${{ github.event.issue.url }})"
