@@ -1,8 +1,8 @@
 # opensourcestories.org
-![matrix shield](https://img.shields.io/matrix/opensourcestories:matrix.org?label=matrix%20chat)
-![Apache 2.0 shield](https://img.shields.io/github/license/opensourcestories/opensourcestories.org)
-![Sponsors shield](https://img.shields.io/github/sponsors/opensourcestories)
-![Twitter shield](https://img.shields.io/twitter/follow/StoriesOfOSS)
+[![Open Source Stories on Matrix](https://img.shields.io/matrix/opensourcestories:matrix.org?label=matrix%20chat)](https://matrix.to/#/#opensourcestories:matrix.org)
+[![Apache 2.0 license](https://img.shields.io/github/license/opensourcestories/opensourcestories.org)](https://github.com/opensourcestories/opensourcestories.org/blob/main/LICENSE)
+[![GitHub sponsors](https://img.shields.io/github/sponsors/opensourcestories)](https://github.com/sponsors/opensourcestories)
+[![Open Source Stories on Twitter](https://img.shields.io/twitter/follow/StoriesOfOSS)](https://twitter.com/StoriesOfOSS)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
