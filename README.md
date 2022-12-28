@@ -1,5 +1,4 @@
 # opensourcestories.org
-[![Open Source Stories on Matrix](https://img.shields.io/matrix/opensourcestories:matrix.org?label=matrix%20chat)](https://matrix.to/#/#opensourcestories:matrix.org)
 [![Apache 2.0 license](https://img.shields.io/github/license/opensourcestories/opensourcestories.org)](https://github.com/opensourcestories/opensourcestories.org/blob/main/LICENSE)
 [![GitHub sponsors](https://img.shields.io/github/sponsors/opensourcestories)](https://github.com/sponsors/opensourcestories)
 [![Open Source Stories on Twitter](https://img.shields.io/twitter/follow/StoriesOfOSS)](https://twitter.com/StoriesOfOSS)
