@@ -11,7 +11,7 @@ facilitators: ["julia ferraioli"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/John_Minnihan_and_the_genesis_of_hosted_source_control.mp3"
 explicit: "no"
 bytes: 42657094
-draft: true
+draft: false
 tags:
 - Freepository
 - Version control systems
