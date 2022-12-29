@@ -1,7 +1,8 @@
 [build]
 publish = "public"
 command = "hugo --gc"
-ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF archetypes/* assets/* content/* data/* layouts/* static/* themes/*"
+# need to debug line -- currently making builds fail
+#ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF archetypes/* assets/* content/* data/* layouts/* static/* themes/*"
 
 [context.production.environment]
   HUGO_VERSION = "0.85.0"
