@@ -6,7 +6,7 @@ storyteller: "John Minnihan"
 bio: "John Minnihan is a technologist with a background that includes repairing some of the earliest PCs at the component level and inventing hosted source control.
 Freepository, the first site that allowed developers to collaborate on source code across the internet, securely managed 3 billion lines of code for members in over 120 countries. He operated the service for more than 17 years with no data loss or security incidents."
 storycorps: "https://archive.storycorps.org/embed/3698486/"
-story_image: "images/storytellers/jbminn.jpg"
+story_image: "images/storytellers/john-minnihan.jpg"
 facilitators: ["julia ferraioli"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/John_Minnihan_and_the_genesis_of_hosted_source_control.mp3"
 explicit: "no"
