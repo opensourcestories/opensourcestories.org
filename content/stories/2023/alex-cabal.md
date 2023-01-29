@@ -112,7 +112,7 @@ And then on top of that, you have to have a good eye for proofreading, you have 
 
 They would change spelling and they would do all kinds of things and do their own punctuation and no one cared back then. It was not a concern or even thought about. And so it's very common to get additions that are totally different and sometimes the transcription that we receive is a blend of editions and there's not really any way to tell. So you just have to go in there and do your best. You have to... Part of the project is having a lot of critical thinking in the sense that sometimes the history of these editions is very complicated and you just have to do some research and do what you think is best, and sometimes there's not necessarily a right answer and the answer you pick is gonna make some people mad, but that's just how it is, you gotta do it.
 
-**julia ferraioli**: Do you ever get people trying to insert their own, not commentary, but stances may be on grammatical concepts... I'm totally _not_thinking about the Oxford comma here.
+**julia ferraioli**: Do you ever get people trying to insert their own, not commentary, but stances may be on grammatical concepts... I'm totally _not_ thinking about the Oxford comma here.
 
 [chuckle]
 
