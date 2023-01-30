@@ -1,13 +1,13 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-description:
+description: ""
 storyteller:
 bio:
-storycorps:
+storycorps: "https://archive.storycorps.org/embed/"
 story_image: "images/storytellers/"
-facilitators: []
-audio: ""
+facilitators: [""]
+audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/"
 explicit: "no"
 bytes:
 draft: true
