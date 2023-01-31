@@ -60,7 +60,7 @@ After a while, I realized I was developing this kind of gigantic tool chain to m
 
 ## Bringing in contributors and building a community
 
-**Alex Cabal**: So I kinda formalized it for myself in that way, and then initially what I did was I collaborated with a friend of mine who was an artist to do an addition of Alice in Wonderland that he illustrated and at the time... Again, this was like 10 years ago. The hot new thing was "Pay What You Want" models. People were trying experimenting with that, that was kind of the thing that Radiohead did, to kick start a lot of stuff. And so we decided to do it, like I said, Pay What You Want ebook. And we just called that publisher Standard Ebooks. We thought that was kind of a cool name and he designed the logo.
+**Alex Cabal**: So I kinda formalized it for myself in that way, and then initially what I did was I collaborated with a friend of mine who was an artist to do an edition of Alice in Wonderland that he illustrated and at the time... Again, this was like 10 years ago. The hot new thing was "Pay What You Want" models. People were trying experimenting with that, that was kind of the thing that Radiohead did, to kick start a lot of stuff. And so we decided to do it, like I said, Pay What You Want ebook. And we just called that publisher Standard Ebooks. We thought that was kind of a cool name and he designed the logo.
 
 That book didn't really go anywhere, we've made like 100 bucks on it, it was more of an experiment than anything, but I liked the name, I liked the logo and then a couple years later, I thought to myself, "I'm doing all these ebooks for myself. Why don't I put them online for people to enjoy? I can put the tool chain online, then maybe someone will end up using it."
 
