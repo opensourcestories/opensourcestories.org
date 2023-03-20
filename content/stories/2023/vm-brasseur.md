@@ -88,7 +88,7 @@ Right now, I quit my job, as I have said multiple times, because I'm so excited 
 
 ## Free and open culture to free and open source
 
-**julia ferraioli: **When you're thinking about your experience in open source, whether it's paid or unpaid or semi-paid - that's probably a thing. All of us are underpaid, so semi-paid…
+**julia ferraioli**: When you're thinking about your experience in open source, whether it's paid or unpaid or semi-paid - that's probably a thing. All of us are underpaid, so semi-paid…
 
 What has influenced your path, your trajectory through it, or how you think about open source as a system, as a concept? 
 
