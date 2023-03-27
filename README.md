@@ -3,7 +3,7 @@
 [![GitHub sponsors](https://img.shields.io/github/sponsors/opensourcestories)](https://github.com/sponsors/opensourcestories)
 [![Open Source Stories on Twitter](https://img.shields.io/twitter/follow/StoriesOfOSS)](https://twitter.com/StoriesOfOSS)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -44,13 +44,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="http://www.milchior.fr"><img src="https://avatars.githubusercontent.com/u/357361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arthur Milchior</b></sub></a><br /><a href="#content-Arthur-Milchior" title="Content">🖋</a></td>
-    <td align="center"><a href="https://bit.ly/perrieee"><img src="https://avatars.githubusercontent.com/u/30669761?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peace Ojemeh</b></sub></a><br /><a href="#design-perriefidelis" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/Pow3r5"><img src="https://avatars.githubusercontent.com/u/89673452?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bailey Powers</b></sub></a><br /><a href="https://github.com/opensourcestories/opensourcestories.org/commits?author=Pow3r5" title="Code">💻</a> <a href="#content-Pow3r5" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/TeresaP"><img src="https://avatars.githubusercontent.com/u/5288351?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Teresa Peters</b></sub></a><br /><a href="#ideas-TeresaP" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://dev.to/tylerauerbeck"><img src="https://avatars.githubusercontent.com/u/29497147?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tyler Auerbeck</b></sub></a><br /><a href="#infra-tylerauerbeck" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.milchior.fr"><img src="https://avatars.githubusercontent.com/u/357361?v=4?s=100" width="100px;" alt="Arthur Milchior"/><br /><sub><b>Arthur Milchior</b></sub></a><br /><a href="#content-Arthur-Milchior" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bit.ly/perrieee"><img src="https://avatars.githubusercontent.com/u/30669761?v=4?s=100" width="100px;" alt="Peace Ojemeh"/><br /><sub><b>Peace Ojemeh</b></sub></a><br /><a href="#design-perriefidelis" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Pow3r5"><img src="https://avatars.githubusercontent.com/u/89673452?v=4?s=100" width="100px;" alt="Bailey Powers"/><br /><sub><b>Bailey Powers</b></sub></a><br /><a href="https://github.com/opensourcestories/opensourcestories.org/commits?author=Pow3r5" title="Code">💻</a> <a href="#content-Pow3r5" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TeresaP"><img src="https://avatars.githubusercontent.com/u/5288351?v=4?s=100" width="100px;" alt="Teresa Peters"/><br /><sub><b>Teresa Peters</b></sub></a><br /><a href="#ideas-TeresaP" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://dev.to/tylerauerbeck"><img src="https://avatars.githubusercontent.com/u/29497147?v=4?s=100" width="100px;" alt="Tyler Auerbeck"/><br /><sub><b>Tyler Auerbeck</b></sub></a><br /><a href="#infra-tylerauerbeck" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://aclairefication.com"><img src="https://avatars.githubusercontent.com/u/2000944?v=4?s=100" width="100px;" alt="Claire Moss"/><br /><sub><b>Claire Moss</b></sub></a><br /><a href="#content-aclairefication" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
