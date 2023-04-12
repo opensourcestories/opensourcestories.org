@@ -2,7 +2,7 @@
 title: "Aaron Patterson on open source game changers"
 date: 2021-10-14
 draft: false
-description: "Aaron Patterson talks with Julia and Amanda about installing Linux for the first time, the story behind first patch, initial hesitancy around forking, and shares some advice for fellow programmers. Features plenty of bad puns from everyone." 
+summary: "Aaron Patterson talks with Julia and Amanda about installing Linux for the first time, the story behind first patch, initial hesitancy around forking, and shares some advice for fellow programmers. Features plenty of bad puns from everyone." 
 storyteller: "Aaron Patterson"
 storycorps: 'https://archive.storycorps.org/embed/3444324/'
 bio: "Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing."
@@ -244,7 +244,7 @@ Other stuff that changed? I don't know. IRC dying off. Now, instead of using IRC
 
 ## Parting thoughts
 
-**Aaron Patterson**: I have a good parting thought for you: The ocean. [Pause, then laughter.] No, No, No, I'm kidding. I'm kidding. So this is just a joke. I guess I have a lot of parting thoughts. One thing. Geez, I can't pick, it's so hard for me to pick just one. So maybe I'll rattle off a few. 
+**Aaron Patterson**: I have a good parting thought for you: The ocean. [Pause, then laughter.] No, No, No, I'm kidding. I'm kidding. So this is just a joke. I guess I have a lot of parting thoughts. One thing. Geez, I can't pick, it's so hard for me to pick just one. So maybe I'll rattle off a few.
  One going back to the editor thing. Advice I would like to give to people who are programmers, people who want to be a programmer, or are programmers is it doesn't matter what editor you use, but learn it well. Learn how to use the editor well. The reason I say that is because from my experience I've used vim longer than I've used any programming language. And I can do any programming language in that editor. So to me the thing that is probably the most important piece of technology on my computer is that editor, so whenever you use, learn it. I think we're getting timed out here...a parting thoughts...like something deep...
 
 **Julia Ferraioli**: Well, I think a good parting thought is to thank you for joining us today.

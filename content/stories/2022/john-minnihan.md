@@ -1,7 +1,7 @@
 ---
 title: "John Minnihan and the genesis of hosted source control"
 date: 2022-12-26
-description: "John Minnihan walks through the creation of Freepository, the first hosted source control service, how it paved the way for lowering the barrier to participation in open source, and evolution of version control systems."
+summary: "John Minnihan walks through the creation of Freepository, the first hosted source control service, how it paved the way for lowering the barrier to participation in open source, and evolution of version control systems."
 storyteller: "John Minnihan"
 bio: "John Minnihan is a technologist with a background that includes repairing some of the earliest PCs at the component level and inventing hosted source control.
 Freepository, the first site that allowed developers to collaborate on source code across the internet, securely managed 3 billion lines of code for members in over 120 countries. He operated the service for more than 17 years with no data loss or security incidents."

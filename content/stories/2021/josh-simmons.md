@@ -1,7 +1,7 @@
 ---
 title: "Josh Simmons and open source diplomacy"
 date: 2021-10-19
-description: "Josh Simmons spends some time with Open Source Stories discussing the finer points of navigating open source dynamics, reflecting on the adoption of codes of conduct, and progress made towards increasing representation. Josh also coins the best tagline for open source."
+summary: "Josh Simmons spends some time with Open Source Stories discussing the finer points of navigating open source dynamics, reflecting on the adoption of codes of conduct, and progress made towards increasing representation. Josh also coins the best tagline for open source."
 storyteller: "Josh Simmons"
 storycorps: 'https://archive.storycorps.org/embed/3446308/'
 bio: "Josh Simmons is a short stack developer, community organizer, and North Bay local. He does open source strategy for Tidelift and serves as a chair of the Open Source Initiative. Josh is recognized globally as an advocate for free and open source software, inclusive community building, and ethical technology. He works on multiple boards and is frequently sought out to advise and consult. Through this work, he builds bridges into software freedom and corporate open source, across cultural divides, and convenes all manner of stakeholders around shared interests."
@@ -68,7 +68,7 @@ People come to open source for different reasons. It's a philosophy of sharing, 
 
 **Josh Simmons**: I struggle with this one. So I try not to mention the word -- if it's somebody who doesn't work in software, I try not to even mention the word "licenses". I try to use the framing of standards. Like, "Hey, open source is a standard of sharing. If somebody else has built a wheel, why would I reinvent it when I could just use that wheel. Instead of reinventing the wheel, you know, I can build the axle app", I don't know, hamfisted analogy. We can actually go further, faster, together by sharing. And that's what open source is all about. That was actually a lot shorter and more eloquent than I ever actually achieve in conversation.
 
-**Julia Ferraioli**: Well, it's captured here for all eternity: 
+**Julia Ferraioli**: Well, it's captured here for all eternity:
 
 > _Further, faster, together with open source" -- Josh Simmons_
 

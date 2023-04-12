@@ -1,7 +1,7 @@
 ---
 title: "Dawn Wages on being an ethical open source engineer"
 date: 2022-04-21T13:00:00-07:00
-description: "How do we incorporate ethics into open source and software development at large? Dawn Wages describes some of the ways that she embraces ethical open source engineering, including exploring her guiding principles around how she makes technology decisions. Learn about how she works to bring anti-racist practices to the open source ecosystem."
+summary: "How do we incorporate ethics into open source and software development at large? Dawn Wages describes some of the ways that she embraces ethical open source engineering, including exploring her guiding principles around how she makes technology decisions. Learn about how she works to bring anti-racist practices to the open source ecosystem."
 storyteller: "Dawn Wages"
 bio: "Dawn Wages is a web, Data and Ethical OSS Engineer based in Philadelphia. On the Wagtail Core Team and volunteer for Django Girls and DjangoCon US, you may see her around the Python conference circuit. She is a Python and Django tool-maker with a passion for helping black, queer, and otherwise underrepresented engineers."
 storycorps: "https://archive.storycorps.org/embed/3555905"
@@ -32,7 +32,6 @@ tags:
 
 **julia ferraioli:** She probably wanted to go meet a dog that was walking outside, so she did not.
 
-
 ## Ethical open source engineering
 
 **julia ferraioli:** You mentioned being an ethical open source engineer. Can you elaborate a little bit on what that means to you?
@@ -46,7 +45,6 @@ I’m trying to take a more farm-to-table approach, where I'm understanding real
 **Dawn Wages:** I think it visualizes it. And it also kind of parallels another movement. You don't have to be militant about it; it's just you can peel back the layers and look a little bit deeper into what you're using and the ramifications of making one decision over another – which, juggling decisions and looking at opportunity costs is a big thing that engineers do every day. So just giving a little context to it.
 
 **julia ferraioli:** Absolutely. I am curious what do you look for, if you're deciding between two different open source projects? What signals that one is more in line with your ethical values than the other? How do you make that evaluation?
-
 
 ## Farm-to-table open source
 
@@ -64,14 +62,13 @@ Wagtail is a Python CMS that is built on top of Django, a Python web framework. 
 
 **julia ferraioli:** Those are great things to call out. I have not heard of Wagtail before, so I'll check it out after this.
 
-It seems like there's a lot of overlap between what you look for from an ethical perspective and an inclusive perspective. 
+It seems like there's a lot of overlap between what you look for from an ethical perspective and an inclusive perspective.
 
-**Dawn Wages:** Absolutely. Yeah. 
+**Dawn Wages:** Absolutely. Yeah.
 
 **julia ferraioli:** Awesome. Okay. I just wanted to make sure I was getting that correct.
 
 **Dawn Wages:** I could talk a little bit more. I mentioned Coraline, NPWS, contributor covenant, which she made some odd years ago, I can't remember when. She also in 2018, started the Ethical Source License in the wake of the backlash with GitHub and the relationship with the ICE detention center, and then created the Hippocratic License, which in its most simplest form is described as "do no harm". From there, she's inspired a number of people, including myself, to create other licenses.
-
 
 ## Practicing anti-racism in open source
 
@@ -93,10 +90,9 @@ Another one that I thought was really cool, but I actually don't have access to 
 
 **julia ferraioli:** I'm gonna steal the phrase "engineer crush".
 
-
 ## Fostering innovation through psychological safety
 
-**julia ferraioli:** 
+**julia ferraioli:**
 
 What are some of the biggest challenges that you see open source facing?
 
@@ -124,7 +120,6 @@ I think that is an interesting start. Then I think there's definitely a place fo
 
 How do you think we can address some of these challenges?
 
-
 ## Lifting up the next generation of open source contributors
 
 **Dawn Wages:** Oooh. Far be it for me to say that I have all the answers. But there are a couple of things that I've seen people do that look great, and I think we should keep them up and maybe try some tweaks on it.
@@ -138,7 +133,6 @@ When I first started learning, I was really beholden to how much time I had and 
 **Dawn Wages:** Well, awesome. Oh, great. I can get a list of some of my friends and what they're doing. I've been an apprentice, but not in a program. I know a couple of people who are doing some programs, and I'm excited to chat about what they're doing.
 
 **julia ferraioli:** Awesome. Well, we have time for one last question. Which is the nebulous "any parting thoughts for us today?"
-
 
 ## Responsible open source development
 

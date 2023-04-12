@@ -1,7 +1,7 @@
 ---
 title: "VM Brasseur on free and open source ecosystems and culture"
 date: 2023-03-09
-description: "Free and open source software is, or can be, a public good. But, VM Brasseur finds that for some, it may have gotten disconnected from its open culture roots. In this open source story, VM talks about motivations behind FOSS, how they have shifted, and how those who work in free and open source software can help recenter principles of openness."
+summary: "Free and open source software is, or can be, a public good. But, VM Brasseur finds that for some, it may have gotten disconnected from its open culture roots. In this open source story, VM talks about motivations behind FOSS, how they have shifted, and how those who work in free and open source software can help recenter principles of openness."
 storyteller: "VM Brasseur"
 bio: " VM (Vicky) Brasseur is an award-winning free/open source advocate and corporate strategist, international keynote speaker, and writer. She’s the author of Forge Your Future with Open Source, the only book detailing how to contribute to free/open source (FOSS) projects. Aside from articles in various publications, she also writes about FOSS, business, and their intersection on her blog."
 storycorps: "https://archive.storycorps.org/embed/3763957"
@@ -20,17 +20,17 @@ tags:
 - Credit
 ---
 
-**julia ferraioli**: Hi, everyone. My name is julia ferraioli. I am here on a lovely, as always, gray day in Seattle and recording this with Vicky for Open Source Stories. Vicky, would you like to introduce yourself? 
+**julia ferraioli**: Hi, everyone. My name is julia ferraioli. I am here on a lovely, as always, gray day in Seattle and recording this with Vicky for Open Source Stories. Vicky, would you like to introduce yourself?
 
 **VM Brasseur**: Well, hi, everyone. I'm VM Brasseur, but we're all friends here so you can call me Vicky.
 
-**julia ferraioli**: I'm sorry, we can start over, if you like? 
+**julia ferraioli**: I'm sorry, we can start over, if you like?
 
 **VM Brasseur**: No, no.
 
 People get confused all the time. VM Brasseur is kind of the online how I can make sure I can find myself, how I can be referred to by things. But, yeah, Vicky is how I am known as an actual human being and not an online character. I'm here in the beautiful Pacific Northwest, in the Greater Portland area, where it is also gray today. It is lovely, although I wish it were a little warmer.
 
-**julia ferraioli**: Did you get any of that unexpected snow that we saw? 
+**julia ferraioli**: Did you get any of that unexpected snow that we saw?
 
 **VM Brasseur**: I did. I was very displeased by it, but one of my cats enjoyed it a great deal, 'cause there's all this stuff falling past the window and that's fascinating.
 
@@ -60,7 +60,6 @@ The so-called real world. I think that a lot of people find that kind of connect
 
 **julia ferraioli**: That's actually a perfect segue. For those who don't know you, what is your connection to open source, something that is oftentimes anti-balance?
 
-
 ## Getting paid in open source and making money with open source
 
 **VM Brasseur**: Well, I've been in Free and Open Source Software in some form or other for - I can't even do the math anymore - far more than 30 years now. I've been around but didn't start getting really paid to do it. I didn't really, I guess you could say, come on the scene of open source until after 2010 or so. That's when I started to be a lot more public about my advocacy and really more publicly helping people. What I do for a living, when I do have a job, which I'm on pause right now. I'm so grateful for the opportunity - and so privileged and grateful to do that. What I do for a job is, I help companies with their strategies around Free and Open Source Software: how can your company be more successful by using, releasing, and contributing to Free and Open Source Software in a way that's good for the communities and for the bottom line? That can mean creating an Open Source Program Office, also known as an OSPO. It can mean working with them on their software supply chains. It can mean working with them on how to release software in community management. It's the big picture stuff. It's like C-suite, Chief Open Source Officer type stuff. That's what I do for a living, when I have a living. [chuckle]
@@ -85,12 +84,11 @@ Right now, I quit my job, as I have said multiple times, because I'm so excited 
 
 **julia ferraioli**: Yes, more tea.
 
-
 ## Free and open culture to free and open source
 
 **julia ferraioli**: When you're thinking about your experience in open source, whether it's paid or unpaid or semi-paid - that's probably a thing. All of us are underpaid, so semi-paid…
 
-What has influenced your path, your trajectory through it, or how you think about open source as a system, as a concept? 
+What has influenced your path, your trajectory through it, or how you think about open source as a system, as a concept?
 
 **VM Brasseur**: Well, open culture has really influenced and was kind of my gateway to be honest, because I didn't come into open source the way a lot of people do, especially now. People are like, "Oh, I want to code. I wanna do something like that." I was there pretty early on. I mean, we're talking early, early '90s before open source was a thing.
 
@@ -108,18 +106,17 @@ I think it really falls into that sort of camp, open source, Free and Open Sourc
 
 **julia ferraioli**: Indeed. [chuckle]
 
-
 ## Ecosystems, all the way down
 
-**VM Brasseur**: That leads to a lot of problems, and ecosystems being what they are, they... It's really... You've got an ecosystem, inside of an ecosystem, inside of an ecosystem, inside of an ecosystem, right? You can get down to very small ecosystems, but they're still impacting in a part of other ecosystems. In my work, I can work at the small ecosystem level to try to make that healthier within a company, within a community, within a foundation. Then, use that to try to create ripple effects or examples or case studies or something like that, which I can then take to the next ecosystem and say, "Look, here's how we can impact your ecosystem, which is going to make everything healthier, including your line, your company, your bottom line. If you are doing it and your competitor is not, that gives you a leg up and look at how much better this can be." Right? 
+**VM Brasseur**: That leads to a lot of problems, and ecosystems being what they are, they... It's really... You've got an ecosystem, inside of an ecosystem, inside of an ecosystem, inside of an ecosystem, right? You can get down to very small ecosystems, but they're still impacting in a part of other ecosystems. In my work, I can work at the small ecosystem level to try to make that healthier within a company, within a community, within a foundation. Then, use that to try to create ripple effects or examples or case studies or something like that, which I can then take to the next ecosystem and say, "Look, here's how we can impact your ecosystem, which is going to make everything healthier, including your line, your company, your bottom line. If you are doing it and your competitor is not, that gives you a leg up and look at how much better this can be." Right?
 
 **julia ferraioli**: It's no secret that I love thinking about things from an ecosystem perspective. I also do a lot of reading around ecosystems and sustainability within ecosystems. One of the terms that I've been picking up a lot is, it's a fairly logical one, but the one, sub-ecosystem. People tend to think of open source as one thing and Free and Open Source Software as one thing, but it's really not. It's just a concept.
 
-**VM Brasseur**: It's a concept. It is very much a fundamental concept and philosophy and a standard out of the OSI, Open Source Initiative, but it is not one thing. It really is a culture, right? 
+**VM Brasseur**: It's a concept. It is very much a fundamental concept and philosophy and a standard out of the OSI, Open Source Initiative, but it is not one thing. It really is a culture, right?
 
 **julia ferraioli**: Yeah.
 
-**VM Brasseur**: I mean, if you look at something... a lot of people use Ubuntu. It's, like, okay, well you've got the entire Ubuntu ecosystem. Well, Ubuntu doesn't just come into being, Ubuntu is built on Debian. Debian is built on the Linux kernel and all of the various packages it comes with. Each of those packages has their own ecosystem. That's not just Ubuntu, that's so much more than that. That's something that I think more people need to really think about: what's the composite picture? Right? What are the components that make up your particular ecosystem? 
+**VM Brasseur**: I mean, if you look at something... a lot of people use Ubuntu. It's, like, okay, well you've got the entire Ubuntu ecosystem. Well, Ubuntu doesn't just come into being, Ubuntu is built on Debian. Debian is built on the Linux kernel and all of the various packages it comes with. Each of those packages has their own ecosystem. That's not just Ubuntu, that's so much more than that. That's something that I think more people need to really think about: what's the composite picture? Right? What are the components that make up your particular ecosystem?
 
 **julia ferraioli**: What makes it possible? What makes it... all come together? In a sense, it's very pure, right? You're building on the shoulders… you're standing on the shoulders of giants - or maybe not giants - but you're learning from other people's experiences.
 
@@ -137,12 +134,11 @@ I think it really falls into that sort of camp, open source, Free and Open Sourc
 
 **VM Brasseur**: No, I don't think we do do it very well. If we did do it very well, then we wouldn't be having these software supply chain conversations that we're having now. A lot of that, I think, is because people don't truly understand what open source is, how to open source, or what's involved with it. This is _not_ at the higher level of those who are consuming and using open source but just those who are producing software. They don't understand. There is a definition of open source that is actually very important to the functioning of Free and Open Source software. There are reasons why you need to have licenses in your software. There are reasons why you need to have a NOTICES.md file or what have you, showing who did what and why. There are really good reasons for all of these things, but people, I've watched them just... The culture has evolved in such a way that it's lost touch with that. Now, it's, "Let me build something, throw it over the wall, put it on GitHub, and now it's open source."
 
-
 ## Bringing open back into Free and Open Source Software
 
 **VM Brasseur**: That's only the smallest sliver of the actual picture. I think we in open source, those of us who have been around for a very long time, this is our fault, frankly. We did a very bad job of educating. It's like in 1998, or so, the Open Source initiative was created and came out with the Open Source Definition (OSD). Bruce Perens went on his various speaking tours telling everyone who cared about the Open Source Definition - and everyone knew about it, and that was great. Then, everyone just rested on their laurels and stayed at this baseline of what Free and Open Source Software is. We don't need to tell anyone else: we've already told them. In the meantime, the software industry just grew dramatically, and now we have completely lost track of that initial baseline. It used to be, years ago, you could at least find somebody who knew someone, who knew someone, who knew someone, who heard Bruce Perens speaking at the university once way back in the day. They, at least, had some concept of the fundamental tenets of open source via the telephone game. They had some concept, but I think we're even losing that. That's because we stopped educating, as the early people of open source.
 
-**julia ferraioli**: So let me ask a question about that that's two-fold. I'm doing the things I hate when I'm giving a talk. Do we course-correct? Should we course-correct? And if so, how do you think we go about approaching that? 
+**julia ferraioli**: So let me ask a question about that that's two-fold. I'm doing the things I hate when I'm giving a talk. Do we course-correct? Should we course-correct? And if so, how do you think we go about approaching that?
 
 **VM Brasseur**: I don't know how we could get by if we don't course-correct. I honestly don't know how Free and Open Source Software is going to continue if people don't understand what it is. The answer to that is yes, absolutely we have to course correct. How we go about doing that is a... There's no simple answer to that, obviously. It's going to be a longer term process. I do think it needs to come from the Open Source Initiative in combination with other important, non-profit organizations within the Free and Open Source Software world, e.g. Free Software Foundation Europe. I won't say Free Software Foundation because they're still broken - sorry, FSF, but as long as you have RMS on your board, you are broken. FSFE, OSI, Software Freedom Conservancy, Apache, Eclipse - they gotta get their heads together, sit down, and go, "Okay, this shit is broken, yo. How do we fix it?" And come up with a plan to educate and get the message out again in a consistent, coherent way.
 

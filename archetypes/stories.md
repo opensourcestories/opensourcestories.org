@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-description: ""
+summary: ""
 storyteller:
 bio:
 storycorps: "https://archive.storycorps.org/embed/"

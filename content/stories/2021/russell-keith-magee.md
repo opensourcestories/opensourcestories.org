@@ -2,7 +2,7 @@
 title: "Russell Keith-Magee's journey to open source"
 date: 2021-10-05T19:07:35-07:00
 draft: false
-description: "Russell Keith-Magee connects with Open Source Stories to talk about his earliest memories of technology, recount how he got involved with the Django ecosystem, and share his thoughts on open source contractualism."
+summary: "Russell Keith-Magee connects with Open Source Stories to talk about his earliest memories of technology, recount how he got involved with the Django ecosystem, and share his thoughts on open source contractualism."
 storyteller: "Russell Keith-Magee"
 storycorps: 'https://archive.storycorps.org/embed/3441381/'
 bio: "Dr Russell Keith-Magee is the founder of the BeeWare project, developing GUI tools and libraries to support the development of Python software on desktop and mobile platforms. He has also been a member of the Django core team since 2006, and for 5 years, was President of the Django Software Foundation. In his day job, he wrangles data pipelines for Upwave. He is a frequent speaker at Python and Django conferences around the globe, sharing his knowledge and experiences as a FLOSS developer, community maintainer, and (unsuccessful) startup founder."
@@ -75,6 +75,7 @@ So I could code, I was definitely not at a level that was building entirely new 
 **Julia Ferraioli**: I can definitely relate, having had some of those same review comments, in my own experience.
 
 ## Getting involved in Django
+
 **Julia Ferraioli**: So what was the first open source project that you really got involved in?
 
 **Russell Keith-Magee**: That is Django, which kind of, sort of very much set by direction for the next 15 years of my career, and in some regards life. Although I knew open source, and I liked open source, my involvement in the community was was very, "I've got my own little thing that I want to tinker around with". And I've got this grand idea of this thing that I'm going to build that I've variously tinkered on for 20-something years at this point. It's the projects that will never ever get built. By this point, fully aware that my time will never allow me to build it. But you know, it's a lovely dream.

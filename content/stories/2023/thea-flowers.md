@@ -1,7 +1,7 @@
 ---
 title: "Open Hardware and Finding Your People with Thea Flowers"
 date: 2023-03-22
-description: "If you find yourself curious about what’s running your software, then you’re in good company! Many Makers before you have cultivated our current open hardware opportunities to make it easier to start. Python Software Foundation Fellow Thea Flowers invites us to think beyond open source software to the vibrant community of open hardware. Bodge your way to greatness! In this episode, explore the right to repair, mid-scale manufacturing, and vinyl for video game soundtracks. Join Open Source Stories in finding your people."
+summary: "If you find yourself curious about what’s running your software, then you’re in good company! Many Makers before you have cultivated our current open hardware opportunities to make it easier to start. Python Software Foundation Fellow Thea Flowers invites us to think beyond open source software to the vibrant community of open hardware. Bodge your way to greatness! In this episode, explore the right to repair, mid-scale manufacturing, and vinyl for video game soundtracks. Join Open Source Stories in finding your people."
 storyteller: "Thea Flowers"
 bio: "Thea Flowers is an open source advocate, music technologist, and weasel enthusiast. She creates open source synthesizers and helps craft charming developer experiences."
 storycorps: "https://archive.storycorps.org/embed/3775783"
@@ -21,7 +21,7 @@ tags:
 - Advice
 ---
 
-**julia ferraioli**: Hi everyone. Welcome to Open Source Stories. This is julia ferraioli coming in with a lovely sunny day in Seattle. Oh my goodness. I'm gonna have to go outside and get some vitamin D. And I am here with Thea Flowers. Thea, would you like to introduce yourself? 
+**julia ferraioli**: Hi everyone. Welcome to Open Source Stories. This is julia ferraioli coming in with a lovely sunny day in Seattle. Oh my goodness. I'm gonna have to go outside and get some vitamin D. And I am here with Thea Flowers. Thea, would you like to introduce yourself?
 
 **Thea Flowers**: Sure. I'm Thea Flowers and I am currently in an overcast and slightly rainy Atlanta, Georgia. We're borrowing Seattle's weather right now and yeah. I am a hardware designer, a software engineer, and a creator of synthesizers. I'm a woman with many hats, so [laughter] yeah, I maybe do too many things.
 
@@ -35,7 +35,7 @@ tags:
 
 **Thea Flowers**: Yeah, yeah. A lot of open source people do a lot of things and it's kind of concerning sometimes, I think. [chuckle]
 
-**julia ferraioli**: Maybe a little bit. Just a little bit. So before we kind of dig into your story, or one of them - we'd have to have a lot longer than we have for all of the stories! Let's start off with a nice light question. What was your most recent vinyl purchase? 
+**julia ferraioli**: Maybe a little bit. Just a little bit. So before we kind of dig into your story, or one of them - we'd have to have a lot longer than we have for all of the stories! Let's start off with a nice light question. What was your most recent vinyl purchase?
 
 **Thea Flowers**: Oh my God! Okay. [laughter] So I just got the Bomberman Hero soundtrack on vinyl.
 
@@ -61,10 +61,9 @@ tags:
 
 **Thea Flowers**: Yeah. That's for sure.
 
-
 ## Open Everything Else
 
-**julia ferraioli**: Oh my gosh. I feel like this was a great setup, so [laughter] tell me about your journey into open hardware. What brought you there? What _is_ open hardware? 
+**julia ferraioli**: Oh my gosh. I feel like this was a great setup, so [laughter] tell me about your journey into open hardware. What brought you there? What _is_ open hardware?
 
 [laughter]
 
@@ -94,10 +93,9 @@ tags:
 
 [laughter]
 
-
 ## What I Really Wanted to Do the Whole Time
 
-**julia ferraioli**: Okay. So what led you to open hardware? How did you get involved? 
+**julia ferraioli**: Okay. So what led you to open hardware? How did you get involved?
 
 **Thea Flowers**: Great question. You kind of touched on it a little bit earlier when you mentioned, like, as software engineers, a lot of what we do is intangible. Especially if you're working on backend stuff or APIs or microservices or whatever they call them these days: what you're working on, you can't reach out and touch, you can't physically hold it in your hand. Even when you make an app, there's still some intangibility to it. It doesn't feel quite as real. I worked in software for a long time and eventually I just got tired of making intangible things. I've been doing music my entire life, so I was like, "Okay, cool. It looks like I can take some electronics, like an Arduino or something, and some software, which I know how to write, and smash them together [laughter] and make music with that." and that started me on the journey. Along the way I learned about open hardware and I was just blown away. I was like, "Oh, I gotta get down on this." So I like to make things that are tangible, that you can touch, that you can feel, that you can play with and make music with - and annoy people with! I think that's what I really wanted to do the whole time.
 
@@ -117,7 +115,6 @@ tags:
 
 **julia ferraioli**: I know that when people kind of get into open source, one of the things that is really important is educating others - educating either through the community or just by making their stuff available for other people to use. That's something very much shared between open source software and open hardware, it sounds like.
 
-
 ## Fantastic Disasters and Repair
 
 **Thea Flowers**: Yeah, absolutely. I think the whole thing with open hardware is making it where people can learn from stuff. Also, there's a big movement around repairing and reusing things. And yeah, you can't do that if you can't understand the thing that you're holding in your hand. Open hardware really does push that forward. The ability to understand the physical things that we create and maintain them and build off of them.
@@ -134,7 +131,7 @@ tags:
 
 [laughter]
 
-**julia ferraioli**: But is there a funny disaster story that you've got in your back pocket? 
+**julia ferraioli**: But is there a funny disaster story that you've got in your back pocket?
 
 **Thea Flowers**: I have some good ones. One of the things, I actually run an open source hardware company that sells synthesizers. Starting that up was a huge learning adventure for me 'cause I've never run a business and I've also never sold hardware. I don't know how to do a lot of things, [laughter] but I had to learn very fast. One of the early things that I did wrong that I was really embarrassed about at first was our third product. I had sent it off to be manufactured and it was 150 units, so it was a very small run all things considered, especially now considering our runs are like 500, 600 units - but 150 units at the time to me was a lot. That was enormous. And as soon as they arrived, I discovered a hardware bug. I had made a mistake. And this is not like software where you can just deploy a fix, right? Or you publish a new version of your package. I had spent at that point 7 months working on this product, going through iterations, and getting it up to the point where I felt confident in getting it made. Then, when it arrived, it was messed up. [laughter]
 
@@ -154,17 +151,15 @@ tags:
 
 **Thea Flowers**: Everyone. Yeah. And as much as I can feel bad about making a mistake, I'm one person, right? People with teams of hundreds looking at hardware designs make mistakes, so.
 
-
 ## Relatively Approachable
 
-**julia ferraioli**: Absolutely. Absolutely. How was... When you were first getting into open hardware, what were your first steps? 
+**julia ferraioli**: Absolutely. Absolutely. How was... When you were first getting into open hardware, what were your first steps?
 
 **Thea Flowers**: Great question. My first steps were, basically, get an Arduino and do silly stuff with it, and I feel like that is relatively approachable, right? You can buy an Arduino starter kit for almost nothing. Well, not almost nothing, but like 20 bucks, right? Comparatively cheap compared to going out and having to get a circuit board made or something, right? That's where I started, and the thing is, a lot of those, I find really uninspiring. I got the Arduino and then it just kind of sat on my desk for like six months. It wasn't until I decided I wanted to make something, like I had an idea for something, that it really took hold, and then I started really getting into it. I found out that it's a lot harder to learn hardware than it is to learn software, at least for me. I found the resources are a lot less approachable to people who have no background in engineering or electrical engineering, so it was hard. There's a lot of forums and a lot of nice people in the Adafruit Discord who helped me learn things. I always tell people, if they want to get into hardware, have some inspiration and find a community. 'Cause those two things together are really what's gonna set you up for success.
 
-
 ## A Hundred Versus a Thousand
 
-**julia ferraioli**: Are there any areas of open hardware that are really getting you excited these days? 
+**julia ferraioli**: Are there any areas of open hardware that are really getting you excited these days?
 
 **Thea Flowers**: Yeah. Okay. So I mentioned we ordered a run of 150 of our product, right? Well, I had to send that out to a contract manufacturer, right? This is a whole thing. It's like, they do so much to produce your boards and put components on them and all that stuff. What's really getting me excited in open source hardware is this movement around mid-scale manufacturing - doing it yourself, doing it in-house - and open sourcing all of the machines required to do that. It's truly awesome. A contract manufacturer that's doing what's called surface non-assembly, which is where they get the circuit boards and they put all the little tiny components on there, have these huge, basically assembly lines that are consisting of multiple machines. They have a machine that puts paste on the board, like solder paste. They have a machine that automatically picks and places the components onto the board. They have an oven, an automated oven that melts the solder paste and gets all the components soldered into place.
 
@@ -181,7 +176,6 @@ tags:
 **julia ferraioli**: Yeah. I mean the phrase economy of scale is a really important one and kind of closing that gap is.
 
 **Thea Flowers**: Exactly.
-
 
 ## Benevolent Release Manager
 
@@ -207,14 +201,13 @@ tags:
 
 **Thea Flowers**: Just empowering them to do what they feel is the most useful thing. I don't review features to make sure that they're right. I'm not a benevolent dictator; I'm a benevolent release manager. Just tell me what you wanna release and I'm gonna release it. So it's that sort of thing where I just want to empower people to do the contributions themselves instead of just expecting [me] to do everything.
 
-**julia ferraioli**: Passing the baton is a very real skill and I think it's one that we need more of in open whatever, right? 
+**julia ferraioli**: Passing the baton is a very real skill and I think it's one that we need more of in open whatever, right?
 
 **Thea Flowers**: Yeah. Yeah. We can't succeed on our own. Nobody can build the entire universe of open source anything. We need help. We need other people.
 
-
 ## Find Your People
 
-**julia ferraioli**: Yeah. Absolutely. So I know we're at the end of our time [laughter]... Which went by way too fast. [laughter] Any parting thoughts on open hardware? On getting involved? 
+**julia ferraioli**: Yeah. Absolutely. So I know we're at the end of our time [laughter]... Which went by way too fast. [laughter] Any parting thoughts on open hardware? On getting involved?
 
 **Thea Flowers**: Yeah, and like I said earlier, the most important thing is find your people, find your community. All of this is hard. Learning how to do any of this is hard. Sticking with it is hard. Being successful and failing are both hard - condolences on both sides. It's important to find and surround yourself with people who are excited about what you're doing, who are knowledgeable, who are also learning. And if you have that community, there's no way that you can actually fail. You will stumble, sure, but having that community will make sure that you accomplish all the things that you wanna accomplish. So that's my parting thought: Find your people.
 

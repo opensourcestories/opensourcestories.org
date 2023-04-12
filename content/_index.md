@@ -1,7 +1,7 @@
 ---
 title: "Open Source Stories"
 draft: false
-description: "A collection of stories about open source from all over the world"
+summary: "A collection of stories about open source from all over the world"
 ---
 Open source is more than what we find in a repository.
 

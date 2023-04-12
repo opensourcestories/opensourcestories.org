@@ -1,7 +1,7 @@
 ---
 title: "Elana Hashman on the evolution of open source"
 date: 2021-11-18
-description: "Elana Hashman recounts her first contribution to open source, the ecosystem’s potential, how norms have changed over the years, and what keeps her involved and contributing."
+summary: "Elana Hashman recounts her first contribution to open source, the ecosystem’s potential, how norms have changed over the years, and what keeps her involved and contributing."
 storyteller: "Elana Hashman"
 storycorps: https://archive.storycorps.org/embed/3519220
 bio: "Elana Hashman is an open source software developer and free software advocate. Contributing to the Python, Debian, Clojure, JavaScript, and Kubernetes communities, she seeks to advance both the ideals and implementation of free and open source software. Elana is a Python Software Foundation Fellow and serves as a member of the Debian Technical Committee. She currently works for Red Hat as a Principal Software Engineer on the OpenShift Container Platform Node Team."
@@ -18,10 +18,9 @@ tags:
 ---
 **Amanda Casari**: My name is Amanda Casari, my pronouns are she/her. Today is November 18. And I'm speaking with Elana Hashman, who I originally met, I think PyCon, maybe in like 2019, because we started nerding out together over open source and its complexities. We are recording this conversation for Open Source Stories. I am in an office in New England, which is lit much better now than it was a few weeks ago. And when I think about connecting with people in open source, I tend to think about talking with people not just using social media, but also trying to find where are the lists and communication platforms that people work on? Because they all seem to be so different and have their own cultures and conversations. And it's interesting to see the way that different people communicate on different platforms. So Elana, would you mind introducing yourself, please?
 
-**Elana Hashman**: Yeah, sure. My name is Elana Hashman. You can use she or her pronouns for me, or they is also fine. I've been using open source since I was a teenager, I made my first contribution to open source in 2014. So I've been working in open source for almost a decade, I've been using it for almost two decades. 
+**Elana Hashman**: Yeah, sure. My name is Elana Hashman. You can use she or her pronouns for me, or they is also fine. I've been using open source since I was a teenager, I made my first contribution to open source in 2014. So I've been working in open source for almost a decade, I've been using it for almost two decades.
 
 **Amanda Casari**: When you think about interacting with people in open source, where do you go? And how do you interact with people?
-
 
 # Communication and culture
 
@@ -38,7 +37,6 @@ Those platforms give you tools for issue tracking, which when I first got starte
 Fundamentally, there are kind of all of these big things all projects have in common. They have asynchronous chat, they have some kind of mailing list, sorry, they have synchronous chat. They have asynchronous mailing lists where, you know, people might post messages or announcements, they have a place where the code is stored. They have a place where you can report issues and triage those things, and so on and so forth. They have documentation for the project. But then what those platforms look like for every project, those are where you tend to see the differences. If you learn these are the major things that I need to know for how to communicate within the project, the tools themselves don't really matter that much.
 
 **Amanda Casari**: So you mentioned you first got started with open source in 2014. Did you know where to find everything when you first started working?
-
 
 # Commit histor{y|ies}
 
@@ -58,7 +56,6 @@ I attempted to make my first bug fix that day. And it turned out, it was way mor
 
 **Amanda Casari**: I feel like that's super solid advice for open source in general, is that the boxes that people try to put you in are just some kind of construct that you just really don't need to be fitting into in order to find it.
 
-
 # Breaking out of the box
 
 **Elana Hashman**: It's so weird because when I graduated, I had a math degree, I had a computer science minor, I had been contributing to open source, I had done a number of internships and co-op semesters where I had worked as a software developer. I also operated all of these machines as a university sysadmin for the computer science club. And I also was doing all these extracurricular things on campus organizing activities for both the computer science club and the undergraduate women in computer science organization, which I actually founded the undergraduate chapter of.
@@ -68,7 +65,6 @@ I had all of these skills, and I tried to find new grad jobs and these big compa
 As an engineer, I ended up taking a job initially as a software engineer. Before a year was up, I got moved into the operations team to write software as an operationally focused software engineer. I later went and worked as an SRE full time, and eventually became an SRE tech lead. And now I've switched back to writing software full time as an open source software engineer. The interesting thing, I guess, was going through that career, and what principal engineering looks like, is much closer to the things that I really wanted to do, right outside of university, but that wasn't an option given to me, because people simply don't have enough experience, you can't possibly do those things. Like we need you to do this one thing. And now I can do all of the things. So that has been very refreshing.
 
 **Amanda Casari**: So speaking of describing things that are challenging to encapsulate in one solid concept, how do you describe open source to somebody who's not familiar with it?
-
 
 # The promise of open source
 
@@ -110,7 +106,6 @@ I also have a ham radio license. So that is also kind of near and dear to my hea
 
 **Amanda Casari**: Yeah, it's fascinating to hear the conversation from you around fundamental infrastructure and systems, because especially on the projects that you name that you've worked on, so far, are core infrastructure projects for some very large systems, including systems that actually run a majority of the world. So as you've been working on these systems, and carrying this view of what's been happening in open source for a while now, I'm curious if you've seen any major shifts, like has there been a major event that's happened, which has fundamentally changed open source, like since that event in a systemic way?
 
-
 # Evolving social mores and standards
 
 **Elana Hashman**: That's a really good question. I think there are a couple of cultural changes that I've kind of seen from when I first started working in open source to where I am now. So one of those changes is, I think, the widespread adoption of codes of conduct. Previously, those were really pushed back upon. I think that there's still a small minority of individuals who believe that they're not necessary, or that they're actively harmful. And in my experience, that is not so much the case, Having codes of conduct and in particular, not just having the document, but having a well trained, friendly and good enforcement team that can help ensure that everybody has a good outcome from a negative interaction: that has really changed the playing field in a lot of these big projects within open source.
@@ -131,10 +126,9 @@ Similarly, not so much in the area of fame, but an individual who I will not nam
 
 **Amanda Casari**: Yeah, I think it's been wonderful to see even just the time that I've been involved in technology and open source the change of moving from people talking about what should and should not be done that is acceptable in an environment in a community, to creating structures in organization. Coming together with collective action to really fundamentally make those changes There was research done by actually one of my peers at UVM, a group of people found the best possible counter to organize hate speech is organized counter-hate speech. So the idea that you can't fragment when people are organized in a specific way and targeting people in a way that is hurtful and harmful as a community. Like you have to have that organization, that structure, and not just the power of numbers, but also a way to fundamentally counter that, so that they can't succeed and take over as a minority in an environment.
 
-
 # Collective action at scale
 
-**Elana Hashman**: We actually have a surprisingly heartening example of that sort of thing. One of the things I had to put up, which was a little bit disappointing, was basically a way for people to be able to redact their emails, when they put git commits into this letter when they signed it, because some people were concerned about getting hate mail. But one person went and took the entire git log. The funny thing was, I think I had redacted my email for everything too. So I didn't even get this. 
+**Elana Hashman**: We actually have a surprisingly heartening example of that sort of thing. One of the things I had to put up, which was a little bit disappointing, was basically a way for people to be able to redact their emails, when they put git commits into this letter when they signed it, because some people were concerned about getting hate mail. But one person went and took the entire git log. The funny thing was, I think I had redacted my email for everything too. So I didn't even get this.
 
 But one person scraped everything and sent a bunch of these horrible hate messages. But the thing was, they put everybody in the To: line. So they sent these horrendous hate messages. But then everybody who signed the letter, just went back and started dunking on them kind of collectively, and initially, it's like, it's terrible to get hate mail, right? But that these people started finding the community just that of dunking on the people who were being totally asinine in response.
 
@@ -142,10 +136,9 @@ I was lucky in that, I think at some point, I was relatively visible as one of t
 
 I don't want people to have to work in an industry where, if you want to say, "hey, defending pedophiles, maybe not so great, you may be you shouldn't be the president of an important board if you're going to go on the record on your blog, and do that and refuse to apologize". Apparently the consequences for that are people will try to leak your address and physically harm you and generally send you threats. I don't want that to be an industry that anybody works in.
 
-It's so difficult,  for example, trying to explain it to my parents, because they're just like, "how do these people even know who you are? You're not a celebrity, right? You're not Lil Nas X or something, right? How do they even know you exist?" We as a society, we have this collective idea, okay? Maybe celebrities, that sort of thing that happens, but they're pretty wealthy and they have teams that deal with this. That's kind of a solved problem for them. People don't think of normal, boring people having to deal with hate mobs as much. And it's very, very common within open source. I also think to some extent, like journalism and other fields that involve being very publicly facing. 
+It's so difficult,  for example, trying to explain it to my parents, because they're just like, "how do these people even know who you are? You're not a celebrity, right? You're not Lil Nas X or something, right? How do they even know you exist?" We as a society, we have this collective idea, okay? Maybe celebrities, that sort of thing that happens, but they're pretty wealthy and they have teams that deal with this. That's kind of a solved problem for them. People don't think of normal, boring people having to deal with hate mobs as much. And it's very, very common within open source. I also think to some extent, like journalism and other fields that involve being very publicly facing.
 
 **Amanda Casari**: When you think about what we ask from people these days, in terms of that public-facing, the ability to become a target of a group or a movement, because of the work that you're doing, like you said, in a way in a system that is designed to be visible and transparent, are we asking too much of people in that visibility and that transparency? Or do we just need to do a better job with either the systems we create or the culture that we're keeping stable?
-
 
 # The visibility conundrum
 
@@ -160,7 +153,6 @@ Fundamentally, I don't think that we have good answers right now. But certainly,
 Maybe the real answer is, if we want to live in this open source utopia, wherein fundamental visibility isn't a problem, because the ideal case is going to happen. Maybe you might have bad relationships with some people that you interact with. But it's not going to result in [behavior where] you can't live your normal life because you said something one time, and now you are targeted by hate campaigns for the rest of your adult life. There are a number of people in open source who have had that happen to them. I'm very lucky. There's just probably a few really unflattering and very frightening threads about me on 4chan, and outside of that, really relatively unscathed.
 
 **Amanda Casari**: That's a lot, what is your hope for the future of open source? What keeps you here?
-
 
 # The projected promise of open source
 

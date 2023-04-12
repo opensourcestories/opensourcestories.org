@@ -1,7 +1,7 @@
 ---
 title: "Eriol Fox on open source design"
 date: 2022-06-05
-description: "What is open source design? Eriol dives into how designers contribute to open source, resources for designers looking to contribute to open source, and how incorporating design work into open source projects benefits the contributors and community using it."
+summary: "What is open source design? Eriol dives into how designers contribute to open source, resources for designers looking to contribute to open source, and how incorporating design work into open source projects benefits the contributors and community using it."
 storyteller: "Eriol Fox"
 bio: "Eriol has been working as a designer for 10+ years working in for-profits and then NGO's and open-source software organisations, working on complex problems like sustainable food systems, peace-building and crisis response technology. Eriol now works at Simply Secure on design, research, open-source and technology projects. 
 

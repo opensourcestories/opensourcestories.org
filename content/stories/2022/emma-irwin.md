@@ -1,7 +1,7 @@
 ---
 title: "Emma Irwin and open source maintainership"
 date: 2022-04-20T13:25:00-07:00
-description: "Emma Irwin explores a nuanced view of open source maintainership in today’s landscape, digging into what characteristics good maintainers cultivate, what role mentoring plays in maintainership, and how history influences who becomes a maintainer."
+summary: "Emma Irwin explores a nuanced view of open source maintainership in today’s landscape, digging into what characteristics good maintainers cultivate, what role mentoring plays in maintainership, and how history influences who becomes a maintainer."
 storyteller: "Emma Irwin"
 storycorps: "https://archive.storycorps.org/embed/3543191"
 bio: "A long time contributor, and participant in open source Emma is currently working in her dream role helping teach, empower and support open source success as part of Microsoft's Open Source Programs Office. Emma lives in Sooke, BC Canada with her family which includes 2 dogs, 1 cat and a garden of plant babies."
@@ -31,12 +31,11 @@ tags:
 
 **Emma Irwin:** Yeah, we're neighbors.
 
-
 ## On joy and garden tending
 
 **julia ferraioli:** Before we get into the heart of the conversation here, I was wondering if you could share what's a hobby or something that brings you joy right now?
 
-**Emma Irwin:** That question is answered with kind of a simple word around gardening and plants...and I never used to be a gardener. I think the pandemic really made it something that I cared about. But over the last two, three years has become something that really brings me joy. Especially this year, I planted all my own seeds. And I have a window seat in my living room where no one's allowed to sit there anymore. It's like an inside garden, a hot house and so I have planted all -- I call them my babies. My children will say, "look out for Mom's babies", because they're all sort of growing. 
+**Emma Irwin:** That question is answered with kind of a simple word around gardening and plants...and I never used to be a gardener. I think the pandemic really made it something that I cared about. But over the last two, three years has become something that really brings me joy. Especially this year, I planted all my own seeds. And I have a window seat in my living room where no one's allowed to sit there anymore. It's like an inside garden, a hot house and so I have planted all -- I call them my babies. My children will say, "look out for Mom's babies", because they're all sort of growing.
 
 I've tried all kinds of things this year that I hadn't had success with before. So it just brings me joy everyday seeing how much more they've grown and I'm thinking about getting out to the garden when it's warm enough.
 
@@ -52,7 +51,6 @@ I've tried all kinds of things this year that I hadn't had success with before. 
 
 **Emma Irwin:** It's so good from the gardens. When you get it from the grocery store, it's quite tough. So from my garden, it's really quite tasty.
 
-
 ## The journey to the open source community
 
 **julia ferraioli:** Apparently we are Pacific Northwest stereotypes. But we're here to talk about open source. Let's switch tacks a little bit, although I anticipate there's a fair amount of overlap between gardening and open source. So how long have you been involved in the open source community?
@@ -67,7 +65,7 @@ It's kind of history from there. I just became really passionate about open sour
 
 **Emma Irwin:** Definitely. One of the first open source projects that I worked with that also came with a visible community was Drupal. It was really a pivotal time for me because I had written at least a couple of content management systems by that point. So I knew just from that history, how much goes into building software that can manage all the things people want to do with their webpages. We had one client that actually wanted to work with Drupal and I remember thinking to myself "Oh my gosh, like 90% of the stuff that we charged our last customer for is built into this open source project" and how I was really struck by how that was going to be game changing for some of the customers that were nonprofits and others who would otherwise have been shut out of having a content management system. So that's just the solution.
 
-But I remember going into the community and asking a question about (what is now) single sign-on between multiple Drupal instances. And someone answered and shared their solution. I was just like, "wow, like, somebody helped me; this has sped me up" and so I started also trying to answer questions. That was really, for me, the first kind of, "I feel like I can be a part of this." 
+But I remember going into the community and asking a question about (what is now) single sign-on between multiple Drupal instances. And someone answered and shared their solution. I was just like, "wow, like, somebody helped me; this has sped me up" and so I started also trying to answer questions. That was really, for me, the first kind of, "I feel like I can be a part of this."
 
 **julia ferraioli:** It's really exciting when it all clicks into place, and you get that great dialogue between users and contributors and maintainers.
 
@@ -80,7 +78,6 @@ But I remember going into the community and asking a question about (what is now
 **julia ferraioli:** Communities of communities. It's not turtles; it's communities all the way down.
 
 **Emma Irwin:** Exactly. Yeah. That's a good one.
-
 
 ## Maintainers, maintainership, and mentoring
 
@@ -102,8 +99,7 @@ That kind of stuff, instead of being at this journey, that nod to the meritocrat
 
 Of course, if you experienced that someone is being hostile, that's different...but for the most part the great projects, like – Rust always comes to mind – that the type of feedback you're gonna get is the type that will help us move forward.
 
-
-## Legacy and missing maintainers 
+## Legacy and missing maintainers
 
 **julia ferraioli:** So we've spoken briefly in another context about the current state of maintainership, and I believe the word that you used was "legacy". I was wondering if you could speak a little bit towards that.
 
@@ -120,7 +116,6 @@ I'm not sure if I quite answered your question. But something really interesting
 **julia ferraioli:** It's about the social structures that support them.
 
 **Emma Irwin:** Exactly.
-
 
 ## Dynamics, motivations, and barriers in open source participation
 
@@ -144,7 +139,6 @@ That can be, from a safety perspective (we're talking code of conduct), it's a r
 
 **Emma Irwin:** I'll just add on to the last bit that we talked about, and that I think there are also some folks that really can never contribute to open source, that their livelihood does not make it possible.
 
-
 ## Fulfilling the promise of open source
 
 **Emma Irwin:** But something to leave with? I guess I would say that I'm still one of my favorite things about open source is the opportunity to learn and grow. I personally had a one year developer, I guess they're like a boot camp, but not really. And I did a lot of open source in my career, I sort of hit that glass ceiling. And I would consider what I want to learn and what projects are building that software, and I would head over there and just learn and watch. And so I just love to think of open source as a great place to learn, and for those who are curious about pretty much anything, to learn and kind of get past any glass ceilings you are hitting. Good projects, of course, being the places to learn.
@@ -153,6 +147,6 @@ That can be, from a safety perspective (we're talking code of conduct), it's a r
 
 **Emma Irwin:** I think so. I definitely feel very, very privileged to have had the opportunity to work with great projects and mentors, and hopefully it can be that for other people as well.
 
-**julia ferraioli:** Awesome. Well, thank you, Emma, thanks so much for joining us on Open Source Stories. 
+**julia ferraioli:** Awesome. Well, thank you, Emma, thanks so much for joining us on Open Source Stories.
 
 **Emma Irwin:** Thanks, julia.
