@@ -10,7 +10,7 @@
     <title>{{ $.Site.Title }}</title>
     <link>{{ .Site.BaseURL }}</link>
     <itunes:image href="{{ .Site.Params.podcast.podcast_image }}"/>
-    <description>{{ .Site.Params.description }}</description>
+    <description>{{ .Site.Params.Description }}</description>
     <!--<itunes:summary>{{ .Site.Params.description }}</itunes:summary>-->
     <itunes:explicit>{{ .Site.Params.podcast.podcast_explicit }}</itunes:explicit>
     <itunes:category text="{{ .Site.Params.podcast.podcast_category_primary }}">
@@ -47,7 +47,7 @@
         <enclosure url="{{ .Params.audio }}" length="{{ .Params.bytes }}" type="audio/mpeg"/>
 
         <!-- optional episode elements -->
-        <description>{{ .Description }}</description>
+        <description>{{ .Summary }}</description>
         <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
         <guid>{{ .Params.audio }}</guid>
         <link>{{ .Permalink }}</link>

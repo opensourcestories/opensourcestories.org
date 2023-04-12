@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "More about Open Source Stories"
+summary: "More about Open Source Stories"
 draft: false
 ---
 

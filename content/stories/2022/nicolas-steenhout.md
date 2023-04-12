@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Steenhout explores the intersection of accessibility and open source"
 date: 2022-03-03
-description: "Nic Steenhout recounts how barriers to access led him to getting involved in the open source community, reflects on challenges that accessibility advocates face in the ecosystem, and gives some advice to projects on how to prove their commitment to accessibility."
+summary: "Nic Steenhout recounts how barriers to access led him to getting involved in the open source community, reflects on challenges that accessibility advocates face in the ecosystem, and gives some advice to projects on how to prove their commitment to accessibility."
 storyteller: "Nicolas Steenhout"
 storycorps: 'https://archive.storycorps.org/embed/3526196'
 bio: " Nicolas Steenhout offers real-world insight into accessibility issues. 
@@ -19,7 +19,7 @@ tags:
 - Disability
 - Inclusion
 ---
-**julia ferraioli**: Hello, everyone. My name is julia ferraioli, my pronouns are she/her, and I am based in Seattle, Washington. I'm recording this for Open Source Stories. And I will pass it off to Amanda to introduce herself. 
+**julia ferraioli**: Hello, everyone. My name is julia ferraioli, my pronouns are she/her, and I am based in Seattle, Washington. I'm recording this for Open Source Stories. And I will pass it off to Amanda to introduce herself.
 
 **amanda casari**: Hi, my name is amanda casari. I am speaking with Julia and Nic today. And I'm recording this conversation for Open Source Stories from northern Vermont, in New England, USA. And it's still nice and snowy out here.
 
@@ -32,7 +32,6 @@ tags:
 **Nicolas Steenhout**: I have known so many people in the field of accessibility over the years, and in 2017, it occurred to me that a lot of the personal stories, a lot of the anecdotes around all these accessibility experts was actually not being told. And I had a big interest in that. So I just started having conversations with different people, at first people I knew well, and just digging into that. Then I thought it would be good to record these for posterity to make sure that we have this body of knowledge. That really was the basis of my first series of podcasts, the [Accessibility Rules podcast](https://a11yrules.com), the long form. It quickly morphed into not just a conversation about people's experience, but also about different aspects of digital accessibility. Whether I was speaking to disabled Accessibility Rules podcast experts or to people that had been interested in the field for years.
 
 I kind of changed tack with the podcast, and now I focus on interviewing disabled people to create sound bites, you know, five to 10 minutes shows that are punched with good information about accessibility that most designers and developers would not necessarily be aware of. It's really talking about accessibility in the words of disabled people, which is really powerful.
-
 
 # Encountering barriers to access
 
@@ -61,7 +60,6 @@ And so began my formal venture into open source. Before that I've been an active
 In fact, that's why after a couple years of being involved with Joomla, I walked out because everything I was pushing - from completely rewriting the original member code base to be producing accessible content to providing proof of concept and ideas as to how do we make our own code base, the new stuff that we're building from the ground up, that's going to be really nice and shiny, how to make that work -and the decision in the end was, well, we're going to let third-party plugins handle accessibility, which to me defeated the entire purpose. And I kind of thought, why did I spend, you know, 40 hours a week on top of my paid job every week trying to make this work?
 
 So that was my...relatively disappointing experience with my first big core development experience in open source.
-
 
 # A lack of accessibility is a bug
 
@@ -95,7 +93,6 @@ The other thing that comes to mind, was a discussion I had earlier today, is a l
 
 **Nicolas Steenhout**: For projects that work in an agile environment, I always say, make accessibility part of your definition of done, just do that. And suddenly, right there, your project is going to become more accessible because you won't have a choice. It's part of your process, build it into your systems.
 
-
 # Encouraging a culture of accessibility
 
 **amanda casari**: Because Julia and I talk a lot about social systems and sociotechnical systems and processes…I know it's hard to name an ideal project who's done this well, but I am wondering, Nic, is there any social norm or cultural expectations that people have of each other in the communities where you do see this prioritized, where you do see accessibility as part of responsible software and open source practices?
@@ -108,7 +105,6 @@ So this idea of including disabled folks, I think, is really key to making a cul
 
 As a side note, so many times we talk about DEI, it's diversity, equity inclusion. And for some reason, so many DEI experts don't understand accessibility, don't know accessibility. And when we're working on making open source projects more inclusive, we really have to remember, let's include disabled folks. It seems common sense. But for many people, it's not.
 
-
 # Advocacy burnout
 
 **julia ferraioli**: I can't agree with that enough. I'd like to go back to your point about burnout. It seems as though fighting for inclusion and prioritization is a sure[fire] recipe for burnout. Do you see that accessibility advocates tend to be at higher risk of burnout because of that attitude that we see so prevalent in technology and open source?
@@ -118,7 +114,6 @@ As a side note, so many times we talk about DEI, it's diversity, equity inclusio
 Just today on Twitter, a game announced that they had included American Sign Language in British Sign Language and cinematic cutscenes. Some people were all happy about it. I was happy about it. But there were a lot of people that were saying, "Well, this is a racing game. It's not a game for the Deaf. Why? Why did you spend time, energy, and resources in implementing this thing, instead of giving us more cars, more cars to choose from, more options?" And when you started saying, "Well, you know, you have over 300 choices of cars in this game already. Maybe, maybe you should realize that the people that are building new cars are not the same people that are implementing the ASL feature. And what's it to you? What have you lost? What have you lost from a lack of accessibility?"
 
 So this kind of conversation seems to happen a lot, all over the field, whether it's commercial gaming or open source, and once when you have to have that discussion over and over again, and you're really passionate about it. It's easy to go to burnout. I think certainly for me I stepped away from being so involved with open source. I'm still involved, I still advise people, I still do a lot of talks at open source conferences, PHP conferences, LinuxConf, PyCon. But I've taken a step back, I focus a lot more on me. And while I might actually have a discussion and try to engage people if they step back.
-
 
 # Shifting sands of communication
 
@@ -139,7 +134,6 @@ On the other hand, social media today exposes us to a lot more like-minded peopl
 And it comes down to projects, a) having the awareness about accessibility and wanting to eat include people with disabilities and b) where do we find these people?
 
 So how do we get the tools that are accessible? I would say that the big, big platforms are mostly accessible. Slack is not perfect, but it's mostly accessible, it's usable, Twitter is usable, Teams is usable. And Zoom is usable. I was saying earlier today, Zoom is not the most accessible video platform out there, the video call platform is the least inaccessible video call platform. So relying on these big names that are not too bad from an accessibility perspective, even if they're not perfect, is going to allow participation, but you still need to find people that are going to be interested in participating in that.
-
 
 # Do your accessibility homework
 
@@ -162,7 +156,6 @@ So do that homework, start implementing things once you demonstrate to me that y
 **Nicolas Steenhout**: The first point if anyone really is interested in learning, go to the w3c's website, the [Web Accessibility Initiative website](https://www.w3.org/WAI/). There's so much information there to get you started from information about, you know, accessibility for designers, for developers for project managers, easy checks, testing, tutorials, it's full of information. I have been part of the working groups that built that website that did the redesign, we care about accessibility enough that we want to make sure people learn about accessibility. So go and use that resource.
 
 **julia ferraioli**: I think it's on the open source projects to prove they're worthy of more time and expertise. Thank you so much for sharing your experiences and advice.
-
 
 # Parting thoughts
 

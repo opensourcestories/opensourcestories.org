@@ -1,7 +1,7 @@
 ---
 title: "Richard Littauer talks about birds, hats, and commitments"
 date: 2022-06-09
-description: "When you focus more on connections than commit-ments in open source, what do you say yes to? Richard talks about open source as an evolving collective and commons unbounded by strict definitions, working in the open with creativity and joy, and the practices which allow him to sustain himself as a collaborator."
+summary: "When you focus more on connections than commit-ments in open source, what do you say yes to? Richard talks about open source as an evolving collective and commons unbounded by strict definitions, working in the open with creativity and joy, and the practices which allow him to sustain himself as a collaborator."
 storyteller: "Richard Littauer"
 bio: "Richard does stuff in open source. He also likes birds. He doesn't like bios, because he has difficulty internalizing achievement, probably thanks to his evangelical upbringing in Connecticut, where he grew up, before spending ten years living abroad in Europe and Canada, working mainly on open source things, and learning about birds."
 storycorps: "https://archive.storycorps.org/embed/3577588"
@@ -44,7 +44,7 @@ Oh, man. You know, my favorite bird is the last one I just saw. It's not really 
 Yeah. I'm gonna have to look that one up. And maybe we can put a picture of it in the in this story as well.
 
 **Richard Littauer:**  
-That would be cool. Yeah, g-y-r falcon. Oh, and I'm also wearing my bird shirt. This is my Vermont park staff shirt. I never actually worked there. I just got a free T-shirt from my friend who did. And I wear this whenever I'm working on my book of birds subspecies that I'm writing at the moment. 
+That would be cool. Yeah, g-y-r falcon. Oh, and I'm also wearing my bird shirt. This is my Vermont park staff shirt. I never actually worked there. I just got a free T-shirt from my friend who did. And I wear this whenever I'm working on my book of birds subspecies that I'm writing at the moment.
 
 **julia ferraioli:**  
 Oh, wow!
@@ -58,10 +58,10 @@ This is my lucky writing shirt. So it's also a green breeding shirt.
 So are you one of those people with the gene that you don't have to sleep very much?
 
 **Richard Littauer:**  
-[laughs] I wish I was! I really wish I was. I am not, it sucks. It sucks so much. I need a minimum of seven hours to feel normal, but preferably 10. 
+[laughs] I wish I was! I really wish I was. I am not, it sucks. It sucks so much. I need a minimum of seven hours to feel normal, but preferably 10.
 
 **julia ferraioli:**  
-Wow. 
+Wow.
 
 **Richard Littauer:**  
 Yep. Not easy. Yeah.
@@ -112,13 +112,13 @@ Yeah, I love that. I love that. "France is Bacon" is gonna be the best QED like 
 It's your version of "My Drunk Kitchen."
 
 **Richard Littauer:**  
-Well, I already have a drunk company. 
+Well, I already have a drunk company.
 
 **julia ferraioli:**  
-Well, there, that's true. See, hats! 
+Well, there, that's true. See, hats!
 
 **Richard Littauer:**  
-Too many hats! 
+Too many hats!
 
 **julia ferraioli:**  
 Too many hats. Not enough amount of heads!.
@@ -127,10 +127,10 @@ Too many hats. Not enough amount of heads!.
 Just not enough, actually— performing on the commitments I actually made. Mostly, my life has a long history of promising stuff and then being like, "Sorry, I did this other thing instead. Love me anyway?"
 
 **julia ferraioli:**  
-Wow. That's extremely relatable. 
+Wow. That's extremely relatable.
 
 **Richard Littauer:**  
-Yeah. 
+Yeah.
 The pressure of commitments in open source
 
 **julia ferraioli:**  
@@ -154,10 +154,10 @@ It's, there's an interesting tension to between the usability, or the approachab
 You know, I don't know what new people look like in open source anymore. I rarely, rarely talk to people who are just entering. I talked to a lot of people who've been in this space for five years, and a lot more had been in it for 20 or 30. But I don't talk to a lot of people who are like, entry level engineers try to get involved with open source and I imagine that they're horrified because nothing makes sense. And they suddenly have to have a portfolio and they don't understand stuff. I would love to talk to more like code academies or something like who are the people who are just learning about it now and how do they experience it? I have no idea.
 
 **julia ferraioli:**  
-It's interesting because, you know, we've got GitHub for Education, right? Lots of universities and colleges. And I imagine the high schools at this point are using GitHub as how they turn in homework. 
+It's interesting because, you know, we've got GitHub for Education, right? Lots of universities and colleges. And I imagine the high schools at this point are using GitHub as how they turn in homework.
 
 **Richard Littauer:**  
-Yep. Cool. 
+Yep. Cool.
 
 **julia ferraioli:**  
 And specifically, like Jupyter Notebooks— I was about to say IPython notebooks and realize that would, that hasn't been a thing since ages. So—
@@ -166,16 +166,16 @@ And specifically, like Jupyter Notebooks— I was about to say IPython notebooks
 That's how I learned! We didn't have GitHub when I was when I was a student. It was annoying. I actually told some of my teachers about it. And they're like, "Okay, please stop raising your hand to class, Richard." And, yeah, it is. It is interesting. When you think of schools, I guess I wasn't thinking of schools, I was thinking of just normal coders. But of course, people are being taught coding now. A huge amount that I — I always forget about. I just messaged a friend of mine around 30 minutes ago asking if he does any open source code, because I want to talk to people who aren't normal coders. He's a postdoc at MIT. He studies gravity waves. He's probably the smartest person I know. Definitely rocks, smarts. He always loses to me at Risk unless his wife gangs up with him, like last time anyway. And he was like, "What's open source again?" Okay. I don't understand how people don't know, in academia, but apparently there are still people. So I'm really interested in that response to like, who's teaching it and who isn't learning so far?
 
 **julia ferraioli:**  
-I bet. I bet we can find you, like, if you really want to do this, we can we can find you a cohort of— 
+I bet. I bet we can find you, like, if you really want to do this, we can we can find you a cohort of—
 
 **Richard Littauer:**  
 Sure. Why not!
 
 **julia ferraioli:**  
-That was actually an idea that I had for a theme to do a series of let's talk to like, people just entering the world of open source for like, five or six interviews, story sessions. 
+That was actually an idea that I had for a theme to do a series of let's talk to like, people just entering the world of open source for like, five or six interviews, story sessions.
 
 **Richard Littauer:**  
-Yeah, that would be great. I mean, I taught people five years ago, I used to mentor classes at Les Pitonneux, which is a code school in Montreal and that was really fun. But it hasn't —it's been a while. 
+Yeah, that would be great. I mean, I taught people five years ago, I used to mentor classes at Les Pitonneux, which is a code school in Montreal and that was really fun. But it hasn't —it's been a while.
 
 ## Definitions, representations, and semantics
 
@@ -189,16 +189,16 @@ Oh, no!
 I know!
 
 **Richard Littauer:**  
-Which one? The one on Open Source Code for Low Resource Languages? 
+Which one? The one on Open Source Code for Low Resource Languages?
 
 **julia ferraioli:**  
-Yes. 
+Yes.
 
 **Richard Littauer:**  
 Yeah. Cool.
 
 **julia ferraioli:**  
-Yes. So and I was very, very interested to go to the "What is Open Source — Definition" 
+Yes. So and I was very, very interested to go to the "What is Open Source — Definition"
 
 **Richard Littauer:**  
 Oh, man, I don't remember writing that. That was a while ago. What did I mess it up?
@@ -210,7 +210,7 @@ I mean, no, I mean, you, you you defined it, very technically referenced a lot o
 How would I define open source? I go with Tobie Langel's definition, which is a bit different, or his graph, which is that open source is actually much larger than just the OSI and OSD. I think for that thesis, I was doing it technically, because I was having to pass a German technical board in order to get my master's degree. So it was like, ehhh what I'm going to do. But I like the idea that open source is a larger tent. It's much more a culture. It's much more a community, even though community a horrible word is often just misused everywhere, as much people working together in a similar way, maybe another way of saying it's a method. But I don't think open source has much to do anymore with the license, because that's such a small part of it. It's a part that enables the rest, sure! And it's still accurate to say that open source code is a code that has been licensed legally, blindly, whatever. But yeah, I would say it's the culture of giving back more than you take if you can, or just giving back at all, and thinking about your upstream and downstream dependencies in a way that doesn't take them for granted. Yeah, and a commons. I often think of it as a commons, a digital commons.
 
 **julia ferraioli:**  
-One of the problems that I see people running into and especially for folks newer in their open source community— said the word— is that people do have these different interpretations of, of what it means— 
+One of the problems that I see people running into and especially for folks newer in their open source community— said the word— is that people do have these different interpretations of, of what it means—
 
 **Richard Littauer:**  
 Yup.
@@ -221,23 +221,23 @@ Yup.
 **Richard Littauer:**  
 You're begging the question. The importance of language is begging the question is—
 
-Sorry. 
+Sorry.
 
 No, it's okay. I'm just pointing it out. Right. I look up a word today — mushburgers. Someone defined a wave as "mushburgers". "We went over some mushburger waves" and I was like, "What the frick does that mean?" This is William Finnegan's— Finnegans book, "Barbarian Days" on surfing. And I looked for the word on Google and the only example of mushburgers, which I know what it means. It's very clear what mushburgers means, if you're an English speaker, it's like just a crappy kind of mushy wave. I don't know why you'd say burger, but like I get it. And the only definitions came from clippings from people being like, what words is this from his book. And so it's clearly like, it's just a new word. That's a surfer jargon that hasn't really entered mainstream. And that's cool. And that's fine. So it doesn't have to be OED definition. So when I think about open source and the importance of open source, I don't actually think about that, like I don't care about open source, I don't care, like at all. Open Source is, is not something I care about. I care about people. And people work together in this one culture/community, culture is probably a better word ecosystem. I have a friend who uses the word ecology, in this ecology in a really interesting way. And a lot of them are my friends. And those are the people I actually get up and work for, or think about, or try to help. Or feel anxious about disappointing, therefore, make action so that I can make them not disappointed in me. But what about the importance of open source and having a technical definition? I'm not Stefano. it's not my job to be the president of the OSI. It's not my job to be a policeman. And if anything, being a linguist, my degrees in linguistics, has taught me to be descriptive, not prescriptive, which is a prescriptive statement. But just I just look at it like, "Oh, that's cool. You're using that way. Like, ethical source isn't open source. Cool. That's maybe true for you. That's not true. For me. I think it's open source. And if people say, "Well, it's not." You know, whatever.
 
 ## Confections, fractions, and fractures
 
 **julia ferraioli:**  
-How do you, how do you bring people together? When talking about open source? 
+How do you, how do you bring people together? When talking about open source?
 
 **Richard Littauer:**  
 Offer cake.
 
 **julia ferraioli:**  
-Offer cake? Is that what you said? 
+Offer cake? Is that what you said?
 
 **Richard Littauer:**  
-Yeah! 
+Yeah!
 
 **julia ferraioli:**  
 I think that's a very good tactic. So I'm all for that. Especially if I'm on the receiving end of the cake. So yeah, okay, Cake.
@@ -290,7 +290,7 @@ I mean, I do some of that I drink four liters of water a day and I exercise for 
 Well, for me, it's not about getting tall for me, for me, I just, that's the people who made it, they're like, you know, yeah, it's a lot of gym rats. But like, for me, like, I just feel better if I do that. And if I don't, I'll get depressed. And if I get depressed, which you know, that's just how my body works, it's kind of sad, then I don't work very well. And then I get more depressed. And then I have a whole cycle downward. And it takes a while to get out of it. Whereas if I just do this, it's much harder for me to cycle downward. And as much easier for me, I was gonna merge a PR today that I felt really had to be merged. And I was like, "Okay, let's do this. Okay." And then I'm like, "You know what, Richard? A year ago, you said in an issue with the you're giving up maintainership of this repo." And I pressed Command-W and haven't looked back. I didn't have to do it. And now that power was there, because I'm like, I'm already satisfied in other parts of my life. I don't need to feel good about merging.
 
 **julia ferraioli:**  
-For listeners in the future, where keyboards are no longer a thing— that closed the window. 
+For listeners in the future, where keyboards are no longer a thing— that closed the window.
 
 **Richard Littauer:**  
 Yeah, it was great. It was great.
