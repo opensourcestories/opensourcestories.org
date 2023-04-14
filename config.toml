@@ -34,6 +34,7 @@ googleAnalytics = "G-7TL98FG4D8"
   recent_posts_number = 4
   background_color_class = "oss-dark-green"
   custom_css = ["opensourcestories.css"]
+  body_classes = "avenir almost-black"
 
 
   [params.podcast]
