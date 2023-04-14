@@ -1,6 +1,6 @@
 ---
 title: "Editorial Guide"
-draft: true
+draft: false
 summary: "This document describes the responsibilities for the person or people assigned to the editor role for an open source story, as outlined in the editing section of the `new-story` issue template."
 ---
 This document describes the responsibilities for the person or people assigned to the editor role for an open source story, as outlined in the editing section of the `new-story` issue template.
