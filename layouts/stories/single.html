@@ -1,5 +1,4 @@
 {{ define "header" }}
-{{/* We can override any block in the baseof file be defining it in the template */}}
 {{ partial "page-header.html" . }}
 {{ end }}
 
@@ -8,10 +7,6 @@
 <article class="flex-l flex-wrap justify-between mw8 center ph3">
   <header class="mt4 w-100">
     <aside class="instapaper_ignoref b helvetica tracked">
-      {{/*
-      CurrentSection allows us to use the section title instead of inferring from the folder.
-      https://gohugo.io/variables/page/#section-variables-and-methods
-      */}}
       {{with .CurrentSection.Title }}{{. | upper }}{{end}}
     </aside>
     {{ partial "social-share.html" . }}
@@ -29,19 +24,12 @@
       </strong>
     </p>
     {{ end }}
-    {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
     {{ if not .Date.IsZero }}
     <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
       {{- .Date.Format (default "January 2, 2006" .Site.Params.date_format) -}}
     </time>
     {{end}}
 
-    {{/*
-    Show "reading time" and "word count" but only if one of the following are true:
-    1) A global config `params` value is set `show_reading_time = true`
-    2) A section front matter value is set `show_reading_time = true`
-    3) A page front matter value is set `show_reading_time = true`
-    */}}
     {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
     <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime }} </span>
     <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
@@ -55,16 +43,16 @@
     </div>
   </div>
   </section>
-  <div class="nested-copy-line-height lh-copy  {{ $.Param "post_content_classes"  | default "avenir"}} f4 nested-links nested-img dark-gray pr4-l">
+  <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "avenir"}} f4 nested-links {{ $.Param "text_color" | default "almost-black" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
     {{- .Content -}}
     {{- partial "tags.html" . -}}
     <div class="mt6 instapaper_ignoref">
-      {{ if .Site.DisqusShortname }}
+    {{ if .Site.DisqusShortname }}
       {{ template "_internal/disqus.html" . }}
-      {{ end }}
-      {{ if .Site.Params.commentoEnable }}
+    {{ end }}
+    {{ if .Site.Params.commentoEnable }}
       {{- partial "commento.html" . -}}
-      {{ end }}
+    {{ end }}
     </div>
   </div>
 
