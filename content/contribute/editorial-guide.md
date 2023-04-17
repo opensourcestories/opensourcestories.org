@@ -9,24 +9,24 @@ This document describes the responsibilities for the person or people assigned t
 
 ## Editing process
 
-As the editor for a new story, you will be given access to a folder containing the following resources:
+As the editor for a new story, you will be given access to a Google Drive folder containing the following resources:
 
-* a transcript in the desired output template
-* the audio recording
-* subtitle files
+* a transcript in the desired output template (Google Doc)
+* the audio recording (`.mp3`)
+* subtitle files (`.srt` and `.vtt`)
 
-All of your tasks will be completed in the transcript document and tracked in the GitHub issue.
+Most of your work will be completed in the transcript document, and tracked in the assigned GitHub issue for transparency.
 
 Editing a story can be broken down into the following steps:
 
-* edit transcript for readability
-* break into paragraphs
-* fine-tune title
-* add logical headings
-* add a summary
-* add relevant links (optional)
-* suggest tags (see [opensourcestories.org/tags](https://www.opensourcestories.org/tags) for existing tags)
-* write social media copy (optional)
+1. edit transcript for readability
+1. break into paragraphs
+1. fine-tune title
+1. add logical headings
+1. add a summary
+1. add relevant links (optional)
+1. suggest tags (see [opensourcestories.org/tags](https://www.opensourcestories.org/tags) for existing tags)
+1. write social media copy (optional)
 
 ### Edit transcript for readability
 
@@ -42,7 +42,7 @@ While the transcript will already have some paragraphs based on speaker and timi
 
 ### Fine-tune title
 
-The transcript will have a draft title, but please feel free to fine-tune it if you have a more appropriate one.
+The transcript will have a draft title, but please feel free to fine-tune it if you have a more appropriate one. Puns are greatly appreciated and highly encouraged. Embrace your creativity!
 
 ### Add logical headings
 
@@ -72,6 +72,8 @@ Social media, that fickle medium. If you are so inclined, please write a version
 
 ## Tracking progress
 
-Please keep track of your progress in editing in the issue for the story. Once you have finished your tasks, assign the issue to the person who is named as the publisher for the story.
+Please keep track of your progress in editing in the issue for the story. We would say that not update is too small, but maybe ones like "opened a file 🎉" are. In general letting us know where you're flowing, where you get stuck, and how we can help benefits everyone.
+
+Once you have finished your tasks, assign the issue to the person who is named as the publisher for the story.
 
 We are all human! If there are delays of more than ~4 days, or you can no longer be the editor, just let us know on the issue.
