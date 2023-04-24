@@ -1,7 +1,7 @@
 ---
 title: "Samson Goddy on the power of centering open source on community needs"
 date: 2021-10-23T09:27:22-05:00
-summary: "Samson talks with Amanda about his lifelong journey in open source, why growing a culture of sharing is so important, and how his early experiences influenced where and how he has directed his energy into re-centering the nexus of open source."
+summary: "Samson talks with amanda about his lifelong journey in open source, why growing a culture of sharing is so important, and how his early experiences influenced where and how he has directed his energy into re-centering the nexus of open source."
 storyteller: "Samson Goddy"
 storycorps: 'https://archive.storycorps.org/embed/3448105'
 bio: "Samson Goddy is a software engineer, an open source advocate, community builder. He leads Community Relations and Advocacy at Sourcegraph and is the co-founder for Open Source Community Africa; he is a long-time contributor for the Sugar Labs project and serves on Open Source Collective's board. Samson is passionate about building diverse communities around projects and loves teaching."
@@ -18,15 +18,15 @@ tags:
 - OSCA
 ---
 
-**Amanda Casari:** My name is Amanda Casari. My pronouns are she/her. Today is 23, October 2021. I'm speaking with Samson Goddy, who I met at PyCon two years ago now — I think it was 2019, in Cleveland, Ohio. I'm recording this conversation for Open Source Stories in what looks pretty dark, but it's actually a beautiful sunny-ish day here in New England. My first memory of a computer — my uncle worked for IBM in the early 1980s. He gave us a home PC, it was an IBM PC, Jr, to have that started living in my dining room when I was a kid. Samson, can you introduce yourself?
+**amanda casari:** My name is amanda casari. My pronouns are she/her. Today is 23, October 2021. I'm speaking with Samson Goddy, who I met at PyCon two years ago now — I think it was 2019, in Cleveland, Ohio. I'm recording this conversation for Open Source Stories in what looks pretty dark, but it's actually a beautiful sunny-ish day here in New England. My first memory of a computer — my uncle worked for IBM in the early 1980s. He gave us a home PC, it was an IBM PC, Jr, to have that started living in my dining room when I was a kid. Samson, can you introduce yourself?
 
 **Samson Goddy:** Sure. Hi. My name is Samson Goddy:, he/him. And should I say like today's date, or should I just skip that?
 
-**Amanda Casari:** Nah!
+**amanda casari:** Nah!
 
 **Samson Goddy:** So I'm recording from London, United Kingdom. But I'm Nigerian. I'm from Nigeria.
 
-**Amanda Casari:** Oh, what's your first memory of a computer in your life?
+**amanda casari:** Oh, what's your first memory of a computer in your life?
 
 ## On the futility of trying to avoid “office” work
 
@@ -34,13 +34,13 @@ tags:
 
 I think when I went back after the class, and I watched some sci-fi movies, I got pretty excited about the possibilities of what you can do with computers, rather than just office work. Maybe it's just me saying I don't like the traditional “office work” with computers.
 
-**Amanda Casari:** Do you like office work with computers now?
+**amanda casari:** Do you like office work with computers now?
 
 **Samson Goddy:** Yeah, yeah, because my job is part of it. Now I have to spend virtual science on spreadsheets, Google Docs, and some bunch of boolean as part of my job. Compared to when I was — when I was much more into, you know, use cases programming and some other tactical things rather than just office work. So yeah, one of the things I was running away from, it's like, something catching up with me now. Always learn as much as you can when you're much younger.
 
 ## An introduction to Linux through game parity
 
-**Amanda Casari:** I mean, speaking of learning things you can, while you're young, can you first describe your first encounters with open source, and a little bit of your early journey with it?
+**amanda casari:** I mean, speaking of learning things you can, while you're young, can you first describe your first encounters with open source, and a little bit of your early journey with it?
 
 **Samson Goddy:** Yeah, sure. Interestingly, when I became very tactical, I mean, when I saw computers from a tactical level. Luckily, for me, I got introduced to the tactical world of programming in I think as early as grade six, grade seven, I'm not sure when. And then that was true. Again, that was a little bit different, because I was not looking at the Windows computer, because I was kind of fed up with those things. I couldn't resonate with it at that point.
 
@@ -52,7 +52,7 @@ Also, the limitations of the actual architecture, of the next step itself, that 
 
 ## On fueling curiosity through finding community
 
-**Amanda Casari:** So when you were looking, you were first getting started in grade school. When none of your friends were interested, it sounds like, in the same kind of technology platforms you were using, how did you find support and community for that - for figuring things out?
+**amanda casari:** So when you were looking, you were first getting started in grade school. When none of your friends were interested, it sounds like, in the same kind of technology platforms you were using, how did you find support and community for that - for figuring things out?
 
 **Samson Goddy:** Honestly, it was hard. It was hard because as I was in the same school, and to give it context, the project was for the whole school. So I was not just the only person with that computer, but I think I was one of the fewer people, probably like 0.1% of the people, that resonated with the computer at that time.
 
@@ -72,7 +72,7 @@ You know, funnily enough, I got into IRC before understanding what messaging was
 
 ## The Cambridge Connection
 
-**Amanda Casari:** When you're doing all of this work, that — so, as a student trying to find things, figure things out, get connected as part of the community — was there anyone in particular who was super influential as a part of your journey?
+**amanda casari:** When you're doing all of this work, that — so, as a student trying to find things, figure things out, get connected as part of the community — was there anyone in particular who was super influential as a part of your journey?
 
 **Samson Goddy:** Yeah. Sadly, 99.9% of these folks are in the US, because like I said, right, the adoption of the Linux, you know, the Unix desktop, or in this case, PC desktop, which is still not so much of an impact in these days anyways, it was pretty low. It was Windows, the middle environments. I was able to get support from some of my key folks from the last year’s program, which was more focused on the educational side of it, not necessarily what the computer was all about.
 
@@ -84,7 +84,7 @@ I was more optimized for folks over at the Media Lab and some folks within Harva
 
 ## The origins of Open Source Community Africa
 
-**Amanda Casari:** So, you've said several times that you felt like your experience initially was centered in the US — was centered on US needs. And I know that you've done a lot of work to change that. Can you tell us a little bit about how did that early experience influence your life now, and your work?
+**amanda casari:** So, you've said several times that you felt like your experience initially was centered in the US — was centered on US needs. And I know that you've done a lot of work to change that. Can you tell us a little bit about how did that early experience influence your life now, and your work?
 
 **Samson Goddy:** I was technically forced to optimize for the US because that was where I was getting my support system from anyways. That’s why I was doing that, and why it was great for me at some point to get to understand, you know, being in Nigeria, me understanding a different culture, which was also in terms of better diversity.
 
@@ -106,11 +106,11 @@ One of the things that came out of that was fruitful, because I've done some thi
 
 ## Scaling a continent-wide open source community
 
-**Amanda Casari:** Open Source Community Africa — Africa is a continent, not a country, unlike some people in the US think, right? So as you've been doing this now for about three, four years of trying to figure out a continent-wide program, what have you learned about things that are standardized, or that you insist on doing the same and what needs to be localized or different based on the communities that you're working with?
+**amanda casari:** Open Source Community Africa — Africa is a continent, not a country, unlike some people in the US think, right? So as you've been doing this now for about three, four years of trying to figure out a continent-wide program, what have you learned about things that are standardized, or that you insist on doing the same and what needs to be localized or different based on the communities that you're working with?
 
 **Samson Goddy:** You just said to yourself, Africa is a continent, where it's a very unique continent. In a way — because why is it a continent and that could be comparable to Europe, you know, to Asia or to, to both North and South America and other continents... that I might not remember. Now, trust me, I used to be a good student at some point!
 
-**Amanda Casari:** Antarctica!
+**amanda casari:** Antarctica!
 
 **Samson Goddy:** Yes, yes. Somewhere, somewhere, right.
 
@@ -132,7 +132,7 @@ What I normally do is to go to an open source project, because I'm one of the pr
 
 ## The immediate impact of the Open Source Festival
 
-**Amanda Casari:** What are you most excited about for the next few years — from the work you've been building up to at this point, and where you're imagining things to go?
+**amanda casari:** What are you most excited about for the next few years — from the work you've been building up to at this point, and where you're imagining things to go?
 
 **Samson Goddy:** Yeah, so I think one of the things I saw over time, I mean, I've seen it from a, from a smaller standpoint, and from someone that can be pretty hard on myself to know when I'm successful or not, was when I did the (Open Source) Festival for the first time because that was my biggest gallery locally that I planted myself alongside my colleagues from all over the continent.
 
@@ -142,7 +142,7 @@ Then the interesting thing about why I think, you know, we're seeing these chang
 
 I think that with what I've been able to do, I have been seeing a lot of impacts, you know, people send me DMs and telling me, "Hey, I listen to your talk", or "I'm part of this community that you referred me to, and now I'm this." There's a bunch of developers in advocacy, a bunch of people working for, like FAANG companies, working at Google, working on a bunch of companies that oh, like, five years ago was kind of a joke to them. When I told them, “Hey, you could work at Facebook! “, and they were like “Me?? Work at Facebook???” This is just a funny bunch of conversations where things are every single day now, on Twitter, I just go and start putting congratulations every time on Twitter because there's someone leaving the country to a new country to join a new job, or working remotely and all that stuff. So I think that they've had a huge impact when it comes to optimizing for people to see how they can self grow, without having to like, go through some bunch of roadblocks.
 
-**Amanda Casari:** Yeah, I remember. I remember going to Nigeria for the first time for the Festival, which I'm so glad that I made the decision to do that before everything locked down. And we had, you know, in all the airports — like the US was at the time and early 2020 was like, “Oh, yeah, we're fine.” And then, as soon as I leave the country, it was medical forms and fever checks and hand sanitizer in all of the airports because there was an entirely different expectation of what was happening in the world.
+**amanda casari:** Yeah, I remember. I remember going to Nigeria for the first time for the Festival, which I'm so glad that I made the decision to do that before everything locked down. And we had, you know, in all the airports — like the US was at the time and early 2020 was like, “Oh, yeah, we're fine.” And then, as soon as I leave the country, it was medical forms and fever checks and hand sanitizer in all of the airports because there was an entirely different expectation of what was happening in the world.
 
 I remember, your team was working so hard for this really large event, that grew, I would say, what, two or three times bigger than you expected it to, right, with all these people together. And then afterwards, I know, was probably in recovery mode for a little while. I flew back to the States, and as soon as I flew back, everybody went into to lockdown.
 
@@ -154,7 +154,7 @@ So just by talking about it, and even interestingly, like, one of the things tha
 
 ## Growing a new nexus of open source leadership
 
-**Amanda Casari:** I also love how — not just the professional paid growth — but it also seems like a lot of the folks who you introduced me to, and who I met, there's also been this really wonderful change in everybody's interaction in leadership positions. You know, you and I had this conversation early on, that it wasn't just a billion users, your goal wasn't even a billion developers but also fundamentally changing who has a voice and who gets to be a leader, not only in technology, but in open source ecosystems.
+**amanda casari:** I also love how — not just the professional paid growth — but it also seems like a lot of the folks who you introduced me to, and who I met, there's also been this really wonderful change in everybody's interaction in leadership positions. You know, you and I had this conversation early on, that it wasn't just a billion users, your goal wasn't even a billion developers but also fundamentally changing who has a voice and who gets to be a leader, not only in technology, but in open source ecosystems.
 
 **Samson Goddy:** I think that was now the exact same thing that we were trying to optimize within the conference — bring in people like yourself and people in the industry that have done amazing work, and then, also, people listen to people that look like them, for people that care about the racial side. I'm a very generic person. But there's a lot of things that people care about. We listened, you know? We did a lot of polls about “Why would you care about coming to the conference? Why would you want to come to sit with us for two days? We'll listen.”
 
@@ -166,7 +166,7 @@ Creating that system and saying, “Okay, you can actually speak out”, you kno
 
 ## The joy of impact through uplifting others
 
-**Amanda Casari:** So, what are you most proud of from your work in open source so far?
+**amanda casari:** So, what are you most proud of from your work in open source so far?
 
 **Samson Goddy:** I would say, impact. Impact in terms of I think, judging from when I started, and I think where I am, as of right now, I think every single thing that I was consciously trying to optimize for is to say, “How do I go in here? And how do I make the most impact?” Most of the time, sometimes, it could be unfair to me, because I have to give up a lot of things to do that. Sometimes we could be talking from a selfish standpoint, but then the most important thing is to have to see the human capital, especially in the continent, trying to see the improvement. Those are the things that gives me joy.
 
@@ -174,7 +174,7 @@ I remembered a lot of things that I had to go to, in order to like, run some eve
 
 ## On paths not taken
 
-**Amanda Casari:** The flip side of that, Samson — this might be a very personal question — is what is your biggest regret?
+**amanda casari:** The flip side of that, Samson — this might be a very personal question — is what is your biggest regret?
 
 **Samson Goddy:** Interesting. I think my biggest regret would be — interesting. So I look at two things that I think might honestly be regretting now is I've always optimized to be or maybe something I could do afterwards, but I've always wanted to teach in a university setting. It's always something I will be curious of, because that's how I started my career.
 
@@ -184,17 +184,17 @@ But I think, for me, having to keep this to myself for a very long time to reali
 
 Because I've looked back on a lot of options that I would have taken, going into corporate jobs, taking jobs. You know, I remember if I, there was a company that was trying to hire me, pre-OSCA, fast. I remember, if I did take that job at that time, I don't think OSCA would have been happening and then that would have had a different impact. I wouldn't be where I am today. So there's a bunch of things that I look at and just see it as like, “Okay, that's life. It's life.”
 
-**Amanda Casari:** I saw this movie one time, where it was like, the super low budget version of a time travel movie. In order for somebody to time travel, they went to a closet, and thought about it. But it was interesting that it was more of a plot device that I remember. It was more to bring up the conversation that there are pivotal moments in your life, that if you go back and change something really before then like your whole life is different afterwards. Right? So this person had to really make these decisions around some pivotal moments that they wouldn't want to change in the future.
+**amanda casari:** I saw this movie one time, where it was like, the super low budget version of a time travel movie. In order for somebody to time travel, they went to a closet, and thought about it. But it was interesting that it was more of a plot device that I remember. It was more to bring up the conversation that there are pivotal moments in your life, that if you go back and change something really before then like your whole life is different afterwards. Right? So this person had to really make these decisions around some pivotal moments that they wouldn't want to change in the future.
 
 **Samson Goddy:** Exactly.
 
 ## The balance of humility and sharing your work
 
-**Amanda Casari:** And it sounds like you have at least one of those. I'm curious, is there anything else that would stand out? In your mind, not just for you, but maybe for open source in general, as like, this is something that, you know, has changed the way open source looks now and the way that it's going to look in the future?
+**amanda casari:** And it sounds like you have at least one of those. I'm curious, is there anything else that would stand out? In your mind, not just for you, but maybe for open source in general, as like, this is something that, you know, has changed the way open source looks now and the way that it's going to look in the future?
 
 **Samson Goddy:** Yeah, um, so I think, is this like, on the regret side? Or is it more of like the optimism for the future? I'm not sure what the question is.
 
-**Amanda Casari:** Yeah. So I think just in general, it sounds like there's been like, when we talked about regrets, or we talked about, like things you're proud of, or your journey so far, or what's inspired you. Using these, like, key decisions, key moments that you can tie things back to even regrets? You're like, “Okay, I regret this. And I know that if this was different, I wouldn't have done this thing. And if this thing was different, oh, it never happened.”
+**amanda casari:** Yeah. So I think just in general, it sounds like there's been like, when we talked about regrets, or we talked about, like things you're proud of, or your journey so far, or what's inspired you. Using these, like, key decisions, key moments that you can tie things back to even regrets? You're like, “Okay, I regret this. And I know that if this was different, I wouldn't have done this thing. And if this thing was different, oh, it never happened.”
 
 So taking a step back from your experience, and from the specific communities you've been working with, as you think about open like global open source in general, or open source with your experience with the African community — I know you do work with Sustain and OSI — but is there anything that kind of pops out for you as to like, oh, yeah, I remember this one thing happened, and then the whole community was talking about it. Have — either you do or do not — have a strong opinion about it. It's totally cool. But like, what stands out in your mind is like a pivotal moment or something that's happened, that you think is influenced the way open source is now or will be in the future?
 
@@ -212,7 +212,7 @@ So there was a lot of competition and, and that also helped them to like project
 
 ## Share early, speak on other’s behalfs
 
-**Amanda Casari:** Awesome. Yeah, and I, I'm so sorry, that we only actually have about a few minutes left. And so before we have to end, I first want to ask — Do you have any parting thoughts that you would want to put out into the world as a part of this discussion?
+**amanda casari:** Awesome. Yeah, and I, I'm so sorry, that we only actually have about a few minutes left. And so before we have to end, I first want to ask — Do you have any parting thoughts that you would want to put out into the world as a part of this discussion?
 
 **Samson Goddy:** Share as early as you can actually. To be honest, I think I see the power of sharing — the power sharing also gives good powers of network, because the more you talk about what you do, because again, this is the Internet age, maybe would have been a little bit different if I was born pre-Internet age. Luckily, I didn't. So that would have been much harder for me.
 
@@ -220,6 +220,6 @@ But I feel like you know, the internet age and the way people are using social m
 
 That's one of the things that does in this case is: making sure that people advocating for you behind doors, like a friend of mine wrote an article saying “Who is speaking on your behalf?” People can speak on your behalf when you're not talking about yourself. Right. So I think that's a really interesting one.
 
-**Amanda Casari:** Awesome. Yeah. I love that idea of not just not just sharing your story, but also sharing other people's stories when they're not right in front of you. Yeah, yeah. Well, thank you, Samson, so much for joining the conversation today. It was awesome to hear you talk about so many things I we hadn't talked about before. Yeah. Thanks for joining us.
+**amanda casari:** Awesome. Yeah. I love that idea of not just not just sharing your story, but also sharing other people's stories when they're not right in front of you. Yeah, yeah. Well, thank you, Samson, so much for joining the conversation today. It was awesome to hear you talk about so many things I we hadn't talked about before. Yeah. Thanks for joining us.
 
 **Samson Goddy:** Yeah, thank you. Thanks for having me. I'm really excited. I'm always happy to talk about, you know, Africa and open source. I mean, love the fact that I have always been in open source and looking forward to see more collaboration going forward. Thank you.

@@ -19,9 +19,9 @@ tags:
 - Disability
 - Inclusion
 ---
-**julia ferraioli**: Hello, everyone. My name is julia ferraioli, my pronouns are she/her, and I am based in Seattle, Washington. I'm recording this for Open Source Stories. And I will pass it off to Amanda to introduce herself.
+**julia ferraioli**: Hello, everyone. My name is julia ferraioli, my pronouns are she/her, and I am based in Seattle, Washington. I'm recording this for Open Source Stories. And I will pass it off to amanda to introduce herself.
 
-**amanda casari**: Hi, my name is amanda casari. I am speaking with Julia and Nic today. And I'm recording this conversation for Open Source Stories from northern Vermont, in New England, USA. And it's still nice and snowy out here.
+**amanda casari**: Hi, my name is amanda casari. I am speaking with julia and Nic today. And I'm recording this conversation for Open Source Stories from northern Vermont, in New England, USA. And it's still nice and snowy out here.
 
 **julia ferraioli**: And Nic, do you want to introduce yourself?
 
@@ -95,7 +95,7 @@ The other thing that comes to mind, was a discussion I had earlier today, is a l
 
 # Encouraging a culture of accessibility
 
-**amanda casari**: Because Julia and I talk a lot about social systems and sociotechnical systems and processes…I know it's hard to name an ideal project who's done this well, but I am wondering, Nic, is there any social norm or cultural expectations that people have of each other in the communities where you do see this prioritized, where you do see accessibility as part of responsible software and open source practices?
+**amanda casari**: Because julia and I talk a lot about social systems and sociotechnical systems and processes…I know it's hard to name an ideal project who's done this well, but I am wondering, Nic, is there any social norm or cultural expectations that people have of each other in the communities where you do see this prioritized, where you do see accessibility as part of responsible software and open source practices?
 
 **Nicolas Steenhout**: I [am] involved these days a lot more in the accessibility community than the open source community. In part because I've been so burned out by open source seeing accessibility as a feature that maybe we will consider implementing, but we'll leave it to third party plugins.
 

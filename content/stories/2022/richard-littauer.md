@@ -21,7 +21,7 @@ tags:
 ---
 
 **julia ferraioli:**  
-Hi, everyone. My name is Julia Ferraioli. My pronouns are she/her, and I am here today on a very, very rainy afternoon in Seattle, recording this for Open Source Stories. And I'm joined today by Richard Littauer. And I am really excited to chat with you, Richard. Do you want to introduce yourself a little bit?
+Hi, everyone. My name is julia ferraioli. My pronouns are she/her, and I am here today on a very, very rainy afternoon in Seattle, recording this for Open Source Stories. And I'm joined today by Richard Littauer. And I am really excited to chat with you, Richard. Do you want to introduce yourself a little bit?
 
 **Richard Littauer:**  
 Sure. I'm excited to be here as well. Thank you for inviting me. This is exciting. I just said that. I just said that. Yeah, I'm Richard, I do a lot of stuff. I wear a lot of hats in open source. I'm a maintainer. I'm a coder. I'm a contributor. I'm a designer. But most people probably know me as that guy who runs the Sustain podcast, where I talk about sustaining open source. I also help out with other Sustain stuff like organizing the working groups and the conferences. And I also work at Open Source Collective, where we're trying to figure out how to work together and make a community of the 4000 projects that are hosted there on Open Collective, which is cool. And I also host another community on digital infrastructure. And some people also know me as The Bird Dude. I have an open source website called Birding in Vermont. So those are the hats that people know me under, I think most of the time.
