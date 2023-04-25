@@ -16,11 +16,11 @@ tags:
 - Community
 - Safety
 ---
-**Amanda Casari**: My name is Amanda Casari, my pronouns are she/her. Today is November 18. And I'm speaking with Elana Hashman, who I originally met, I think PyCon, maybe in like 2019, because we started nerding out together over open source and its complexities. We are recording this conversation for Open Source Stories. I am in an office in New England, which is lit much better now than it was a few weeks ago. And when I think about connecting with people in open source, I tend to think about talking with people not just using social media, but also trying to find where are the lists and communication platforms that people work on? Because they all seem to be so different and have their own cultures and conversations. And it's interesting to see the way that different people communicate on different platforms. So Elana, would you mind introducing yourself, please?
+**amanda casari**: My name is amanda casari, my pronouns are she/her. Today is November 18. And I'm speaking with Elana Hashman, who I originally met, I think PyCon, maybe in like 2019, because we started nerding out together over open source and its complexities. We are recording this conversation for Open Source Stories. I am in an office in New England, which is lit much better now than it was a few weeks ago. And when I think about connecting with people in open source, I tend to think about talking with people not just using social media, but also trying to find where are the lists and communication platforms that people work on? Because they all seem to be so different and have their own cultures and conversations. And it's interesting to see the way that different people communicate on different platforms. So Elana, would you mind introducing yourself, please?
 
 **Elana Hashman**: Yeah, sure. My name is Elana Hashman. You can use she or her pronouns for me, or they is also fine. I've been using open source since I was a teenager, I made my first contribution to open source in 2014. So I've been working in open source for almost a decade, I've been using it for almost two decades.
 
-**Amanda Casari**: When you think about interacting with people in open source, where do you go? And how do you interact with people?
+**amanda casari**: When you think about interacting with people in open source, where do you go? And how do you interact with people?
 
 # Communication and culture
 
@@ -28,7 +28,7 @@ tags:
 
 In any case, I hope to see people in-person and I might be doing that at a conference – at least in a couple of the larger projects that I've been in where I might find people, like having met you at PyCon.
 
-**Amanda Casari**: That is a lot of different places to keep track of conversations, cultural threads, community norms. Have you found that there's large differences when you're working with different communities in the different ways that they communicate, or is it kind of like pretty much the same across?
+**amanda casari**: That is a lot of different places to keep track of conversations, cultural threads, community norms. Have you found that there's large differences when you're working with different communities in the different ways that they communicate, or is it kind of like pretty much the same across?
 
 **Elana Hashman**: I would say that there are pretty big cultural trends. Almost every platform has some form of asynchronous chat communication. That might be IRC channels. That might be Matrix, that might be Discord, that might be Slack, could be any number of these things, but some sort of way to send each other real-time chat messages. And then most projects have some sort of repository for their source code – that might be GitHub, that might be GitLab, that might be self-hosted. That might be a clone of GitHub, like Gittea, that might be -- Debian used to run like a clone of...I don't even know what it was called -- it was called Alioth. It's been long-retired. And I was very happy when it was retired instead for what we call Salsa, which is a GitLab instance.
 
@@ -36,7 +36,7 @@ Those platforms give you tools for issue tracking, which when I first got starte
 
 Fundamentally, there are kind of all of these big things all projects have in common. They have asynchronous chat, they have some kind of mailing list, sorry, they have synchronous chat. They have asynchronous mailing lists where, you know, people might post messages or announcements, they have a place where the code is stored. They have a place where you can report issues and triage those things, and so on and so forth. They have documentation for the project. But then what those platforms look like for every project, those are where you tend to see the differences. If you learn these are the major things that I need to know for how to communicate within the project, the tools themselves don't really matter that much.
 
-**Amanda Casari**: So you mentioned you first got started with open source in 2014. Did you know where to find everything when you first started working?
+**amanda casari**: So you mentioned you first got started with open source in 2014. Did you know where to find everything when you first started working?
 
 # Commit histor{y|ies}
 
@@ -46,15 +46,15 @@ He asked me, "what brings you to the open source table?" Well, I've been using a
 
 I attempted to make my first bug fix that day. And it turned out, it was way more complicated than initially at first glance, so I couldn't actually submit the patch before I had to run to the airport. But we kept in touch, and I joined all of their IRC channels, and I ended up becoming their Google Summer of Code student in 2014. So this was Grace Hopper in 2013, I think. And that was really exciting. And I effectively became the maintainer of OpenHatch, probably one of the only major active maintainers for a couple of years. Maybe not quite that long, but certainly until I graduated and took a full time job. And that was really exciting. And once I made the first contribution, everything after that was just, “Oh, I already know how to do this stuff. So I'll just need to like, you know, figure out what this particular project does for these particular things”.
 
-**Amanda Casari**: That's awesome. I feel like so many people that I really like, have a Carol Willing story, as an amplifier, or booster or a welcome or just…there's always some connection of, how did your journey in open source continue? And at some point along the way, it's oh, well, Carol was there.
+**amanda casari**: That's awesome. I feel like so many people that I really like, have a Carol Willing story, as an amplifier, or booster or a welcome or just…there's always some connection of, how did your journey in open source continue? And at some point along the way, it's oh, well, Carol was there.
 
 **Elana Hashman**: Carol is so wonderful, so wonderful. She has really been a guiding light, I think anything like that is sort of Python-related, she's there.
 
-**Amanda Casari**: Yeah, she's just such an amazing person who I feel like really looks at where people are, and tries to understand where you are and where you want to go, and not where her vision is for a dedicated path for anybody, which I always appreciate.
+**amanda casari**: Yeah, she's just such an amazing person who I feel like really looks at where people are, and tries to understand where you are and where you want to go, and not where her vision is for a dedicated path for anybody, which I always appreciate.
 
 **Elana Hashman**: I mean, Carol told me -- I struggled immensely with early career stuff and early open source stuff, and she just kept telling me "Elana, they're gonna keep trying to put you in a box, but you do not want to be put in a box. So, you just have to keep persevering until they will stop putting you in a box and then you'll be okay". And indeed, that seems to kind of be where things have gone.
 
-**Amanda Casari**: I feel like that's super solid advice for open source in general, is that the boxes that people try to put you in are just some kind of construct that you just really don't need to be fitting into in order to find it.
+**amanda casari**: I feel like that's super solid advice for open source in general, is that the boxes that people try to put you in are just some kind of construct that you just really don't need to be fitting into in order to find it.
 
 # Breaking out of the box
 
@@ -64,7 +64,7 @@ I had all of these skills, and I tried to find new grad jobs and these big compa
 
 As an engineer, I ended up taking a job initially as a software engineer. Before a year was up, I got moved into the operations team to write software as an operationally focused software engineer. I later went and worked as an SRE full time, and eventually became an SRE tech lead. And now I've switched back to writing software full time as an open source software engineer. The interesting thing, I guess, was going through that career, and what principal engineering looks like, is much closer to the things that I really wanted to do, right outside of university, but that wasn't an option given to me, because people simply don't have enough experience, you can't possibly do those things. Like we need you to do this one thing. And now I can do all of the things. So that has been very refreshing.
 
-**Amanda Casari**: So speaking of describing things that are challenging to encapsulate in one solid concept, how do you describe open source to somebody who's not familiar with it?
+**amanda casari**: So speaking of describing things that are challenging to encapsulate in one solid concept, how do you describe open source to somebody who's not familiar with it?
 
 # The promise of open source
 
@@ -74,13 +74,13 @@ I talked a little bit when I put together this talk for SeaGL about eight or nin
 
 That is what I think the promise of computing is right? I want to be able to get the computer to do the things that I don't want to so then I can go and spend the time on things that I do want to do.
 
-**Amanda Casari**: Do you think that description of open source... was that the way that it started? Or the way that you first experienced everything? Or is that an evolving process that's still continuing?
+**amanda casari**: Do you think that description of open source... was that the way that it started? Or the way that you first experienced everything? Or is that an evolving process that's still continuing?
 
 **Elana Hashman**: I think that there are so many people in the open source community, everybody is going to give you a different answer to that question. And I think that's a good thing. I don't think that there's one sort of single origin of the movement.
 
 I know that when I first started using open source software as a teenager, to me, they were always wonderful ideas that I had in my head. It's so incredible that I've been kind of locked down and at the mercy of the software, which I have to use, but I have no control over for so long. And now I get to use these things. I can change it and I can understand it, and I can see what it's doing. If you know, for example, it's sending creepy data about me that I don't want to be sent, I can tell it not to do that because I can look into the internals and I can see it's doing that. It was very empowering and especially as a teenager, I didn't have necessarily a lot of autonomy as a teenager, right? I lived in a suburb, I lived a pretty sheltered and closed life. And so that was one place that I could assert that sort of thing.
 
-**Amanda Casari**: How'd you get into open source when you first started using it? Was it handed to you on your laptop to begin with?
+**amanda casari**: How'd you get into open source when you first started using it? Was it handed to you on your laptop to begin with?
 
 **Elana Hashman**: A little bit? I didn't rewrite anything. Honestly, I didn't really write any working software until I went to university. I had tinkered a bunch. But there were just fundamentals that I could not get on my own, that were so opaque that I really needed to go and take a university CS class. I didn't understand that the command line even existed when I was a 12 year old reading books on how to compile your Java program. And I'm like, okay, I wrote all this text. And I double-clicked it, and it didn't work. Why isn't it working? Right? What does the 12 year old know about the command line having never touched one before? Someone's got to show that to you. Stuff like that is where I just got stuck.
 
@@ -88,7 +88,7 @@ I think the first thing that I used that was open source was Firefox. And I thou
 
 Dealing with software that, for example, would like to limit my access to things on the internet or limit my time to be able to access a computer (which were definitely things that I dealt with a lot growing up) that was kind of the opposite, and very liberating.
 
-**Amanda Casari**: Do you feel like that same promise of open source exists today? Or is it a different promise for you?
+**amanda casari**: Do you feel like that same promise of open source exists today? Or is it a different promise for you?
 
 **Elana Hashman**: I want it to. I think in a lot of cases it can be. I think the fundamentals are there. I think that a big difference between say, now and 2004 is back then, and it's sort of ironic almost even going back and looking at it, because Firefox was funded from a bunch of technology venture capital.
 
@@ -100,11 +100,11 @@ I was thinking about recently, a friend of mine was talking about a company that
 
 I also have a ham radio license. So that is also kind of near and dear to my heart, like what do we do when the internet goes down? The hams get deployed; I think that's what happens.
 
-**Amanda Casari**: Yeah, I think that's actually part of the protocol for it, right? It's thinking about when information systems that we rely on every day, are all of a sudden gone. What else can we do? How else do we connect?
+**amanda casari**: Yeah, I think that's actually part of the protocol for it, right? It's thinking about when information systems that we rely on every day, are all of a sudden gone. What else can we do? How else do we connect?
 
 **Elana Hashman**: Yeah, I'm unfortunately not an ARES member, although it's something that I thought of joining: the Amateur Radio Emergency Service. Those are the sorts of things that I think it could be really cool if we did this sort of thing in open source, we can build better communities together in these ways. And that promise is still there. But on the flip side, the systems that exist are still going to exist, like those power structures, that generally dictate the way that money will flow, or the way that the economy will proceed. Those structures are there. They seem somewhat insurmountable, like one has to earn their daily bread. But the divine right of kings was once considered immutable. And here we are, so...
 
-**Amanda Casari**: Yeah, it's fascinating to hear the conversation from you around fundamental infrastructure and systems, because especially on the projects that you name that you've worked on, so far, are core infrastructure projects for some very large systems, including systems that actually run a majority of the world. So as you've been working on these systems, and carrying this view of what's been happening in open source for a while now, I'm curious if you've seen any major shifts, like has there been a major event that's happened, which has fundamentally changed open source, like since that event in a systemic way?
+**amanda casari**: Yeah, it's fascinating to hear the conversation from you around fundamental infrastructure and systems, because especially on the projects that you name that you've worked on, so far, are core infrastructure projects for some very large systems, including systems that actually run a majority of the world. So as you've been working on these systems, and carrying this view of what's been happening in open source for a while now, I'm curious if you've seen any major shifts, like has there been a major event that's happened, which has fundamentally changed open source, like since that event in a systemic way?
 
 # Evolving social mores and standards
 
@@ -118,13 +118,13 @@ The other thing that I've seen in tandem with that is like holding bad people ac
 
 We saw in 2019, based on some of the really awful things that he wrote about, like Epstein and his associates, he was removed from the board of the FSF and from his presidential position, and then he was reinstated recently. I and a number of people organized a petition to say “no, like, this isn't okay, we need to hold people accountable for this behavior”. We can't just say enough time has passed, everybody's forgotten about it. We don't see any evidence that the people that he's harmed have had that addressed in a meaningful way. He cannot be in a leadership position, so long as he refuses to address these things. And I was really shocked at how much of the community mobilized behind us. I think there was a group of a dozen of us who organized this open letter. We had an outrageous number of signatures, I think 3000 signatures or something like that. We organized the whole thing on GitHub. So it was in and of itself, an open source project. And we had over a dozen translations contributed -- it was really great.
 
-**Amanda Casari**: You stopped taking signatures after 24 hours, right?
+**amanda casari**: You stopped taking signatures after 24 hours, right?
 
 **Elana Hashman**: There were so many, I think it was about a week. We were just totally, totally overwhelmed. And we also got to test GitHub's moderation tools; we took them to their limit. Because we soon discovered how much work it was going to be in order to ensure a good environment for people to be able to contribute. So we saw, for example, all sorts of brigading accounts, we had basically 24-hour people monitoring GitHub for abuse, and we had a one hour SLA. We had a team handing off amongst each other, no particular person had to deal with the whole thing or be the figurehead, and when people started to get stressed, we tapped them out. It was really exciting to be able to do something like that. To be able to organize all of these people together, we said “look like we've all been doing this thing. We want this to be a safe, welcoming environment, we need to hold people accountable for their behavior, whether or not they're really famous”.
 
 Similarly, not so much in the area of fame, but an individual who I will not name, Debian recently released a statement on because this individual has been harassing a very large number of project members very publicly, sometimes with calls to violence. That sort of thing just used to be tolerated within open source – like that was just the cost of doing business. I remember, I think Leonard Poettering, who's the author of systemd and a number of other utilities, originally, he was tweeting about all the death threats that he got for writing the software. I don't want to work in an industry where I throw something out there and I get death threats. That's totally unacceptable. But that was just considered to be the cost of doing business for so long. So I'm really glad that as open source welcomes more of the world into its circles, that we're seeing that sort of thing meaningfully addressed, and in ways that like a majority of people get behind it and we're not just leaving individuals out to dry to deal with that sort of harassment.
 
-**Amanda Casari**: Yeah, I think it's been wonderful to see even just the time that I've been involved in technology and open source the change of moving from people talking about what should and should not be done that is acceptable in an environment in a community, to creating structures in organization. Coming together with collective action to really fundamentally make those changes There was research done by actually one of my peers at UVM, a group of people found the best possible counter to organize hate speech is organized counter-hate speech. So the idea that you can't fragment when people are organized in a specific way and targeting people in a way that is hurtful and harmful as a community. Like you have to have that organization, that structure, and not just the power of numbers, but also a way to fundamentally counter that, so that they can't succeed and take over as a minority in an environment.
+**amanda casari**: Yeah, I think it's been wonderful to see even just the time that I've been involved in technology and open source the change of moving from people talking about what should and should not be done that is acceptable in an environment in a community, to creating structures in organization. Coming together with collective action to really fundamentally make those changes There was research done by actually one of my peers at UVM, a group of people found the best possible counter to organize hate speech is organized counter-hate speech. So the idea that you can't fragment when people are organized in a specific way and targeting people in a way that is hurtful and harmful as a community. Like you have to have that organization, that structure, and not just the power of numbers, but also a way to fundamentally counter that, so that they can't succeed and take over as a minority in an environment.
 
 # Collective action at scale
 
@@ -138,7 +138,7 @@ I don't want people to have to work in an industry where, if you want to say, "h
 
 It's so difficult,  for example, trying to explain it to my parents, because they're just like, "how do these people even know who you are? You're not a celebrity, right? You're not Lil Nas X or something, right? How do they even know you exist?" We as a society, we have this collective idea, okay? Maybe celebrities, that sort of thing that happens, but they're pretty wealthy and they have teams that deal with this. That's kind of a solved problem for them. People don't think of normal, boring people having to deal with hate mobs as much. And it's very, very common within open source. I also think to some extent, like journalism and other fields that involve being very publicly facing.
 
-**Amanda Casari**: When you think about what we ask from people these days, in terms of that public-facing, the ability to become a target of a group or a movement, because of the work that you're doing, like you said, in a way in a system that is designed to be visible and transparent, are we asking too much of people in that visibility and that transparency? Or do we just need to do a better job with either the systems we create or the culture that we're keeping stable?
+**amanda casari**: When you think about what we ask from people these days, in terms of that public-facing, the ability to become a target of a group or a movement, because of the work that you're doing, like you said, in a way in a system that is designed to be visible and transparent, are we asking too much of people in that visibility and that transparency? Or do we just need to do a better job with either the systems we create or the culture that we're keeping stable?
 
 # The visibility conundrum
 
@@ -152,7 +152,7 @@ Fundamentally, I don't think that we have good answers right now. But certainly,
 
 Maybe the real answer is, if we want to live in this open source utopia, wherein fundamental visibility isn't a problem, because the ideal case is going to happen. Maybe you might have bad relationships with some people that you interact with. But it's not going to result in [behavior where] you can't live your normal life because you said something one time, and now you are targeted by hate campaigns for the rest of your adult life. There are a number of people in open source who have had that happen to them. I'm very lucky. There's just probably a few really unflattering and very frightening threads about me on 4chan, and outside of that, really relatively unscathed.
 
-**Amanda Casari**: That's a lot, what is your hope for the future of open source? What keeps you here?
+**amanda casari**: That's a lot, what is your hope for the future of open source? What keeps you here?
 
 # The projected promise of open source
 
@@ -164,10 +164,10 @@ I don't know if I'm going to be doing open source in 20 years from now, I don't 
 
 I don't know, I just want to see us all live in a better world where a lot of the problems that we're currently encountering, like fundamental problems with climate change, a global pandemic, massive systems of inequality, I want to be able to address those things. Maybe the software is a way to get there, maybe not. I don't know. Computers certainly touch almost every aspect of our lives. So insofar as that's true, I think open source will help us get there. And I think that many of the collective organizing methods through open source will also help us get there.
 
-**Amanda Casari**: Awesome. I'm so sad that actually, we're almost out of time. I just want to ask, Do you have any other parting thoughts today for our listeners?
+**amanda casari**: Awesome. I'm so sad that actually, we're almost out of time. I just want to ask, Do you have any other parting thoughts today for our listeners?
 
 **Elana Hashman**: Oh, that's a great question. I would say to our listeners, if I could dispel one myth about open source for you, it's the idea of this 10x developer or a BDFL – fundamentally, individuals don't make projects. Even if an individual goes and builds a project, that project doesn't have a community spring out of nowhere ex nihilo; it has people that are using that project and contribute back. This didn't work in this way, and this didn't work in that way. Testing and feedback. And then those things get integrated. You get this bigger, better system as a result. You cannot be famous, so to speak, unless you have people that are your fans. To some extent that is like a mutual relationship, even if a parasocial one. And I encourage people to not focus so much on that and focus on being a good individual and focusing on the particular individuals within open source that are getting the things done and working together with them. Because I think that's the only way that you're going to be effective. A lot of people think that there's some sort of ladder or hierarchy. And in my experience, the only hierarchy is whether or not you're doing the work, so just do the work.
 
-**Amanda Casari**: Fantastic, thank you so much for talking with me today. It's been a delight. And I'm so excited to share this with the world.
+**amanda casari**: Fantastic, thank you so much for talking with me today. It's been a delight. And I'm so excited to share this with the world.
 
 **Elana Hashman**: Thank you so much. I really appreciate you having me on the show.

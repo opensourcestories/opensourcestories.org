@@ -1,11 +1,11 @@
 {
-    "Julia": {
+    "julia": {
         "name": "julia ferraioli",
         "roles": "Co-founder",
         "profile": "julia.png",
         "bio": "julia ferraioli is a member of the open source software community, focused on open source compliance, sustainability, tooling, and research. Her background includes research in machine learning, robotics, HCI, and accessibility. julia finds energy in developing creative demos, creating beautiful documents, and rainbow sprinkles. She's also a fierce supporter of LaTeX, the Oxford comma, and small pull requests."
     },
-    "Amanda": {
+    "amanda": {
         "name": "amanda casari",
         "roles": "Co-founder",
         "profile": "amanda.png",

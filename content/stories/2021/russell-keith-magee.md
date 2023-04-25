@@ -16,67 +16,67 @@ tags:
 - Django
 - Community
 ---
-**Julia Ferraioli**: My name is Julia Ferraioli, and my pronouns are she/her. Today is October 5 2021. And I'm speaking with Russell Keith-Magee, who is a committed technologist, core developer on the Django project, and the founder of the beware project. I'm recording this conversation for open source stories in a rather Spartan office that I still haven't decorated after moving in. And my first memory of a computer is actually playing Wheel of Fortune on MS DOS, if you can believe that. That was a while ago. And Russell, would you like to introduce yourself?
+**julia ferraioli**: My name is julia ferraioli, and my pronouns are she/her. Today is October 5 2021. And I'm speaking with Russell Keith-Magee, who is a committed technologist, core developer on the Django project, and the founder of the beware project. I'm recording this conversation for open source stories in a rather Spartan office that I still haven't decorated after moving in. And my first memory of a computer is actually playing Wheel of Fortune on MS DOS, if you can believe that. That was a while ago. And Russell, would you like to introduce yourself?
 
 **Russell Keith-Magee**: Yes. Hi, my name is Russell Keith-Magee. I am speaking today from Perth, Western Australia which is Whadjuk Nyoongar Boodja; the Whadjuk Noongar are the traditional owners of the land where I'm recording from.  Because of virtue of time zones it is actually the sixth of October where I'm recording -- timezones how do they work? My first memory of a computer is actually my father bringing home an original Apple Macintosh. My father was very keen on experimenting with new and wacky technology and so we had a Commodore64 in the house very very early.
 
 But before that, before we had that one we did he did have for a trial for a weekend an original Macintosh that he brought home and I remember vividly discovering -- no idea what I was going to do with this thing -- but I discovered there was a paint program and you could draw and you could draw things with paint. But if you if you've got the fattest brush, and you colored in the entire screen entirely black, and then you click reset, it would go through like a couple of shades of like gray scale as the color went away. I don't know why that blew my mind that you could do that. It's sitting in my father's office watching his fingers to shave go through phases of gray amused seven year old me I guess.
 
-**Julia Ferraioli**: I seem to remember effects like that myself, as well as manually starting a screensaver. That of course, if you've left running too long, it would burn into the monitors.
+**julia ferraioli**: I seem to remember effects like that myself, as well as manually starting a screensaver. That of course, if you've left running too long, it would burn into the monitors.
 
 **Russell Keith-Magee**: Yes.
 
 ## On compassion
 
-**Julia Ferraioli**: So thank you for joining me today. I'm really excited to chat with you. And I want to just get a little bit of an idea about your background. Let's dig into the really light weight stuff. Like&hellip;what are some important lessons that you've learned in your life?
+**julia ferraioli**: So thank you for joining me today. I'm really excited to chat with you. And I want to just get a little bit of an idea about your background. Let's dig into the really light weight stuff. Like&hellip;what are some important lessons that you've learned in your life?
 
 **Russell Keith-Magee**: I guess it's kind of been an ongoing lesson to learn that there is almost no situation where having compassion and empathy for the people you're dealing with, that will not serve you well. In my youth, I can remember being a lot more angry and frustrated at all these other stupid people in the world who just don't understand. As I've gotten older, I have gradually and sometimes very painfully learned that it's not that everyone else in the world is stupid. It's just that everyone else in the world has a different set of experiences and a different set of knowledge and a different set of backgrounds, a different set of expectations. More often than not what is perceived as this person being stupid, is just their set of expectations coming into the situation are radically different to your own. Pulling yourself out of your own head to see where they are coming from will one not only make dealing with the world a lot less frustrating for you but can often help you get to whatever shared goal you're trying to get to a lot easier.
 
 Just by virtue of its if you understand where someone's coming from, it's a lot easier to present the information in a way they're going to be able to understand or absorb or recognize whatever it is that you're saying. That's not to say that it isn't incredibly frustrating sometimes when you're still in conversations, but it has helped me manage my frustration a lot more to realize where other people are coming or not coming from a place of trying actively to frustrate me. It's just an accident of the world being a very large and complex and intriguing place.
 
-**Julia Ferraioli**: That's a fantastic lesson. I often tend to think of it as people are operating with different environment variables set.
+**julia ferraioli**: That's a fantastic lesson. I often tend to think of it as people are operating with different environment variables set.
 
 **Russell Keith-Magee**: Yes, yes. And there are many, many of them and they're not at all documented.
 
-**Julia Ferraioli**: No!
+**julia ferraioli**: No!
 
 **Russell Keith-Magee**: And quite often they are even aware of the environment variables they're running under, which is part of the frustration, I guess. But yes, being aware of those environmental variables is helpful.
 
 ## First experiences with open source
 
-**Julia Ferraioli**: Excellent. So you are very involved in the open source ecosystem. So how would you describe open source to someone unfamiliar with it?
+**julia ferraioli**: Excellent. So you are very involved in the open source ecosystem. So how would you describe open source to someone unfamiliar with it?
 
 **Russell Keith-Magee**: I guess I would describe it as a collective project where a group of people work together to build technological solutions to a problem. So that by sharing, they don't repeat each other's work. And they can learn from each other's lessons. If you're working on a system by yourself, there's a limit to how much you can do by yourself. If even two small groups are working together, there is a limit to how much they can achieve on their own. But if everybody is working together and sharing together, you end up with a more robust, more complete solution, because you have more input into what is being developed and what is being built.
 
 So it is, in some regards, the antithesis of what sort of modern capitalism is trying to teach us all to do, which you know that idea that you find something that you're good and you make sure you corner the market so that nobody else can do it. It is this idea that if we all contribute together, we all give a little bit towards the project. Everyone moves a little bit further as a result.
 
-**Julia Ferraioli**: Kind of this collective good concept.
+**julia ferraioli**: Kind of this collective good concept.
 
 **Russell Keith-Magee**: Yeah.
 
-**Julia Ferraioli**: So what was your first encounter with open source? How did you first become aware of it?
+**julia ferraioli**: So what was your first encounter with open source? How did you first become aware of it?
 
 **Russell Keith-Magee**: I became aware of open source before the word open source was even a thing, so my first exposure was in the mid-90s. I was messing around with a computer and someone did the "Hey, hey, you know, have you have seen this thing called Linux?", and passed me a great big stack of floppy disks that I could install on my computer. And there's this whole other operating system that was like completely different from Windows. At that point, free software was a thing. And like you usually do, you read up all the code around or the documentation and the manifesto statements that are around free software. And this was kind of fascinating idea that this is this piece of hardware, this printer was frustrating. So people liberated the software for it so they could program their own printer like, yeah, that that sounds great. How do I get me more of that?
 
 That was sort of the start of my university career by the time I was, in my honors years, the open source movement as we now understand -- the OSI [[Open Source Initiative](https://opensource.org)] and groups like that -- were starting to formalize what they were saying, under a new narrative about what that would mean, that wasn't quite in the extreme ends of what the Free Software Foundation was pushing but in a similar kind of vein.
 
-**Julia Ferraioli**: Gotcha. You talked about Linux, but was there a first piece of open source software that really got you bought into the whole thing?
+**julia ferraioli**: Gotcha. You talked about Linux, but was there a first piece of open source software that really got you bought into the whole thing?
 
 **Russell Keith-Magee**: I guess, if I had to put my finger on it, I would say it was probably the GNOME Desktop, again, in that kind of late 90s-ish timeframe, when I should have been spending a lot more time working on my thesis, but it was just being intrigued by this idea of a desktop that you could build and configure and change things and modify. It was still very, very early stages, and so a lot of things broke, a lot of things didn't work., and it was exposing me to new new ideas and new pieces of technology. And reading up all of the design documents of the people who were actively working on it was kind of this this idea that "Yeah, I can, I can help them". Not necessarily that I was successful, but, at least in theory, I could help them do what they're doing.
 
 The only real restriction was my ability to narrow down a single thing that I could work on and contribute to the overall project.
 
-**Julia Ferraioli**: So at that time, were you already coding proficiently, or were you...
+**julia ferraioli**: So at that time, were you already coding proficiently, or were you...
 
 **Russell Keith-Magee**: Proficiently is an interesting description, so I learned to program because I had this introduction to programming when I was eight or nine, when dad brought home the Commodore64. So I had been programming in various capacities. I went to university to do physics as an undergrad. I was picking up lots of like all the computing units that I could on the side of my honors ended up being in computer science.
 
 So I could code, I was definitely not at a level that was building entirely new pieces of a desktop system, because there was so many pieces of that puzzle that I didn't understand yet. But I had certainly had aspirations. I think I did, at one point submit a pull request to some obscure part of GTK, which I think as I remember, rightly, the review came back with sort of raised eyebrows, "What exactly are you trying to do here?" So you know, I wasn't wasn't definitely wasn't successful on my first attempt.
 
-**Julia Ferraioli**: I can definitely relate, having had some of those same review comments, in my own experience.
+**julia ferraioli**: I can definitely relate, having had some of those same review comments, in my own experience.
 
 ## Getting involved in Django
 
-**Julia Ferraioli**: So what was the first open source project that you really got involved in?
+**julia ferraioli**: So what was the first open source project that you really got involved in?
 
 **Russell Keith-Magee**: That is Django, which kind of, sort of very much set by direction for the next 15 years of my career, and in some regards life. Although I knew open source, and I liked open source, my involvement in the community was was very, "I've got my own little thing that I want to tinker around with". And I've got this grand idea of this thing that I'm going to build that I've variously tinkered on for 20-something years at this point. It's the projects that will never ever get built. By this point, fully aware that my time will never allow me to build it. But you know, it's a lovely dream.
 
@@ -112,7 +112,7 @@ I begged my my line manager, (I had changed companies move to a different compan
 
 He was the first person I've met that I've been working with at that point for two and a half, three years, and started a beautiful friendship, and then met the rest of the team over the course of the next two days of the conference.
 
-**Julia Ferraioli**: Was it weird, meeting people in person after interacting with them online for so long?
+**julia ferraioli**: Was it weird, meeting people in person after interacting with them online for so long?
 
 **Russell Keith-Magee**: Very weird. And I guess that was kind of my first real exposure to the idea that the person you are on the internet is not the person you are in person? Or it isn't necessarily. I think the conference hotel that we were at, had this sort of weird little social room, which is set up with the HiFi lounge, and all kinds of weird stuff in there.
 
@@ -120,17 +120,17 @@ But I met a couple of people in there one night, and one woman in particular, Ba
 
 It was an interesting little head check that the internet and who you are in person, can be very, very different. Any other thing is also keep in mind that this is 2005/2006. I did not at that point, have a broadband internet connection. I was doing a lot of this stuff on a very, very slow ADSL. But it was very slow ADSL. So video chat -- it could be done, but it wasn't done a lot. "Just jump on a zoom call" was not something you would do. It was all being done by text. It was very much the emails you wrote was who you were, unless you actually physically knew someone in person.
 
-**Julia Ferraioli**: I think that even though we have Zoom and video calls, I think people still run into that disconnect, that cognitive dissonance between who you are in person and who you are online, because you can edit.
+**julia ferraioli**: I think that even though we have Zoom and video calls, I think people still run into that disconnect, that cognitive dissonance between who you are in person and who you are online, because you can edit.
 
 **Russell Keith-Magee**: Yeah, you can edit stuff. There's also that there is, this is one of the things I've been feeling particularly around sort of COVID as an experience is that's forced me to be in Perth, like I'm not going to anywhere, all the conferences that I normally go to. And online conferences become weird because if I go to an online conference in the United States, they're winding down at the end of the day, and it's six o'clock in the morning for me.
 
 So they're kicking back and they've got a drink in one hand, and they’re being nice and social and I'm wolfing down cereal. And I guess I could mix that with whiskey, but probably not a good idea. And so there's a whole different -- where you are in the day matters a whole lot around the way that you interact with other people and sort of whether you're being social or whether you're being formal or whether you're like we're trying to formally follow an agenda or were just kicking back and telling stories and that's a really hard thing to navigate when you are so geographically isolated, and timezone isolated in my case as well.
 
-**Julia Ferraioli**: Absolutely. And people are often in different mindsets at different times of the day. Makes total sense.
+**julia ferraioli**: Absolutely. And people are often in different mindsets at different times of the day. Makes total sense.
 
 ## Open source contractualism, identity, and burnout
 
-**Julia Ferraioli**: So what would you like to talk about today?
+**julia ferraioli**: So what would you like to talk about today?
 
 **Russell Keith-Magee**: I guess is there's the story that I've just told about getting involved in open source is kind of the origin story. Which which is how I got into open source and how I got to be involved in the Django project and that has absolutely shaped my life and the meta story is there -- is it honestly like I guess there's the Gary Larson comment from way back when or maybe from The New Yorker "on the internet no one knows you're a dog" was my life for a long time it's like I'm I am this person on the internet from from out in the middle of nowhere and the only reason you know I exist is because I mailed the mailing lists.
 
@@ -158,7 +158,7 @@ The unfortunate side of open source is the number of people that I've seen that 
 
 I think collectively we are in a place where we need to have decide having these conversations a lot more seriously than we are at the moment.
 
-**Julia Ferraioli**: It's interesting, too, because as we've seen the rise in popularity of open source both in the projects started and the projects consumed, there is this increased pressure because  maintainers are worried that if they don't follow up on requests or bugs or what have you, that they're going to be damaging their professional identity as well. So it does make it very difficult to take care of your own needs and your identity away from open source. It's at a kind of critical point. And it has been for a while.
+**julia ferraioli**: It's interesting, too, because as we've seen the rise in popularity of open source both in the projects started and the projects consumed, there is this increased pressure because  maintainers are worried that if they don't follow up on requests or bugs or what have you, that they're going to be damaging their professional identity as well. So it does make it very difficult to take care of your own needs and your identity away from open source. It's at a kind of critical point. And it has been for a while.
 
 **Russell Keith-Magee**: Yeah, it has been for a while it's like and this is also not a new situation like burnout of maintainers is something that we've observed. It hasn't necessarily been actively observed. But if you go back and look you can sort of see the patterns have been for like years and years going back.
 
@@ -168,19 +168,19 @@ How do we actually build this without hurting people? How do we continue to reco
 
 ## The potential of open source
 
-**Julia Ferraioli**: Yeah. So we only have a couple minutes left -- time got away from me for sure, I'vebeen engrossed -- so I'll pose one last question. Where do you see open source's greatest potential?
+**julia ferraioli**: Yeah. So we only have a couple minutes left -- time got away from me for sure, I'vebeen engrossed -- so I'll pose one last question. Where do you see open source's greatest potential?
 
 **Russell Keith-Magee**: I guess for me, the greatest potential is in the fact that it is accessible to everybody. I am geographically isolated, but I have been able to get into a project. I've had, as a result of my involvement in the Django project, any number of contacts with people in Africa who have had -- because there is this zero cost of entry and it's really just as long as you've got an internet connection you can kind of get involved with the community, at some level -- they've been able to get into this technology, it is a massive lever that lets people get into this technology very, very easily. The fact that you don't have to be physically resided in San Francisco, to be able to have an impact on the technological world, or New York or Austin or you know, any other tech city you want to pick, you can be anywhere.
 
 You can literally be anywhere and contribute and have a meaningful impact on the world, I think is probably the biggest potential impact that it can have that it can literally be a worldwide project to improve the world that we are in. Working out how to then resource that in a way that doesn't cause these people to come into the project and then burn out because entire world then lands on their doorstep and asks why they're not doing their job properly. That is then the challenge that I think we've got, that we're facing as a community.
 
-**Julia Ferraioli**: Gotcha. The opportunity and challenges do go hand in hand.
+**julia ferraioli**: Gotcha. The opportunity and challenges do go hand in hand.
 
 **Russell Keith-Magee**: Yeah. And I think that part of that that goes along, and is one of those things that's tied to it because it is zero cost to get into, it also means that the problems that get addressed aren't necessarily the ones that have huge financial payoffs next to it. The things that get solved other things that problems that people actually have, versus the problems that can be monetized by somebody. And so lots of little things can be built, that solve a small community's needs really, really well and would never be commercially viable.
 
 But because you've now got a technology stack that is evolving, that lowers the barrier to entry, because more and more focus has been put on to how do we onboard people into this technology? And how do we make this technology easier and easier to use? Combined with the ubiquity of modern technology, it means that we end up with more of the world's problems being solved, but not by directly one company decided this problem needs to be solved by building the tools that lets people help themselves and then giving them a community and an ecosystem they can get into to help everybody work out that they can do this thing better. Your "hands around the world" kind of feeling but I genuinely believe that it is, at least at some level is true. And it certainly is possible.
 
-**Julia Ferraioli**: Well, thank you so much Russell, for coming and speaking with us today. I hope to be able to chat with you again soon!
+**julia ferraioli**: Well, thank you so much Russell, for coming and speaking with us today. I hope to be able to chat with you again soon!
 
 **Russell Keith-Magee**:
 Absolutely. My pleasure.
