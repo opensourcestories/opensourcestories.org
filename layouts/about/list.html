@@ -7,16 +7,23 @@ This template is the same as the default and is here to demonstrate that if you 
     {{ .Content }}
   </section>
   <section class="flex-ns flex-wrap justify-around mt5 center">
+    {{ $roles := slice }}
     {{ range .Site.Data.contributors }}
-      <div class="relative w-100 w-30-l mb4 bg-white">
-        <div class="team-profile">
-          <img src="/images/profiles/{{ .profile }}" alt="{{ .name }} profile photo"/>
+      {{ $roles = $roles | append .roles }}
+    {{ end }}
+    {{ $roles = $roles | uniq | sort }}
+    {{ range $roles }}
+      {{ range where (sort $.Site.Data.contributors (lower "name")) "roles" . }}
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          <div class="team-profile">
+            <img src="/images/profiles/{{ .profile }}" alt="{{ .name }} profile photo"/>
+          </div>
+          <div class="team-person">
+            <h2>{{ .name }}, {{ .roles }}</h2>
+            <p>{{ .bio }}</p>
+          </div>
         </div>
-        <div class="team-person">
-          <h2>{{ .name }}, {{ .roles }}</h2>
-          <p>{{ .bio }}</p>
-        </div>
-      </div>
+      {{ end }}
     {{ end }}
   </section>
   <aside class="flex-ns flex-wrap justify-around mt5  nested-img">
