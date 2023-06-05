@@ -18,15 +18,32 @@ googleAnalytics = "G-7TL98FG4D8"
     identifier = "about"
     name = "About"
     url = "/about/"
+    weight = 1
+  [[menu.main]]
+    identifier = "contribute"
+    name = "Contribute"
+    url = "/contribute/"
+    weight = 1
+  [[menu.main]]
+    identifier = "stories"
+    name = "Stories"
+    url = "/stories/"
+    weight = 1
   [[menu.main]]
     identifier = "storycorp"
     name = "StoryCorps"
     url = "https://archive.storycorps.org/communities/open-source-stories/"
+    weight = 10
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 8
 
 [params]
   favicon = "favicon.ico"
   site_logo = ""
-  description = "The Open Source Stories project celebrates collaboration, communication, community and, more in open source by collecting narratives from creators, contributors, and consumers alike."
+  description = "The Open Source Stories project celebrates collaboration, communication, community and, more in open source by collecting narratives from creators,  ors, and consumers alike."
   twitter = "https://twitter.com/StoriesOfOSS"
   github = "https://github.com/opensourcestories"
   rss = "/index.xml"
