@@ -24,11 +24,15 @@
         </strong>
       </p>
       {{ end }}
+      <p class="f6 dib tracked">Published 
+        {{ if .Authors }} by {{ delimit .Authors ", " }} {{ end }}
       {{ if not .Date.IsZero }}
-      <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02") | safeHTMLAttr }}>
+      on <time {{ printf `datetime="%s"` (.Date.Format "2006-01-02") | safeHTMLAttr }}>
         {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
       </time>
       {{end}}
+      </p>
+   
 
       {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
         <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime }} </span>

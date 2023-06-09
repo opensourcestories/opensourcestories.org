@@ -35,9 +35,9 @@ googleAnalytics = "G-7TL98FG4D8"
     url = "https://archive.storycorps.org/communities/open-source-stories/"
     weight = 10
   [[menu.main]]
-    identifier = "blog"
+    identifier = "posts"
     name = "Blog"
-    url = "/blog/"
+    url = "/posts/"
     weight = 8
 
 [params]
@@ -69,3 +69,6 @@ googleAnalytics = "G-7TL98FG4D8"
   name = "amanda casari"
 [author.julia]
   name = "julia ferraioli"
+
+[permalinks]
+  posts = '/posts/:year/:month/:title/'

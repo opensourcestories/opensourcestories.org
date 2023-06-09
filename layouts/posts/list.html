@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns nested-copy-line-height nested-img">
+  <section class="cf ph3 ph5-l pv3 pv4-l f4 center lh-copy measure-wide almost-black">
+    {{ .Content }}
+  </section>
+  <aside class="flex-ns flex-wrap justify-around mt5">
+    {{ range .Paginator.Pages }}
+    <div class="relative w-100 w-30-l mb4 bg-white">
+      {{ .Render "summary" }}
+    </div>
+    {{ end }}
+  </aside>
+  {{ template "_internal/pagination.html" . }}
+</article>
+{{ end }}
