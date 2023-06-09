@@ -44,16 +44,17 @@
   </div>
   </section>
   <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "avenir"}} f4 nested-links {{ $.Param "text_color" | default "almost-black" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
-    {{- .Content -}}
-    {{- partial "tags.html" . -}}
-    <div class="mt6 instapaper_ignoref">
-    {{ if .Site.DisqusShortname }}
-      {{ template "_internal/disqus.html" . }}
-    {{ end }}
-    {{ if .Site.Params.commentoEnable }}
-      {{- partial "commento.html" . -}}
-    {{ end }}
-    </div>
+      {{- .Content -}}
+      {{- partial "credits.html" . -}}
+      {{- partial "tags.html" . -}}
+      <div class="mt6 instapaper_ignoref">
+          {{ if .Site.DisqusShortname }}
+          {{ template "_internal/disqus.html" . }}
+          {{ end }}
+          {{ if .Site.Params.commentoEnable }}
+          {{- partial "commento.html" . -}}
+          {{ end }}
+      </div>
   </div>
 
   <aside class="w-30-l mt6-l">
