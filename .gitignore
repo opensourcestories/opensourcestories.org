@@ -29,3 +29,4 @@ public/
 !.vscode/*.code-snippets
 .history/
 *.vsix
+.vs/
