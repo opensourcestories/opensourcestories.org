@@ -50,10 +50,10 @@
           The story was facilated by {{delimit .Params.facilitators ", " " and "}}
           {{ if .Params.editors }}
           <span>
-              and edited by {{delimit .Params.editors ", " " and "}}
+              and edited by {{delimit .Params.editors ", " " and "}}.
           </span>
           {{ end }}
-          .
+          
       </p>
       {{- partial "tags.html" . -}}
       <div class="mt6 instapaper_ignoref">
