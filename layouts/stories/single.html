@@ -45,16 +45,7 @@
   </section>
   <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "avenir"}} f4 nested-links {{ $.Param "text_color" | default "almost-black" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
-      <!--Credits-->
-      <p class="mt4 mb4 f6 pv2 dib black sans-serif">
-          The story was facilated by {{delimit .Params.facilitators ", " " and "}}
-          {{ if .Params.editors }}
-          <span>
-              and edited by {{delimit .Params.editors ", " " and "}}.
-          </span>
-          {{ end }}
-          
-      </p>
+      {{- partial "credits.html" . -}}
       {{- partial "tags.html" . -}}
       <div class="mt6 instapaper_ignoref">
           {{ if .Site.DisqusShortname }}
