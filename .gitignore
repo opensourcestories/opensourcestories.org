@@ -21,6 +21,7 @@ public/
 .hugo_build.lock
 
 # VSCode files
+.vs/
 .vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
