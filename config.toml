@@ -30,21 +30,23 @@ googleAnalytics = "G-7TL98FG4D8"
     url = "/stories/"
     weight = 1
   [[menu.main]]
+    identifier = "posts"
+    name = "News"
+    url = "/posts/"
+    weight = 8
+  [[menu.main]]
     identifier = "storycorp"
     name = "StoryCorps"
     url = "https://archive.storycorps.org/communities/open-source-stories/"
     weight = 10
-  [[menu.main]]
-    identifier = "posts"
-    name = "Blog"
-    url = "/posts/"
-    weight = 8
 
 [params]
   favicon = "favicon.ico"
   site_logo = ""
   description = "The Open Source Stories project celebrates collaboration, communication, community and, more in open source by collecting narratives from creators,  ors, and consumers alike."
   twitter = "https://twitter.com/StoriesOfOSS"
+  mastodon = "https://fedi.opensourcestories.org/@narrator"
+  linkedin = "https://www.linkedin.com/company/open-source-stories"
   github = "https://github.com/opensourcestories"
   rss = "/index.xml"
   featured_image = ""
