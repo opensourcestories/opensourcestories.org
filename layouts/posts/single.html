@@ -25,7 +25,7 @@
       </p>
       {{ end }}
       <p class="f6 dib tracked">Published 
-        {{ if .Authors }} by {{ delimit .Authors ", " }} {{ end }}
+        {{ if .Params.Authors }} by {{ delimit .Params.Authors ", " }} {{ end }}
       {{ if not .Date.IsZero }}
       on <time {{ printf `datetime="%s"` (.Date.Format "2006-01-02") | safeHTMLAttr }}>
         {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}

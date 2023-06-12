@@ -44,16 +44,26 @@ googleAnalytics = "G-7TL98FG4D8"
   favicon = "favicon.ico"
   site_logo = ""
   description = "The Open Source Stories project celebrates collaboration, communication, community and, more in open source by collecting narratives from creators,  ors, and consumers alike."
-  twitter = "https://twitter.com/StoriesOfOSS"
-  mastodon = "https://fedi.opensourcestories.org/@narrator"
-  linkedin = "https://www.linkedin.com/company/open-source-stories"
-  github = "https://github.com/opensourcestories"
-  rss = "/index.xml"
   featured_image = ""
   recent_posts_number = 4
   background_color_class = "oss-dark-green"
   custom_css = ["opensourcestories.css"]
   body_classes = "avenir almost-black"
+  [[params.ananke_socials]]
+    name = "mastodon"
+    url = "https://fedi.opensourcestories.org/@narrator"
+  [[params.ananke_socials]]
+    name = "github"
+    url = "https://github.com/opensourcestories"
+  [[params.ananke_socials]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/company/open-source-stories"
+  [[params.ananke_socials]]
+    name = "twitter"
+    url = "https://twitter.com/StoriesOfOSS"
+  [[params.ananke_socials]]
+    name = "rss"
+    url = "/index.xml"
 
 
   [params.podcast]
