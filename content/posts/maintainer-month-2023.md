@@ -15,7 +15,7 @@ tags:
 - Operations
 - Sustainability
 - Finances
-draft: true
+draft: false
 ---
 2023 was the first year that we participated in [Maintainer Month](https://maintainermonth.github.com/), which is a month that celebrates open source maintainers for their hard—and sometimes thankless—work.
 
