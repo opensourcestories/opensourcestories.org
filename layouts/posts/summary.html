@@ -1,0 +1,21 @@
+<div class="relative w-100 mb4 bg-white nested-copy-line-height">
+    <div class="bg-white mb3 pa4 dark-gray overflow-hidden">
+      <h1 class="f3 fw1 mt0 lh-title">
+        <a href="{{ .RelPermalink }}" class="link black dim">
+          {{ .Title }}
+        </a>
+      </h1>
+      {{ if not .Date.IsZero }}
+      <p class="f6 dib tracked">Published 
+        {{ if .Params.Authors }} by {{ delimit .Params.Authors ", " }} {{ end }} on
+      <time {{ printf `datetime="%s"` (.Date.Format "2006-01-02") | safeHTMLAttr }}>
+        {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+      </time></p>
+      {{ end }}
+      {{ if .Summary }}
+      <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+        {{ .Summary }}
+      </div>
+      {{ end }}
+    </div>
+  </div>

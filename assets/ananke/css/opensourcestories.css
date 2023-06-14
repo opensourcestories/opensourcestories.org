@@ -1,3 +1,8 @@
+:root {
+    --oss-dark-green: #021C0E;
+    --almost-black: #222222;
+}
+
 .measure-wide {
     max-width: 68em;
 }
@@ -7,7 +12,7 @@
 }
 
 .oss-dark-green {
-    background-color: #021C0E;
+    background-color: var(--oss-dark-green);
 }
 
 footer {
@@ -53,6 +58,18 @@ body {
 .ananke-socials a {
     display: inline-block;
     vertical-align: middle;
-    color: #ffffff;
-    fill: currentColor;
+    color: #fff;
+    fill: #fff;
+}
+
+.ananke-socials-share a {
+    display: inline-block;
+    vertical-align: middle;
+    color: var(--oss-dark-green);
+    fill: var(--oss-dark-green);
+}
+
+.ananke-socials-share a .icon svg {
+    width: 32px;
+    height: 32px;
 }
