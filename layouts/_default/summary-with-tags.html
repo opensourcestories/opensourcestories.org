@@ -1,0 +1,20 @@
+<div class="relative w-100 mb4 bg-white nested-copy-line-height">
+    <div class="bg-white mb3 pa4 dark-gray overflow-hidden">
+      {{with .CurrentSection.Title }}<span class="f6 db">{{ . }}</span>{{end}}
+      <h1 class="f3 fw1 mt0 lh-title">
+        <a href="{{ .RelPermalink }}" class="link black dim">
+          {{ .Title }}
+        </a>
+      </h1>
+      <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+        {{ .Summary }}
+      </div>
+      <div class="tag-group" style="display:inline-block; margin-top: 10px;">
+        {{ range sort .Params.tags }}
+         <div class="tag" style="display:inline-block; ">
+             <a href="/tags/{{. | urlize }}" class="link f7 grow no-underline br-pill ba ph2 pv2 mb2 mt2 mh1 dib black sans-serif">{{.}}</a>
+         </div>
+       {{end}}
+       </div>
+    </div>
+  </div>
