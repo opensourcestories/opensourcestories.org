@@ -2,7 +2,9 @@
     --oss-dark-green: #021C0E;
     --almost-black: #222222;
 }
-
+.f4{
+    font-size:1.25rem;
+}
 .measure-wide {
     max-width: 68em;
 }
