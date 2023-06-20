@@ -6,7 +6,7 @@ This template is the same as the default and is here to demonstrate that if you 
   <section class="cf ph3 ph5-l pv3 pv4-l f4 center lh-copy measure-wide almost-black nested-img">
     {{ .Content }}
   </section>
-  <section class="flex-ns flex-wrap justify-around mt5 center">
+  <section class="f4 flex-ns flex-wrap justify-around mt5 center">
     {{ $roles := slice }}
     {{ range .Site.Data.contributors }}
       {{ $roles = $roles | append .roles }}
