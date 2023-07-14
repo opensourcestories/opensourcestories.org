@@ -22,5 +22,11 @@
         "roles": "Design Lead",
         "profile": "perrie.png",
         "bio": "Peace is a product designer who helps communities & organizations build & improve the quality of their products & overall experience, to match the needs of their target audience. She is enthusiastic about solving problems, places great emphasis on functionality and usability while ensuring a visually captivating product. She is an advocate for inclusion, accessibility, and open source."
+    },
+    "Claire": {
+        "name": "Claire Moss",
+        "roles": "Editor",
+        "profile": "claire.png",
+        "bio": "Claire fell into open source by happenstance, being in the right place at the right time with the right people to inspire her. Claire is a big fan of passionate contributors building on each other's work. As a result, Claire enjoys polishing the Open Source Stories to a high shine. Learning more about the diverse experiences of open sorcerers is definitely a bonus! Claire has always had a passion for writing, which might be a strange trait for a discrete mathematician, but that doesn’t stop her from blogging, writing technology articles, or editing podcast transcripts. Claire continues to use her evil powers for good on the job and in the technology community."
     }
 }
