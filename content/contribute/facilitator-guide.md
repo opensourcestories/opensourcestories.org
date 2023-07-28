@@ -1,6 +1,6 @@
 ---
 title: "Facilitator Guide"
-draft: true
+draft: false
 summary: "This document describes the responsibilities for the person or people assigned to the facilitator role for an open source story, as outlined in the recording section of the `new-story` issue template."
 ---
 This document describes the responsibilities for the person or people assigned to the facilitator role for an open source story, as outlined in the recording section of the [new-story issue template](https://github.com/opensourcestories/coordination/blob/main/.github/ISSUE_TEMPLATE/new-story.md#recording).
