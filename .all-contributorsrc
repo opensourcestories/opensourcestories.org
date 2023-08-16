@@ -69,6 +69,15 @@
         "code",
         "infra"
       ]
+    },
+    {
+      "login": "WebSnke",
+      "name": "Sönke Joppien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94064167?v=4",
+      "profile": "https://github.com/WebSnke",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
