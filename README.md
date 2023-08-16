@@ -3,7 +3,7 @@
 [![GitHub sponsors](https://img.shields.io/github/sponsors/opensourcestories)](https://github.com/sponsors/opensourcestories)
 [![Open Source Stories on Twitter](https://img.shields.io/twitter/follow/StoriesOfOSS)](https://twitter.com/StoriesOfOSS)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -53,6 +53,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://dev.to/tylerauerbeck"><img src="https://avatars.githubusercontent.com/u/29497147?v=4?s=100" width="100px;" alt="Tyler Auerbeck"/><br /><sub><b>Tyler Auerbeck</b></sub></a><br /><a href="#infra-tylerauerbeck" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://aclairefication.com"><img src="https://avatars.githubusercontent.com/u/2000944?v=4?s=100" width="100px;" alt="Claire Moss"/><br /><sub><b>Claire Moss</b></sub></a><br /><a href="#content-aclairefication" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LuvvAggarwal"><img src="https://avatars.githubusercontent.com/u/67058817?v=4?s=100" width="100px;" alt="Luvv Aggarwal"/><br /><sub><b>Luvv Aggarwal</b></sub></a><br /><a href="https://github.com/opensourcestories/opensourcestories.org/commits?author=LuvvAggarwal" title="Code">💻</a> <a href="#infra-LuvvAggarwal" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/WebSnke"><img src="https://avatars.githubusercontent.com/u/94064167?v=4?s=100" width="100px;" alt="Sönke Joppien"/><br /><sub><b>Sönke Joppien</b></sub></a><br /><a href="#ideas-WebSnke" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
