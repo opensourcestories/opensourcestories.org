@@ -32,7 +32,7 @@
     "amazon": {
         "name": "Amazon Music",
         "subscribe": "https://music.amazon.com/podcasts/a1bac012-21cb-40eb-9538-1fd9460fafa8/open-source-stories",
-        "icon": "podcast.svg",
+        "icon": "amazon.svg",
         "order": 0
     }
 }
