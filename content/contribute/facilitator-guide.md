@@ -11,11 +11,11 @@ As a facilitator for Open Source Stories, you will be added to the pool of avail
 
 ### Account setup
 
-Currently, we use Calendly for scheduling new stories. To be added to the Open Source Stories organization, you will need to accept the invitation sent to you. If you already have a Calendly account, you will need to create a new account (unfortunately) as Calendly does not support joining multiple organizations.
+Currently, we use [Cal.com](https://cal.com) for scheduling new stories. To be added to the Open Source Stories organization, you will need to accept the invitation sent to you.
 
 ### Setting your availability
 
-You may [connect your calendar(s) and set the times when you're available](https://help.calendly.com/hc/en-us/articles/360056888293-Best-practices-for-using-Calendly-schedules) to facilitate stories through Calendly. You are encouraged to balance your availability with your other commitments; please be realistic!
+You may [connect your calendar(s) and set the times when you're available](https://cal.com/docs/how-to-guides/availability/setting-up-your-availability) to facilitate stories through Cal.com. You are encouraged to balance your availability with your other commitments; please be realistic!
 
 ### Recording setup
 
