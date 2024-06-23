@@ -11,7 +11,7 @@ editors: ["David Jones"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Carol_Willing_at_PyCon.mp3"
 explicit: "no"
 bytes: 17500000
-draft: true
+draft: false
 tags:
 - PyCon
 - Python
