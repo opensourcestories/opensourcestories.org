@@ -23,12 +23,6 @@
         "icon": "apple.svg",
         "order": 0
     },
-    "google": {
-        "name": "Google Podcasts",
-        "subscribe": "https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cub3BlbnNvdXJjZXN0b3JpZXMub3JnL3N0b3JpZXMvaW5kZXgueG1s",
-        "icon": "google.svg",
-        "order": 0
-    },
     "amazon": {
         "name": "Amazon Music",
         "subscribe": "https://music.amazon.com/podcasts/a1bac012-21cb-40eb-9538-1fd9460fafa8/open-source-stories",

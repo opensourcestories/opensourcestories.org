@@ -4,7 +4,7 @@ date: 2023-07-25
 summary: "Measuring community health reveals challenges people experience in contributing. Anita Ihuman explains how to build awareness and leverage existing solutions for greater belonging in open source. What you measure, you can see and change!"
 storyteller: "Anita Ihuman"
 bio: "Anita is a Developer advocate and a Technical content writer with over 2+ years of experience in the technology space. She has a successful track record in web development and DevRel on a global scale. She is grossly involved in open source communities as a maintainer and reviewer in the CHAOSS DEI Badging initiative and a community leader at Layer5 (a service mesh company)."
-storycorps: "https://archive.storycorps.org/embed/3944022"
+storycorps: "111926599"
 story_image: "images/storytellers/anita-ihuman.jpg"
 facilitators: ["julia ferraioli"]
 editors: ["Claire Moss"]

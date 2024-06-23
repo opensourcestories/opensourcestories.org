@@ -4,7 +4,7 @@ date: 2023-09-20
 summary: "From selling stickers to creating one of the most popular projects on GitHub, Robby Russell looks back at the inception and unexpected rise of Oh My Zsh. Usefulness, creativity, and a good onboarding experience are key ingredients in this recipe."
 storyteller: "Robby Russell"
 bio: "Robby Russell is the CEO of Planet Argon, transforming existing Ruby on Rails applications into more efficient code bases, and is the creator of the popular dev tool, Oh My Zsh. In addition to these, Robby hosts the Maintainable Software Podcast, where he speaks with seasoned practitioners and shares valuable insights into navigating legacy code and technical debt."
-storycorps: "https://archive.storycorps.org/embed/4017336"
+storycorps: "120754576"
 story_image: "images/storytellers/logo-square.png"
 facilitators: ["julia ferraioli"]
 editors: ["Claire Moss"]

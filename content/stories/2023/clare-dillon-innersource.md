@@ -4,7 +4,7 @@ date: 2023-10-05
 summary: "Why should open source have all the fun? Clare Dillon shares her experience in the wonderful world of innersource, the application of open source practices within organizations. Collaboration is just too exciting not to share!"
 storyteller: "Clare Dillon"
 bio: "Clare is an InnerSource and open source advocate. After spending a number of years as the Executive Director of InnerSource Commons, Clare is currently a PhD researcher in the University of Galway. In 2021, Clare co-founded Open Ireland Network, a community for those interested in advancing open source at a national level in Ireland. Clare also works with communities interested in OSS in university context, such as the SustainOSS Academic Working Group and CHAOSS University Working Group."
-storycorps: "https://archive.storycorps.org/embed/4057382"
+storycorps: "122226719"
 story_image: "images/storytellers/clare-dillon.jpg"
 facilitators: ["amanda casari"]
 editors: ["julia ferraioli"]

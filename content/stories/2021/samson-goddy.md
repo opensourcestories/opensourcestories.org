@@ -3,7 +3,7 @@ title: "Samson Goddy on the power of centering open source on community needs"
 date: 2021-10-23T09:27:22-05:00
 summary: "Samson talks with amanda about his lifelong journey in open source, why growing a culture of sharing is so important, and how his early experiences influenced where and how he has directed his energy into re-centering the nexus of open source."
 storyteller: "Samson Goddy"
-storycorps: 'https://archive.storycorps.org/embed/3448105'
+storycorps: "85873755"
 bio: "Samson Goddy is a software engineer, an open source advocate, community builder. He leads Community Relations and Advocacy at Sourcegraph and is the co-founder for Open Source Community Africa; he is a long-time contributor for the Sugar Labs project and serves on Open Source Collective's board. Samson is passionate about building diverse communities around projects and loves teaching."
 facilitators: ["amanda casari"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Samson_Goddy_on_the_power_of_centering_open_source_on_community_needs.mp3"

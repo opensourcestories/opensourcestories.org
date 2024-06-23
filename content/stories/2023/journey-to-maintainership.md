@@ -7,7 +7,7 @@ bio: "In her own words: 'Hi, I'm Jessica, a 23 year old woman currently living i
 I love traveling, meeting new people, telling stories and of course programming and open source.
 
 I do all of this while blind, but hey, that hasn't stopped me before from archieving my goals so why stop now!!!'"
-storycorps: "https://archive.storycorps.org/embed/3868227"
+storycorps: "96609769"
 story_image: "images/storytellers/jessica-tegner.jpg"
 facilitators: ["amanda casari"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Jessica_Tegner_on_Open_Source_Stories.mp3"

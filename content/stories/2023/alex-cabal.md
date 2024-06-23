@@ -4,7 +4,7 @@ date: 2023-01-26
 summary: "Open source, the public domain, and various freedoms take center stage in the story behind Standard Ebooks. Learn about Standard Ebooks, a project founded by Alex Cabal to solve one particular problem, and how it brought together contributors with diverse sets of talents to make public domain literature works of art."
 storyteller: "Alex Cabal"
 bio: "Alex Cabal is the founder of Scribophile, one of the web's largest online writing communities, and Standard Ebooks, an open source project that creates commercial-quality ebooks for free distribution."
-storycorps: "https://archive.storycorps.org/embed/3713005"
+storycorps: "93445949"
 story_image: "images/storytellers/alex-cabal.jpg"
 facilitators: ["julia ferraioli"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Alex_Cabal_on_Standard_Ebooks.mp3"

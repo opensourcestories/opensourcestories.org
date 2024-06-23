@@ -4,7 +4,7 @@ date: 2023-03-22
 summary: "If you find yourself curious about what’s running your software, then you’re in good company! Many Makers before you have cultivated our current open hardware opportunities to make it easier to start. Python Software Foundation Fellow Thea Flowers invites us to think beyond open source software to the vibrant community of open hardware. Bodge your way to greatness! In this episode, explore the right to repair, mid-scale manufacturing, and vinyl for video game soundtracks. Join Open Source Stories in finding your people."
 storyteller: "Thea Flowers"
 bio: "Thea Flowers is an open source advocate, music technologist, and weasel enthusiast. She creates open source synthesizers and helps craft charming developer experiences."
-storycorps: "https://archive.storycorps.org/embed/3775783"
+storycorps: "95091079"
 story_image: "images/misc/raspberry-pi.jpg"
 facilitators: ["julia ferraioli"]
 editors: ["Claire Moss"]

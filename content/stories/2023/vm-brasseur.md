@@ -4,7 +4,7 @@ date: 2023-03-09
 summary: "Free and open source software is, or can be, a public good. But, VM Brasseur finds that for some, it may have gotten disconnected from its open culture roots. In this open source story, VM talks about motivations behind FOSS, how they have shifted, and how those who work in free and open source software can help recenter principles of openness."
 storyteller: "VM Brasseur"
 bio: " VM (Vicky) Brasseur is an award-winning free/open source advocate and corporate strategist, international keynote speaker, and writer. She’s the author of Forge Your Future with Open Source, the only book detailing how to contribute to free/open source (FOSS) projects. Aside from articles in various publications, she also writes about FOSS, business, and their intersection on her blog."
-storycorps: "https://archive.storycorps.org/embed/3763957"
+storycorps: "94905044"
 story_image: "images/storytellers/vm-brasseur.png"
 facilitators: ["julia ferraioli"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/VM_Brasseur_on_free_and_open_source_ecosystems_and_culture.mp3"

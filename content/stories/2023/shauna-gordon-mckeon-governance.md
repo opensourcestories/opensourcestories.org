@@ -6,7 +6,7 @@ storyteller: "Shauna Gordon-McKeon"
 bio: "Shauna Gordon-McKeon is a programmer and a writer, a researcher and a community manager, and a lot of other things besides. She tends to work at the intersection of people and technology and has a soft spot in my heart for anything open: open science, open government, open source software.
 
 Shauna runs a technical consulting business (Galaxy Rise Consulting). While she is open to all sorts of clients, she is currently focused on governance. Her main projects right now are Governing Open, an effort to collect and disseminate best practices in open source governance, and the Parsons Project, which supports progressive tech and data professionals."
-storycorps: "https://archive.storycorps.org/embed/4083002"
+storycorps: "122460883"
 story_image: "images/logos/logo-square-1600x1600.png"
 facilitators: ["julia ferraioli"]
 editors: ["David Jones"]

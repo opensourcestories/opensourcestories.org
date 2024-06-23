@@ -4,7 +4,7 @@ date: 2021-10-14
 draft: false
 summary: "Aaron Patterson talks with julia and amanda about installing Linux for the first time, the story behind first patch, initial hesitancy around forking, and shares some advice for fellow programmers. Features plenty of bad puns from everyone." 
 storyteller: "Aaron Patterson"
-storycorps: 'https://archive.storycorps.org/embed/3444324/'
+storycorps: "85873752"
 bio: "Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing."
 facilitators: ["julia ferraioli", "amanda casari"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Aaron_Patterson_on_open_source_game_changers.mp3"

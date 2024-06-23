@@ -3,7 +3,7 @@ title: "Joe Beda on open source as a positive sum game"
 date: 2021-10-21T19:11:04-05:00
 summary: "Joe Beda shares with julia and amanda about his multigenerational family history with computers, his changing experience with open source since submitting the first commit to Kubernetes, and how the future of open source contains both &quot;danger and opportunity&quot;."
 storyteller: "Joe Beda"
-storycorps: https://archive.storycorps.org/embed/3455153
+storycorps: "85873754"
 bio: "Joe Beda is a Principal Engineer at VMware. Joe organizes Kubernetes technical direction across VMware and VMware Tanzu. Joe arrived at VMware via the acquisition of Heptio, a leader in the cloud native movement and a company that he co-founded. Previously, at Google, Joe co-created Google Compute Engine and filed the first ever Kubernetes project commit. Joe started his career at Microsoft working on Internet Explorer and Windows. Joe holds a B.S. from Harvey Mudd College and lives in Seattle, Washington with his wife Rachel (a medical doctor and also an HMC alum) and their two children."
 facilitators: ["julia ferraioli", "amanda casari"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Joe_Beda_on_open_source_as_a_positive_sum_game.mp3"

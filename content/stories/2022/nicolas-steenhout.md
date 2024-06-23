@@ -3,7 +3,7 @@ title: "Nicolas Steenhout explores the intersection of accessibility and open so
 date: 2022-03-03
 summary: "Nic Steenhout recounts how barriers to access led him to getting involved in the open source community, reflects on challenges that accessibility advocates face in the ecosystem, and gives some advice to projects on how to prove their commitment to accessibility."
 storyteller: "Nicolas Steenhout"
-storycorps: 'https://archive.storycorps.org/embed/3526196'
+storycorps: '85873757'
 bio: " Nicolas Steenhout offers real-world insight into accessibility issues. 
 His work began in the mid-'90s. As a developer, he was confronted by accessibility hurdles that were preventing those with disabilities from engaging with a technological revolution. As he began championing web accessibility, Nic transitioned into the non-profit sector where he collaborated with people with a wide variety of impairments. Today, Nic works as an independent consultant for private businesses and non-profits. Having lent his services on three continents, he’s engaged with thousands of individuals with disabilities. He blogs about accessibility at https://incl.ca and he hosts the A11y Rules Podcast."
 facilitators: ["julia ferraioli", "amanda casari"]
