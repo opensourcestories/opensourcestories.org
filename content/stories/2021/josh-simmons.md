@@ -3,7 +3,7 @@ title: "Josh Simmons and open source diplomacy"
 date: 2021-10-19
 summary: "Josh Simmons spends some time with Open Source Stories discussing the finer points of navigating open source dynamics, reflecting on the adoption of codes of conduct, and progress made towards increasing representation. Josh also coins the best tagline for open source."
 storyteller: "Josh Simmons"
-storycorps: 'https://archive.storycorps.org/embed/3446308/'
+storycorps: "85873753"
 bio: "Josh Simmons is a short stack developer, community organizer, and North Bay local. He does open source strategy for Tidelift and serves as a chair of the Open Source Initiative. Josh is recognized globally as an advocate for free and open source software, inclusive community building, and ethical technology. He works on multiple boards and is frequently sought out to advise and consult. Through this work, he builds bridges into software freedom and corporate open source, across cultural divides, and convenes all manner of stakeholders around shared interests."
 facilitators: ["julia ferraioli", "amanda casari"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Josh_Simmons_and_open_source_diplomacy.mp3"

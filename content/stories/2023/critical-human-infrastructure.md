@@ -4,7 +4,7 @@ date: 2023-05-09
 summary: "Open source is people and people are open source. Duane O’Brien talks about what he’s learned about supporting, connecting with, and caring for the critical human infrastructure of open source."
 storyteller: "Duane O'Brien"
 bio: "Duane loves telling the story of open source through collaboration and conversation. Duane is a force of chaotic good using his high stats in intelligence and charisma to advocate for the open source community. If you encounter him in forested areas, he will share his fire, drink, and philosophy."
-storycorps: "https://archive.storycorps.org/embed/3855195"
+storycorps: "96425913"
 story_image: "images/storytellers/duane-obrien.jpg"
 facilitators: ["julia ferraioli"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Duane_O_Brien_on_critical_human_infrastructure.mp3"

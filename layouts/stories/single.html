@@ -36,11 +36,9 @@
     {{ end }}
   </header>
   <section>
-  <div class="nested-copy-line-height lh-copy f5 dark-gray flex-ns">
+  <div class="nested-copy-line-height lh-copy f5 dark-gray flex-column-ns">
+    <iframe src="https://player.blubrry.com/id/{{ $.Page.Params.storycorps }}" width="99.9%" height="165px" title="Blubrry Podcast Player" scrolling="no" frameborder="0"></iframe>
     <p class="bio">{{ $.Page.Params.bio }}</p>
-    <div class="storycorps">
-      <iframe src="{{ $.Page.Params.storycorps }}" frameborder="0" scrolling="no"></iframe>
-    </div>
   </div>
   </section>
   <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "avenir"}} f4 nested-links {{ $.Param "text_color" | default "almost-black" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">

@@ -6,7 +6,7 @@ storyteller: "Filippo Valsorda"
 bio: "Filippo is a cryptography engineer and open source maintainer. He’s been a maintainer of the Go cryptography standard library since 2018, first at Google while lead of the Go Security team, and now as a professional, full-time, independent maintainer.
 
 He worked on the design of the Go Checksum Database and of TLS 1.3. He’s also the author of some popular Go tools including the file encryption tool age, and mkcert, a tool to produce locally-trusted certificates."
-storycorps: "https://archive.storycorps.org/embed/3882225/"
+storycorps: "96874520"
 story_image: "images/logos/logo-square.png"
 facilitators: ["julia ferraioli"]
 audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Filippo_Valsorda_on_being_a_maintainer_for_security-focused_open_source_projects.mp3"
@@ -23,7 +23,7 @@ tags:
 ---
 **julia ferraioli:** Hello everyone, my name is julia ferraioli, it is May 16th of 2023. I don't like to admit that part, and I am here today with Filippo Valsorda and we are talking about Maintainership and which is most appropriate because this is maintainer month.
 
-**Filippo Valsorda:** Is it now? 
+**Filippo Valsorda:** Is it now?
 
 **julia ferraioli:** It is. May is Maintainer month apparently. So we are right on topic. [laughter]
 
@@ -33,7 +33,7 @@ tags:
 
 **Filippo Valsorda:** There you go.
 
-**julia ferraioli:** Yes, would you like to introduce yourself? 
+**julia ferraioli:** Yes, would you like to introduce yourself?
 
 **Filippo Valsorda:** Absolutely. So I'm Filippo and I work on Go cryptography. I think that's the most general seminar what I work on now. I've been on the Go team and at times head of the Go security team from 2018 to 2022, and I still work as a maintainer of the cryptography packages in the Go Standard Library and along with that I maintain tools like mkcert, a generator for locally trusted certificates, and age, a file encryption tool. Before that I was at CloudFlare and where I worked on cryptography and Go and that's a bit of what led me into the Go open source project. Before that, I maintained youtube-dl in sort of a past life–which is a thing that's not really associated with my profile anymore. But let's just say that when the RIAA tried to get youtube-dl off GitHub, that was an eventful month.
 
@@ -47,11 +47,11 @@ tags:
 
 ## The path to Go and cryptography
 
-**julia ferraioli:** We do like to start these with a little bit of a fun question but actually I am wondering…what was your first programming language? 
+**julia ferraioli:** We do like to start these with a little bit of a fun question but actually I am wondering…what was your first programming language?
 
 **Filippo Valsorda:** My first programming language was MediaWiki templates. That's gonna be my stake in what counts as a programming language. There you go. Because it had LFS and you could build things with it. And by sort of abusing also how the MediaWiki software worked you could make entire workflows where an editor would just put a template substitution and that would kick off a series of operations. I started in the Wikipedia community–Italian Wikipedia–and moved on to JavaScript tools for Monobook (which was the skin before this one of Wikipedia) and little JavaScript tools for editors to streamline things. And eventually Python bots and eventually youtube-dl Python.
 
-**julia ferraioli:** When did you get introduced to statically typed languages? 
+**julia ferraioli:** When did you get introduced to statically typed languages?
 
 **Filippo Valsorda:** Oh that's a very good question. Huh. So I remember trying and failing to get the Linux kernel to compile, or write something for the Linux kernel at least three times in my early–let's call it just interactions with computers. So that was an attempt that failed. I think I might have written a little C++ to use OpenCV to make some "hello world" for image recognition. Like something that recognized where a red ball was in a video or something like that. After that it might have been Go, which a person at the Recurse Center showed me this exciting new language, took me aside at one of the events of the Recurse Center and just showed me this thing.
 
@@ -75,7 +75,7 @@ wasn't really taught at that point in time. So okay, you are a cryptographer, wh
 
 ## Maintaining the libraries that keep us safe
 
-**julia ferraioli:** So when we talk about open source and maintainership, we often talk about cultivating a community and nurturing contributors, etcetera, but I realize that when you're talking about stuff that's used in security, it's probably a bit different. What is that like for you? 
+**julia ferraioli:** So when we talk about open source and maintainership, we often talk about cultivating a community and nurturing contributors, etcetera, but I realize that when you're talking about stuff that's used in security, it's probably a bit different. What is that like for you?
 
 **Filippo Valsorda:** There's a tension. So, I both fall in the camp of "don't roll your own crypto" is more harmful than helpful as a saying because the overconfident people don't listen to it. And people who are good but lack self-confidence listen to it. And those are two negatives. So, it neither stops people from doing things they shouldn't, but at the same time stops people from believing in themselves. But at the same time, I was realizing this while reading some of the previous episodes, that I do have a very different experience with maintainership than maintainers of, I guess projects in other fields or other areas, because a lot of my job is saying "no". And I know that that's true of all maintainers that have a clear idea for their project, but in my case, I almost always want people to file an issue and never, ever, ever open a PR because I am probably not going to merge it.
 
@@ -83,7 +83,7 @@ And as I was thinking about how to talk about this, I worry that it will all sou
 
 …Actually contributing back is something that will require more effort from the maintainer to review things to ensure that they're correct. And I think this is more true, in my line of work, because I need to make sure that [with] anything that patches the cryptography libraries, we can manage that complexity budget and that we can test it very effectively, and that it doesn't interact poorly with other things. It's not an unsafe API that will cause the next 10 years of Go developers to shoot themselves in the foot. And so there's all this extra work with every contribution. But I guess it's true in all projects in some way. It's just maybe the balance is a little, is different when you work on security.
 
-**julia ferraioli:** Yeah. I wanna dig into one of the words that you're using, which is "correct", because I think that you know–in this context, we've got a, like capital C Correct versus a lower c correct, where it has a special meaning. Can you explain [laughter] what you mean by correct here? 
+**julia ferraioli:** Yeah. I wanna dig into one of the words that you're using, which is "correct", because I think that you know–in this context, we've got a, like capital C Correct versus a lower c correct, where it has a special meaning. Can you explain [laughter] what you mean by correct here?
 
 **Filippo Valsorda:** So I'm laughing because well, maybe in this conversation I'm the one that has the concept of a Correct with a capital C versus the common one. I'm just back from, last month, Real World Crypto, which is this conference where academics and cryptography engineers meet. And over there I am way on the side of the implementer, of the engineer. When I'm at real crypto, I don't call myself a cryptographer because the ones who write the proofs and do hyperelliptic curves to do isogeny-based post quantum cryptography are there and they're the real cryptographers. And I gave a whole talk, where the known hidden goal, not too hidden goal was to shift the window towards "maybe we should focus on correct with a lowercase c sometimes" [chuckle].
 
@@ -95,7 +95,7 @@ Because when you go there, they'll talk about formal measures and formal proofs 
 
 ## Correctness is…complicated
 
-**julia ferraioli:** It's a very different world for sure…but what do you mean when you say the word "correct"? 
+**julia ferraioli:** It's a very different world for sure…but what do you mean when you say the word "correct"?
 
 **Filippo Valsorda:** Well, in cryptography, thankfully, we do have spec to compare to, so job one is making sure that given their correct inputs given certain inputs, it gives the correct output per the spec. That's surprisingly not sufficient, because oftentimes the spec is underspecified and we're having a whole conversation in the industry about how to write specs that are more implement or friendly and that are more complete, that are more testable. And then there's a whole host of other issues like side-channel attacks and deciding which ones are in scope and which ones are not. And things just already get very fuzzy because, for example, the Go Standard Library does nothing to protect against power side-channel attacks, because most servers don't have somebody that, an attacker that's tapped on the power line that can measure the differences in power. But if you have a smart card, smart cards are made to keep a key secret on the card while power is provided by an adversary environment.
 
@@ -129,15 +129,15 @@ So what is the correct cap? What is the correct API that protects, that's secure
 
 ## Saying no is critical to maintaining security
 
-**julia ferraioli:** So let's talk about the kind of experiences that you have running or maintaining security, cryptography focused, open source projects. How are they different? How are they unique in terms of the day-to-day operations? 
+**julia ferraioli:** So let's talk about the kind of experiences that you have running or maintaining security, cryptography focused, open source projects. How are they different? How are they unique in terms of the day-to-day operations?
 
-**Filippo Valsorda:** As I mentioned, there's a lot of saying no and that angers users, and I get it. Because usually a project–the only goal it has is to be useful, right? So if a user comes and says, it would be more useful if it did this thing too. You have to worry about maintainability and you have to worry about whether it's in scope, and you have to worry about whether you're making swiss army knife or a precision scalpel. But still, the baseline decision making process is would this make it more useful? Instead when somebody contributes something to age or to the Go cryptography standard library, the first concern is: will this keep serving as a tool to build secure applications for all the existing users and all the future users? 
+**Filippo Valsorda:** As I mentioned, there's a lot of saying no and that angers users, and I get it. Because usually a project–the only goal it has is to be useful, right? So if a user comes and says, it would be more useful if it did this thing too. You have to worry about maintainability and you have to worry about whether it's in scope, and you have to worry about whether you're making swiss army knife or a precision scalpel. But still, the baseline decision making process is would this make it more useful? Instead when somebody contributes something to age or to the Go cryptography standard library, the first concern is: will this keep serving as a tool to build secure applications for all the existing users and all the future users?
 
 And it's hard too, oftentimes we say no, even just because we don't know how to do it correctly yet. Or because we know how to do it and it's doable, but it's just so much work that it can't be done with that extra care and extra carefulness for correctness and testing and readability and everything else that needs to go on top of it. And so there is less joy maybe in those interactions in a way because there isn't this–which I remember instead from youtube-dl–of people just throwing stuff over and being like, "yeah, let's put it in or like, let's change it like that so it's even better and let's merge it". Just growing and growing organically.
 
 Instead there's this strong control that needs to be kept because there is an expectation of security, of correctness, of also safety. Russ Cox encouraged me to write down what drives the decisions. And we wrote it down as the Go standard libraries have to be secure, safe, practical, and modern in that order. So you have to first think if you can make it secure, then you have to think if it'll be safe to provide to users. Then you have the practical, which usually most projects will tell you that security is the first concern. But honestly, I don't think that's true, and I think that's okay. I know, coming from a security person, [chuckle] security is a trade off. It always is. It's how much do you want to invest in and how much, and for many projects, it doesn't make sense to invest in security as much as for an encryption tool. That's natural. That's okay. So the trade-offs end up being different.
 
-**julia ferraioli:** That makes perfect sense. For most projects, the security comes by way of their dependencies. Right? 
+**julia ferraioli:** That makes perfect sense. For most projects, the security comes by way of their dependencies. Right?
 
 **Filippo Valsorda:** And their platforms.
 
@@ -157,7 +157,7 @@ About all the different ways you can get large language models to do things that
 
 **Filippo Valsorda:** Yeah...
 
-**julia ferraioli:** I was wondering how do you cope with that? Is it as taxing as it sounds or…? 
+**julia ferraioli:** I was wondering how do you cope with that? Is it as taxing as it sounds or…?
 
 **Filippo Valsorda:** Yeah, I read a skeet (is that how we're calling them on Bluesky?).
 
@@ -171,9 +171,9 @@ About all the different ways you can get large language models to do things that
 
 And it's kinda hard not to be in risk assessment mode, which, yeah, it's a thing that you have to cope with and come to terms with. Cryptography has the advantage that there's also a lot of space for perfectionism. So in that, I find joy in the crafting. Programmers often talk about the fact that they have to control the urge to make something perfect. They have to move on to the thing once it's good enough. Well, I picked the job where I can instead, "No, no, no, no, no, no, no. I'm gonna spend three more days on these 200 lines of code to make sure they're very well-tested. And then I'm gonna blog about it, and I'm gonna be proud of having spent this much time and people are gonna be happy I did, including whoever does my performance review," which these days is nobody but...
 
-**julia ferraioli:** You. Unless you have a pet. Do you have a pet? 
+**julia ferraioli:** You. Unless you have a pet. Do you have a pet?
 
-**Filippo Valsorda:** Wait, does a pet usually involve performance reviews? 
+**Filippo Valsorda:** Wait, does a pet usually involve performance reviews?
 
 **julia ferraioli:** My dog tells me what to do all the time, so she gives me continuous feedback.
 
@@ -183,7 +183,7 @@ And it's kinda hard not to be in risk assessment mode, which, yeah, it's a thing
 
 **Filippo Valsorda:** Yeah. I'm allergic to dogs but I'm sure I can find a pet that will ask me. "So what were your blockers? Yeah. And where do you see yourself in three months?"
 
-**julia ferraioli:** Yeah. That is what pets do, right? That's normal? 
+**julia ferraioli:** Yeah. That is what pets do, right? That's normal?
 
 **Filippo Valsorda:** I'll accept that at the face value.
 
@@ -193,7 +193,7 @@ And it's kinda hard not to be in risk assessment mode, which, yeah, it's a thing
 
 ## The professional maintainer career path
 
-**julia ferraioli:** So we are quickly running out of time and this is a fascinating conversation. I would love to kind of keep going in this vein but (and you've spoken about this) you've transitioned into being a professional maintainer and moreover a professional maintainer of some extremely critical libraries. Do you have words of advice for people looking to go down a similar path? 
+**julia ferraioli:** So we are quickly running out of time and this is a fascinating conversation. I would love to kind of keep going in this vein but (and you've spoken about this) you've transitioned into being a professional maintainer and moreover a professional maintainer of some extremely critical libraries. Do you have words of advice for people looking to go down a similar path?
 
 **Filippo Valsorda:** So I want to get there because the reason I did this transition myself wasn't really that I wanted to change something for my own work. I basically work on the same stuff with the same people as I did when I was employed at Google. The difference is that Google is not paying me. And there are fewer performance reviews so I appreciate the changes but the main motivator was figuring out a model and a path for other maintainers to open to other maintainers. So I want to get to a place where I can say here's how you do it all the way down to making it into a playbook. Because I think that's what's missing from the role. It's not a profession because if you decide that you want to be a dentist, you go to dentistry school and then you either start an apprenticeship in a bigger dentist clinic or you start your own thing in an underserved market.
 
