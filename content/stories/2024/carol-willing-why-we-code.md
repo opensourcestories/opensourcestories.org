@@ -100,7 +100,7 @@ I have seen many paradigm shifts in my life. Cell phone service was one, the int
 
 **julia**: It's for people.
 
-**Carol**: It's for people. It's _always_for people. It's how do you solve problems that people have? Computers are a great thing in that they can do repetitive tasks without complaining too much usually, and they're good at it, but there's still places that we haven't gotten to. At the end of the day, my view on all the AI stuff is trust it if you want, but definitely verify. It goes with security.
+**Carol**: It's for people. It's _always_ for people. It's how do you solve problems that people have? Computers are a great thing in that they can do repetitive tasks without complaining too much usually, and they're good at it, but there's still places that we haven't gotten to. At the end of the day, my view on all the AI stuff is trust it if you want, but definitely verify. It goes with security.
 
 **julia**: You have to know the parameters of what it's good at, what it's not good at, and what it definitely **_should not_** be used for.
 
