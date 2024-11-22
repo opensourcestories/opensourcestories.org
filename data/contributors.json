@@ -17,6 +17,12 @@
         "profile": "abigail.png",
         "bio": "Mesrenyame is an Open Source Community Builder, Programs Manager, and STEM Education advocate from Ghana who loves the power that technology can put in people’s hands and wants to help create more awareness, through community building and advocacy. She has dedicated time and effort to promoting collaboration, sustainability, and inclusivity within the Open Source Community through research and communities. Her current research is focused on Diversity and Inclusion in Open Source Leadership. When she is not contributing to open source, she is inspiring the next generation of Women in STEM at Mesrenyame & FRIENDS - Girls in STEM."
     },
+    "tracy":{
+        "name": "Tracy Teal",
+        "roles": "Facilitator",
+        "profile":"tracy.png",
+        "bio": "Tracy Teal is passionate about open source sustainability and developing and supporting leaders and teams in science and technology. She has been an open source program director, an executive director of non-profits in the data science and research space, and a researcher, educator and open source developer in bioinformatics. She is a tab-complete advocate, and believes in the power of accessible tools, available resources and inclusive training to bring people to data so they can answer the questions that are important to them."
+    },
     "Perrie": {
         "name": "Peace Ojemeh",
         "roles": "Design Lead",
