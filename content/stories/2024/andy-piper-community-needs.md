@@ -4,7 +4,7 @@ date: 2024-06-27
 summary: "In this conversation between Andy Piper and amanda casari, Andy talks about their work in open source communities, specifically highlighting how communities differ, have different needs, and how these needs change and evolve over time. Additionally the discussion covers the “non-glamourous” work that needs to be done, and how difficult it can be to know what sort of help to ask for as a project."
 storyteller: "Andy Piper"
 bio: "Maker, self-taught techie, online since the 1990s. Open source contributor and community shepherd. Eclipse, MQTT, Cloud Foundry, Mastodon. Professionally: IBM, VMware, Twitter, freelance"
-storycorps: "137457674"
+storycorps: "137483570"
 story_image: "images/storytellers/andy-piper.jpg"
 facilitators: ["amanda casari"]
 editors: ["David Jones"]
