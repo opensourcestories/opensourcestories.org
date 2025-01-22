@@ -3,7 +3,7 @@ title: "Focus and feedback in the tidyverse"
 date: 2024-12-16
 summary: "Hadley Wickham takes Tracy Teal through the evolution of the tidyverse, starting with a box of rocks all the way through to a thriving community of data scientists. Join them on the Open Source Story of the tidyverse!"
 storyteller: "Hadley Wickham"
-bio: "Baking. Cocktails. Tidyverse."
+bio: "Hadley Wickham according to Hadley Wickham: Baking. Cocktails. Tidyverse."
 storycorps: "141243312"
 facilitators: ["Tracy Teal"]
 editors: ["julia ferraioli"]
@@ -183,3 +183,5 @@ I don't know, there's a lot of cases where sometimes the right thing to do is to
 **Tracy**: True. In crochet as well as code. Thank you so much. I really appreciate this conversation with you. It was fun as always, and well, talk to you soon.
 
 **Hadley**: Thanks so much for having me.
+
+> For more on this topic, see [Hadley's A brief history of the tidyverse](https://hadley.github.io/25-tidyverse-history/) with his disclaimer that it's still a work in progress.
