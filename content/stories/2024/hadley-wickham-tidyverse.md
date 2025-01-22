@@ -184,4 +184,4 @@ I don't know, there's a lot of cases where sometimes the right thing to do is to
 
 **Hadley**: Thanks so much for having me.
 
-> For more on this topic, see [Hadley's A brief history of the tidyverse](https://hadley.github.io/25-tidyverse-history/) with his disclaimer that it's still a work in progress.
+_For more on this topic, see [Hadley's A brief history of the tidyverse](https://hadley.github.io/25-tidyverse-history/) with his disclaimer that it's still a work in progress._
