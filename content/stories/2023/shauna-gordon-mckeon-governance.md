@@ -10,7 +10,7 @@ storycorps: "122460883"
 story_image: "images/logos/logo-square-1600x1600.png"
 facilitators: ["julia ferraioli"]
 editors: ["David Jones"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Shauna_Gordon-McKeon.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Shauna_Gordon-McKeon.mp3"
 explicit: "no"
 bytes: 29697156
 draft: false

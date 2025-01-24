@@ -8,7 +8,7 @@ storycorps: "137483570"
 story_image: "images/storytellers/andy-piper.jpg"
 facilitators: ["amanda casari"]
 editors: ["David Jones"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Andy_Piper_on_Community.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Andy_Piper_on_Community.mp3"
 explicit: "no"
 bytes: 32112838
 draft: false

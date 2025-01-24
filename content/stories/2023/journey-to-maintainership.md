@@ -10,7 +10,7 @@ I do all of this while blind, but hey, that hasn't stopped me before from archie
 storycorps: "96609769"
 story_image: "images/storytellers/jessica-tegner.jpg"
 facilitators: ["amanda casari"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Jessica_Tegner_on_Open_Source_Stories.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Jessica_Tegner_on_Open_Source_Stories.mp3"
 explicit: "no"
 bytes: 25329142
 draft: false

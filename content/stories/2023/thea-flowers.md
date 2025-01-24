@@ -8,7 +8,7 @@ storycorps: "95091079"
 story_image: "images/misc/raspberry-pi.jpg"
 facilitators: ["julia ferraioli"]
 editors: ["Claire Moss"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Thea_Flowers_on_Open_Source_Hardware.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Thea_Flowers_on_Open_Source_Hardware.mp3"
 explicit: "no"
 bytes: 23148789
 draft: false

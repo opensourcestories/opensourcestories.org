@@ -8,7 +8,7 @@ storycorps: "132875219"
 story_image: "images/storytellers/carol-willing.jpg"
 facilitators: ["julia ferraioli"]
 editors: ["David Jones"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Carol_Willing_at_PyCon.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Carol_Willing_at_PyCon.mp3"
 explicit: "no"
 bytes: 17500000
 draft: false

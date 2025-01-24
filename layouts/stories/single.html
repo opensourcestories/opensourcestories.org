@@ -9,7 +9,7 @@
     <aside class="instapaper_ignoref b helvetica tracked">
       {{with .CurrentSection.Title }}{{. | upper }}{{end}}
     </aside>
-    {{ partial "social-share.html" . }}
+    {{ partial "social/share.html" . }}
     <h1 class="f1 mt3 mb1">
       {{- .Title -}}
     </h1>
@@ -46,7 +46,7 @@
       {{- partial "credits.html" . -}}
       {{- partial "tags.html" . -}}
       <div class="mt6 instapaper_ignoref">
-          {{ if .Site.DisqusShortname }}
+          {{ if .Site.Config.Services.Disqus.Shortname }}
           {{ template "_internal/disqus.html" . }}
           {{ end }}
           {{ if .Site.Params.commentoEnable }}

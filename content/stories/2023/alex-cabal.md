@@ -7,7 +7,7 @@ bio: "Alex Cabal is the founder of Scribophile, one of the web's largest online 
 storycorps: "93445949"
 story_image: "images/storytellers/alex-cabal.jpg"
 facilitators: ["julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Alex_Cabal_on_Standard_Ebooks.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Alex_Cabal_on_Standard_Ebooks.mp3"
 explicit: "no"
 bytes: 24949742
 draft: false

@@ -8,7 +8,7 @@ bio: "Eriol has been working as a designer for 10+ years working in for-profits 
 Eriol is a part-time funded PhD researcher at Newcastle University's Open Lab looking at how designers participate in humanitarian and human rights focussed open-source software projects."
 storycorps: "86685693"
 facilitators: ["julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Eriol_Fox_on_open_source_design.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Eriol_Fox_on_open_source_design.mp3"
 explicit: "no"
 bytes: 37949650
 draft: false

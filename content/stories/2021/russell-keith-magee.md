@@ -7,7 +7,7 @@ storyteller: "Russell Keith-Magee"
 storycorps: "85873751"
 bio: "Dr Russell Keith-Magee is the founder of the BeeWare project, developing GUI tools and libraries to support the development of Python software on desktop and mobile platforms. He has also been a member of the Django core team since 2006, and for 5 years, was President of the Django Software Foundation. In his day job, he wrangles data pipelines for Upwave. He is a frequent speaker at Python and Django conferences around the globe, sharing his knowledge and experiences as a FLOSS developer, community maintainer, and (unsuccessful) startup founder."
 facilitators: ["amanda casari", "julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Russell_Keith-Magee_s_journey_to_open_source.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Russell_Keith-Magee_s_journey_to_open_source.mp3"
 explicit: "no"
 bytes: 37945722
 tags:

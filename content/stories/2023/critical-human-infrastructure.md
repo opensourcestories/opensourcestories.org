@@ -7,7 +7,7 @@ bio: "Duane loves telling the story of open source through collaboration and con
 storycorps: "96425913"
 story_image: "images/storytellers/duane-obrien.jpg"
 facilitators: ["julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Duane_O_Brien_on_critical_human_infrastructure.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Duane_O_Brien_on_critical_human_infrastructure.mp3"
 explicit: "no"
 bytes: 34577023
 draft: false

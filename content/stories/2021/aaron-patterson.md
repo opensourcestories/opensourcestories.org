@@ -7,7 +7,7 @@ storyteller: "Aaron Patterson"
 storycorps: "85873752"
 bio: "Aaron Patterson is a Senior Staff Engineer working at Shopify where he is focusing on Ruby core and Rails core development. Besides his achievements in software (which are both numerous and great), he is known for his humility, kindness, and accomplishments in the field of bio-writing."
 facilitators: ["julia ferraioli", "amanda casari"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Aaron_Patterson_on_open_source_game_changers.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Aaron_Patterson_on_open_source_game_changers.mp3"
 explicit: "no"
 bytes: 38309764
 tags:

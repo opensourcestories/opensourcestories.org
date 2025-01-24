@@ -8,7 +8,7 @@ storycorps: "122226719"
 story_image: "images/storytellers/clare-dillon.jpg"
 facilitators: ["amanda casari"]
 editors: ["julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Clare_Dillon_on_Open_Source_Stories.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Clare_Dillon_on_Open_Source_Stories.mp3"
 explicit: "no"
 bytes: 21281012
 draft: false

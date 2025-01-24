@@ -7,7 +7,7 @@ bio: " VM (Vicky) Brasseur is an award-winning free/open source advocate and cor
 storycorps: "94905044"
 story_image: "images/storytellers/vm-brasseur.png"
 facilitators: ["julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/VM_Brasseur_on_free_and_open_source_ecosystems_and_culture.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/VM_Brasseur_on_free_and_open_source_ecosystems_and_culture.mp3"
 explicit: "yes"
 bytes: 29681035
 draft: false

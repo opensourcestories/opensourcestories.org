@@ -6,7 +6,7 @@ storyteller: "Richard Littauer"
 bio: "Richard does stuff in open source. He also likes birds. He doesn't like bios, because he has difficulty internalizing achievement, probably thanks to his evangelical upbringing in Connecticut, where he grew up, before spending ten years living abroad in Europe and Canada, working mainly on open source things, and learning about birds."
 storycorps: "86819428"
 facilitators: ["julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Richard_Littauer_talks_about_birds_hats_and_commitsment.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Richard_Littauer_talks_about_birds_hats_and_commitsment.mp3"
 explicit: "no"
 bytes: 26200000
 draft: false
