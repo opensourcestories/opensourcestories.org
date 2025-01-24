@@ -8,7 +8,7 @@ storycorps: "120754576"
 story_image: "images/storytellers/logo-square.png"
 facilitators: ["julia ferraioli"]
 editors: ["Claire Moss"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Robby_Russell_on_Oh_My_Zsh.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Robby_Russell_on_Oh_My_Zsh.mp3"
 explicit: "no"
 bytes: 33744875
 draft: false

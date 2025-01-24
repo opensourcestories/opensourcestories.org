@@ -9,7 +9,7 @@ He worked on the design of the Go Checksum Database and of TLS 1.3. He’s also 
 storycorps: "96874520"
 story_image: "images/logos/logo-square.png"
 facilitators: ["julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Filippo_Valsorda_on_being_a_maintainer_for_security-focused_open_source_projects.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Filippo_Valsorda_on_being_a_maintainer_for_security-focused_open_source_projects.mp3"
 explicit: "no"
 bytes: 37931681
 draft: false

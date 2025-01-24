@@ -7,7 +7,7 @@ storycorps: '85873757'
 bio: " Nicolas Steenhout offers real-world insight into accessibility issues. 
 His work began in the mid-'90s. As a developer, he was confronted by accessibility hurdles that were preventing those with disabilities from engaging with a technological revolution. As he began championing web accessibility, Nic transitioned into the non-profit sector where he collaborated with people with a wide variety of impairments. Today, Nic works as an independent consultant for private businesses and non-profits. Having lent his services on three continents, he’s engaged with thousands of individuals with disabilities. He blogs about accessibility at https://incl.ca and he hosts the A11y Rules Podcast."
 facilitators: ["julia ferraioli", "amanda casari"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Nicolas_Steenhout_explores_the_intersection_of_accessibility_and_open_source.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Nicolas_Steenhout_explores_the_intersection_of_accessibility_and_open_source.mp3"
 explicit: "no"
 bytes: 38928156
 draft: false

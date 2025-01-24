@@ -9,7 +9,7 @@
       <aside class="instapaper_ignoref b helvetica tracked">
         {{with .CurrentSection.Title }}{{. | upper }}{{end}}
       </aside>
-      {{ partial "social-share.html" . }}
+      {{ partial "social/share.html" . }}
       <h1 class="f1 mt3 mb1">
         {{- .Title -}}
       </h1>
@@ -38,7 +38,7 @@
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "avenir"}} f4 nested-links {{ $.Param "text_color" | default "almost-black" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
       <div class="mt6 instapaper_ignoref">
-      {{ if .Site.DisqusShortname }}
+      {{ if .Site.Config.Services.Disqus.Shortname }}
         {{ template "_internal/disqus.html" . }}
       {{ end }}
       {{ if .Site.Params.commentoEnable }}

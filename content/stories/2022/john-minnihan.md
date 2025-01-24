@@ -8,7 +8,7 @@ Freepository, the first site that allowed developers to collaborate on source co
 storycorps: "92560308"
 story_image: "images/storytellers/john-minnihan.jpg"
 facilitators: ["julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/John_Minnihan_and_the_genesis_of_hosted_source_control.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/John_Minnihan_and_the_genesis_of_hosted_source_control.mp3"
 explicit: "no"
 bytes: 42657094
 draft: false

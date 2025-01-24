@@ -8,7 +8,7 @@ storycorps: "111926599"
 story_image: "images/storytellers/anita-ihuman.jpg"
 facilitators: ["julia ferraioli"]
 editors: ["Claire Moss"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Anita_Ihuman_and_community_health.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Anita_Ihuman_and_community_health.mp3"
 explicit: "no"
 bytes: 25553010
 draft: false

@@ -1,17 +1,12 @@
 baseURL = "https://www.opensourcestories.org/"
 languageCode = "en-us"
 title = "Open Source Stories"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 copyright = "The content on Open Source Stories is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 8
 enableRobotsTXT = true
-googleAnalytics = "G-7TL98FG4D8"
-
-[module]
-[[module.imports]]
-  path = 'github.com/theNewDynamic/gohugo-theme-ananke'
+pagination.pagerSize = 8
 
 [menu]
   [[menu.main]]
@@ -49,37 +44,56 @@ googleAnalytics = "G-7TL98FG4D8"
   background_color_class = "oss-dark-green"
   custom_css = ["opensourcestories.css"]
   body_classes = "avenir almost-black"
-  [[params.ananke_socials]]
-    name = "mastodon"
-    url = "https://fedi.opensourcestories.org/@narrator"
-  [[params.ananke_socials]]
-    name = "github"
-    url = "https://github.com/opensourcestories"
-  [[params.ananke_socials]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/company/open-source-stories"
-  [[params.ananke_socials]]
-    name = "twitter"
-    url = "https://twitter.com/StoriesOfOSS"
-  [[params.ananke_socials]]
-    name = "rss"
-    url = "/index.xml"
 
+[params.ananke.social.follow]
+icons = true
+new_window_icon = true
+networks = [
+  "mastodon",
+  "bluesky",
+  "linkedin",
+  "github",
+  "rss"
+]
 
-  [params.podcast]
-    podcast_author = "Open Source Stories"
-    podcast_email = "admin@opensourcestories.org"
-    podcast_owner = "julia ferraioli"
-    podcast_image = "https://www.opensourcestories.org/images/logos/logo-square-1600x1600.png"
-    podcast_category_primary = "Technology"
-    podcast_category_secondary = "News"
-    podcast_subcategories_secondary = ["Tech News", "News Commentary"]
-    podcast_explicit = "no"
-    podcast_rss = "/stories/index.xml"
+[params.ananke.social.share]
+icons = true
+networks = [
+  "mastodon",
+  "bluesky",
+  "linkedin",
+  "github"
+]
 
-[author.amanda]
+[params.ananke.social.mastodon]
+  profilelink = "https://fedi.opensourcestories.org/@narrator"
+
+[params.ananke.social.github]
+  profilelink = "https://github.com/opensourcestories"
+
+[params.ananke.social.linkedin]
+  profilelink = "https://www.linkedin.com/company/open-source-stories"
+
+[params.ananke.social.bluesky]
+  profilelink = "https://bsky.app/profile/opensourcestories.org"
+  
+[params.ananke.social.rss]
+  profilelink = "/index.xml"
+
+[params.podcast]
+  podcast_author = "Open Source Stories"
+  podcast_email = "admin@opensourcestories.org"
+  podcast_owner = "julia ferraioli"
+  podcast_image = "https://www.opensourcestories.org/images/logos/logo-square-1600x1600.png"
+  podcast_category_primary = "Technology"
+  podcast_category_secondary = "News"
+  podcast_subcategories_secondary = ["Tech News", "News Commentary"]
+  podcast_explicit = "no"
+  podcast_rss = "/stories/index.xml"
+
+[params.Founder.amanda]
   name = "amanda casari"
-[author.julia]
+[params.Founder.julia]
   name = "julia ferraioli"
 
 [permalinks]

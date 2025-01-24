@@ -8,7 +8,7 @@ storycorps: "139506697"
 story_image: "images/storytellers/rich-bowen.jpg"
 facilitators: ["julia ferraioli"]
 editors: ["julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Rich_Bowen_on_bringing_up_the_next_generation.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Rich_Bowen_on_bringing_up_the_next_generation.mp3"
 explicit: "no"
 bytes: 24513094
 draft: false

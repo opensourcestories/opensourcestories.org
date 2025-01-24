@@ -7,7 +7,7 @@ bio: "Hadley Wickham according to Hadley Wickham: Baking. Cocktails. Tidyverse."
 storycorps: "141243312"
 facilitators: ["Tracy Teal"]
 editors: ["julia ferraioli"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Hadley_Wickham_on_the_tidyverse.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Hadley_Wickham_on_the_tidyverse.mp3"
 explicit: "no"
 bytes: 27861
 draft: false

@@ -6,7 +6,7 @@ storyteller: "Samson Goddy"
 storycorps: "85873755"
 bio: "Samson Goddy is a software engineer, an open source advocate, community builder. He leads Community Relations and Advocacy at Sourcegraph and is the co-founder for Open Source Community Africa; he is a long-time contributor for the Sugar Labs project and serves on Open Source Collective's board. Samson is passionate about building diverse communities around projects and loves teaching."
 facilitators: ["amanda casari"]
-audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Samson_Goddy_on_the_power_of_centering_open_source_on_community_needs.mp3"
+story_audio: "https://media.blubrry.com/1466155/content.blubrry.com/1466155/Samson_Goddy_on_the_power_of_centering_open_source_on_community_needs.mp3"
 explicit: "no"
 bytes: 37547825
 draft: false
