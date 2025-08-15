@@ -1,0 +1,36 @@
+{{ $currentPath := .RelPermalink }}
+{{ $isSpanish := hasPrefix $currentPath "/es/" }}
+{{ $isFrench := hasPrefix $currentPath "/french/" }}
+
+{{ $basePath := $currentPath }}
+{{ if $isSpanish }}
+  {{ $basePath = strings.TrimPrefix $currentPath "/es" }}
+{{ else if $isFrench }}
+  {{ $basePath = strings.TrimPrefix $currentPath "/french" }}
+{{ end }}
+{{ if eq $basePath "" }}{{ $basePath = "/" }}{{ end }}
+
+{{ $enPath := $basePath }}
+{{ $esPath := printf "/es%s" $basePath }}
+{{ $frPath := printf "/french%s" $basePath }}
+
+<div class="language-switcher">
+  <select onchange="window.location.href=this.value" class="language-dropdown" id="lang-switcher">
+    <option value="{{ $enPath }}">English (en)</option>
+    <option value="{{ $esPath }}">Español (es)</option>
+    <option value="{{ $frPath }}">Français (fr)</option>
+  </select>
+</div>
+<script>
+(function() {
+  const select = document.getElementById('lang-switcher');
+  const currentPath = window.location.pathname;
+  if (currentPath.startsWith('/es/')) {
+    select.value = select.options[1].value;
+  } else if (currentPath.startsWith('/french/')) {
+    select.value = select.options[2].value;
+  } else {
+    select.value = select.options[0].value;
+  }
+})();
+</script>

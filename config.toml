@@ -1,10 +1,11 @@
 baseURL = "https://www.opensourcestories.org/"
-languageCode = "en-us"
-title = "Open Source Stories"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 copyright = "The content on Open Source Stories is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
+title = "Open Source Stories"
+disableLanguages = ["es"]
+
+
 enableRobotsTXT = true
 pagination.pagerSize = 8
 
@@ -34,6 +35,8 @@ pagination.pagerSize = 8
     name = "StoryCorps"
     url = "https://archive.storycorps.org/communities/open-source-stories/"
     weight = 10
+
+
 
 [params]
   favicon = "favicon.ico"

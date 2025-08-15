@@ -7,7 +7,11 @@
 <article class="flex-l flex-wrap justify-between mw8 center ph3">
   <header class="mt4 w-100">
     <aside class="instapaper_ignoref b helvetica tracked">
-      {{with .CurrentSection.Title }}{{. | upper }}{{end}}
+      {{ if eq .Section "stories" }}
+        {{ (i18n "stories_section" | default "Stories") | upper }}
+      {{ else }}
+        {{with .CurrentSection.Title }}{{. | upper }}{{end}}
+      {{ end }}
     </aside>
     {{ partial "social/share.html" . }}
     <h1 class="f1 mt3 mb1">
@@ -34,6 +38,10 @@
     <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime }} </span>
     <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
     {{ end }}
+    
+    {{/* Language switcher for translated transcripts */}}
+    {{ partial "language-switcher.html" . }}
+
   </header>
   <section>
   <div class="nested-copy-line-height lh-copy f5 dark-gray flex-column-ns">

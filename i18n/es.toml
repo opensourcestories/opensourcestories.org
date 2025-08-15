@@ -1,0 +1,14 @@
+[available_languages]
+other = "Disponible en:"
+
+[transcript_available]
+other = "Transcripción disponible en:"
+
+[original_language]
+other = "Original"
+
+[translation]
+other = "Traducción"
+
+[stories_section]
+other = "Historias"
