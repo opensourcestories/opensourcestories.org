@@ -28,5 +28,11 @@
         "subscribe": "https://music.amazon.com/podcasts/a1bac012-21cb-40eb-9538-1fd9460fafa8/open-source-stories",
         "icon": "amazon.svg",
         "order": 0
+    },
+    "antennapod": {
+        "name": "AntennaPod",
+        "subscribe": "https://antennapod.org/deeplink/subscribe?url=https://www.opensourcestories.org/stories/index.xml",
+        "icon": "antennapod.svg",
+        "order": 0
     }
 }
