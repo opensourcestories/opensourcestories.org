@@ -1,36 +1,51 @@
-{{ $currentPath := .RelPermalink }}
-{{ $isSpanish := hasPrefix $currentPath "/es/" }}
-{{ $isFrench := hasPrefix $currentPath "/fr/" }}
 
-{{ $basePath := $currentPath }}
-{{ if $isSpanish }}
-  {{ $basePath = strings.TrimPrefix $currentPath "/es" }}
-{{ else if $isFrench }}
-  {{ $basePath = strings.TrimPrefix $currentPath "/fr" }}
-{{ end }}
-{{ if eq $basePath "" }}{{ $basePath = "/" }}{{ end }}
 
-{{ $enPath := $basePath }}
-{{ $esPath := printf "/es%s" $basePath }}
-{{ $frPath := printf "/fr%s" $basePath }}
-
-<div class="language-switcher" style="display: block; visibility: visible;">
-  <select onchange="window.location.href=this.value" class="language-dropdown" id="lang-switcher">
-    <option value="{{ $enPath }}">English (en)</option>
-    <option value="{{ $esPath }}">Español (es)</option>
-    <option value="{{ $frPath }}">Français (fr)</option>
+<div class="language-switcher">
+  <select onchange="switchLanguage(this.value)" class="language-dropdown" id="lang-switcher">
+    <option value="en">English (en)</option>
+    <option value="es">Español (es)</option>
+    <option value="fr">Français (fr)</option>
   </select>
 </div>
 <script>
+function switchLanguage(lang) {
+  const currentPath = window.location.pathname;
+  let newPath;
+  
+  // Remove existing language prefix
+  let basePath = currentPath;
+  if (currentPath.startsWith('/es/')) {
+    basePath = currentPath.substring(3);
+  } else if (currentPath.startsWith('/fr/')) {
+    basePath = currentPath.substring(3);
+  }
+  
+  // Ensure basePath starts with /
+  if (!basePath.startsWith('/')) {
+    basePath = '/' + basePath;
+  }
+  
+  // Add new language prefix
+  if (lang === 'en') {
+    newPath = basePath;
+  } else {
+    newPath = '/' + lang + basePath;
+  }
+  
+  window.location.href = newPath;
+}
+
+// Set current selection
 (function() {
   const select = document.getElementById('lang-switcher');
   const currentPath = window.location.pathname;
+  
   if (currentPath.startsWith('/es/')) {
-    select.value = select.options[1].value;
+    select.value = 'es';
   } else if (currentPath.startsWith('/fr/')) {
-    select.value = select.options[2].value;
+    select.value = 'fr';
   } else {
-    select.value = select.options[0].value;
+    select.value = 'en';
   }
 })();
 </script>
