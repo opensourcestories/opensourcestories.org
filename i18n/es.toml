@@ -12,3 +12,17 @@ other = "Traducción"
 
 [stories_section]
 other = "Historias"
+
+[listen_original]
+other = "Escuchar en el idioma original"
+
+[related]
+other = "Relacionado"
+
+[readingTime]
+one = "{{ .Count }} min de lectura"
+other = "{{ .Count }} min de lectura"
+
+[wordCount]
+one = "{{ .Count }} palabra"
+other = "{{ .Count }} palabras"

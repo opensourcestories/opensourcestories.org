@@ -1,0 +1,19 @@
+{{- $related := .Site.RegularPages.Related . | first 5 -}}
+{{- with $related -}}
+<div class="bg-light-gray pa3">
+  <h3 class="f5 fw4 mb4 mt0">{{ i18n "related" | default "Related" }}</h3>
+  <ul class="list pl0">
+    {{- $seen := slice -}}
+    {{- range . -}}
+      {{- if not (in $seen .RelPermalink) -}}
+        {{- $seen = $seen | append .RelPermalink -}}
+        <li class="mb3">
+          <a href="{{ .RelPermalink }}" class="link db f6 lh-copy">
+            {{ .Title }}
+          </a>
+        </li>
+      {{- end -}}
+    {{- end -}}
+  </ul>
+</div>
+{{- end -}}

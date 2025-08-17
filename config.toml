@@ -3,7 +3,23 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 copyright = "The content on Open Source Stories is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 DefaultContentLanguage = "en"
 title = "Open Source Stories"
-disableLanguages = ["es"]
+
+[languages]
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    title = "Open Source Stories"
+    weight = 1
+  [languages.es]
+    languageCode = "es"
+    languageName = "Español"
+    title = "Historias de Código Abierto"
+    weight = 2
+  [languages.fr]
+    languageCode = "fr"
+    languageName = "Français"
+    title = "Histoires Open Source"
+    weight = 3
 
 
 enableRobotsTXT = true

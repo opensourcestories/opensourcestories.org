@@ -6,7 +6,7 @@ This guide explains how to add translated transcripts to Open Source Stories.
 
 The system automatically detects available translations without requiring Hugo configuration changes. Simply create the translated content files and the language switcher will appear automatically.
 
-**Note**: For languages other than Spanish, you may need to add them to Hugo's language configuration in `config.toml`:
+**Note**: All languages must follow RFC5646-compliant language codes (en, es, fr) and be configured in `config.toml`:
 
 ```toml
 [languages.fr]  # Example for French
@@ -20,24 +20,27 @@ The system automatically detects available translations without requiring Hugo c
 
 ### Story Transcripts
 
-To translate a story transcript:
+Stories may be originally authored in any language and then translated to others. To add translations:
 
-1. **Create Language Directory**:
+1. **Create Language Directory** using RFC5646 codes:
 
    ```
    content/
-   ├── stories/           # English (default)
-   └── es/               # Spanish translations
+   ├── stories/           # Default language content
+   ├── es/               # Spanish content (/es/)
+   │   └── stories/
+   └── fr/               # French content (/fr/)
        └── stories/
    ```
 
-2. **Translate Content**: Copy the original story file and translate:
+2. **Translate Content**: Copy the story file and translate:
 
    ```
    content/es/stories/2021/aaron-patterson.md
+   content/fr/stories/2021/aaron-patterson.md
    ```
 
-3. **Link Translations**: Ensure both files have the same filename to be automatically linked.
+3. **Link Translations**: Ensure all language versions have the same filename to be automatically linked.
 
 ### Front Matter
 
@@ -60,21 +63,23 @@ storycorps: '12345'
 content/
 ├── stories/
 │   └── 2021/
-│       └── aaron-patterson.md     # English (original)
-├── es/
+│       └── aaron-patterson.md     # Default language (may be any language)
+├── es/                                # Spanish (/es/)
 │   └── stories/
 │       └── 2021/
-│           └── aaron-patterson.md # Spanish translation
-└── fr/
+│           └── aaron-patterson.md # Spanish version
+└── fr/                                # French (/fr/)
     └── stories/
         └── 2021/
-            └── aaron-patterson.md # French translation
+            └── aaron-patterson.md # French version
 ```
 
 ## Testing Translations
 
 1. Run Hugo locally: `hugo server`
-2. Navigate to translated content: `http://localhost:1313/es/stories/2021/aaron-patterson/`
+2. Navigate to translated content: 
+   - Spanish: `http://localhost:1313/es/stories/2021/aaron-patterson/`
+   - French: `http://localhost:1313/fr/stories/2021/aaron-patterson/`
 3. Verify language switcher appears and works correctly
 4. Test switching between languages using the dropdown
 
