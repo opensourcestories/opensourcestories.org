@@ -1,0 +1,11 @@
+{{ with .Site.Params.storytelling }}
+<section class="storytelling">
+    <h2>Tell Your Own Open Source Story</h2>
+    <p>{{ .booking_copy }}</p>
+    <p>
+        <a href="{{ .booking_link }}" class="btn btn-primary" target="_blank" rel="noopener">
+            <img alt="Book us with Cal.com" src="https://cal.com/book-with-cal-dark.svg" />
+        </a>
+    </p>
+</section>
+{{ end }}

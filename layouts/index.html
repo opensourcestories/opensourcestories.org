@@ -56,18 +56,7 @@ pages. */}}
   </section>
   {{ end }}
 
-  <!-- Tell Your Own Open Source Story Section -->
-  <section class="w-100" style="margin-top:1.5em;">
-    <h2 class="f3" >Tell Your Own Open Source Story</h2>
-    <p style="margin-bottom: 1em;">Do you have an Open Source Story that you'd like to tell? Request a storytelling
-      session with one of our facilitators. While we cannot guarantee that we will be able to accommodate every request,
-      we will review each one thoroughly! Please provide as much detail in the scheduling form as possible about the
-      story you'd like to tell.</p>
-    <a href="https://cal.com/team/open-source-stories/30-minute-storytelling-session-request" target="_blank"
-      rel="noopener">
-      <img alt="Book us with Cal.com" src="https://cal.com/book-with-cal-dark.svg" style="height: 40px;" />
-    </a>
-  </section>
+  {{- partial "storytelling.html" . -}}
 
 </div>
 {{ end }}
