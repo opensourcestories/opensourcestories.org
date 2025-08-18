@@ -1,9 +1,15 @@
-<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+<footer class="{{ .Site.Params.background_color_class | default " bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" rel="license"
+      href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0"
+        src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://www.netlify.com">
+      <img src="https://www.netlify.com/assets/badges/netlify-badge-color-bg.svg" alt="Deploys by Netlify"
+        style="border-width:0; height:31px;" />
+    </a>
     <span class="f4 fw4 white-70 dn dib-ns pv2 ph3">
-    Run with 💜 by {{ with .Site.Params.Founder }} {{ .amanda.name }} and {{ .julia.name }} {{ end }}
+      Run with 💜 by {{ with .Site.Params.Founder }} {{ .amanda.name }} and {{ .julia.name }} {{ end }}
     </span>
     <div>{{ partial "social/follow.html" . }}</div>
   </div>
-  </footer>
+</footer>
