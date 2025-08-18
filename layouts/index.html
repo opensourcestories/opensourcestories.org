@@ -6,14 +6,15 @@
 <div>
   {{- partial "podcasts.html" . -}}
 </div>
-{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
+{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of
+pages. */}}
 {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
 {{/* Create a variable with that section to use in multiple places. */}}
 {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
 {{/* Check to see if the section is defined for ranging through it */}}
 {{ $section_count := len $section }}
 {{ if ge $section_count 1 }}
-{{/* Derive the section name  */}}
+{{/* Derive the section name */}}
 {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
 <div class="pa3 pa4-ns w-100 w-70-ns center">
@@ -38,11 +39,12 @@
   {{ if ge $section_count (add $n_posts 1) }}
   <section class="w-100">
     <h1 class="f3">{{ i18n "more" }}</h1>
-    {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
-    {{ range (first 4 (after $n_posts $section))  }}
+    {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first"
+    on the outside */}}
+    {{ range (first 4 (after $n_posts $section)) }}
     <h2 class="f5 fw4 mb4 dib mr3">
       <a href="{{ .Permalink }}" class="link black dim">
-	{{ .Title }}
+        {{ .Title }}
       </a>
     </h2>
     {{ end }}
@@ -53,6 +55,19 @@
     {{ end }}
   </section>
   {{ end }}
+
+  <!-- Tell Your Own Open Source Story Section -->
+  <section class="w-100" style="margin-top:1.5em;">
+    <h2 class="f3" >Tell Your Own Open Source Story</h2>
+    <p style="margin-bottom: 1em;">Do you have an Open Source Story that you'd like to tell? Request a storytelling
+      session with one of our facilitators. While we cannot guarantee that we will be able to accommodate every request,
+      we will review each one thoroughly! Please provide as much detail in the scheduling form as possible about the
+      story you'd like to tell.</p>
+    <a href="https://cal.com/team/open-source-stories/30-minute-storytelling-session-request" target="_blank"
+      rel="noopener">
+      <img alt="Book us with Cal.com" src="https://cal.com/book-with-cal-dark.svg" style="height: 40px;" />
+    </a>
+  </section>
 
 </div>
 {{ end }}
