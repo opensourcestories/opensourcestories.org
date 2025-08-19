@@ -38,7 +38,7 @@ The static files will be stored in the `public/` subdirectory.
 
 Do you have an Open Source Story that you'd like to tell? Request a storytelling session with one of our facilitators. While we cannot guarantee that we will be able to accommodate every request, we will review each one thoroughly! Please provide as much detail in the scheduling form as possible about the story you'd like to tell.
 
-[![Book us with Cal.com](https://cal.com/book-with-cal-dark.svg)](https://cal.com/team/open-source-stories/30-minute-storytelling-session-request)
+[![Book us with Cal.com](https://cal.com/book-with-cal-dark.svg)](https://cal.com/team/open-source-stories/30-minute-storytelling-session-request?utm_source=banner&utm_campaign=oss)
 
 _____
 The theme for this website is based upon [ananke](https://github.com/theNewDynamic/gohugo-theme-ananke).
