@@ -97,7 +97,7 @@ networks = [
   name = "julia ferraioli"
 
 [params.storytelling]
-  booking_link = "https://cal.com/team/open-source-stories/30-minute-storytelling-session-request"
+  booking_link = "https://cal.com/team/open-source-stories/30-minute-storytelling-session-request?utm_source=banner&utm_campaign=oss"
   booking_copy = "Do you have an Open Source Story that you'd like to tell? Request a storytelling session with one of our facilitators. While we cannot guarantee that we will be able to accommodate every request, we will review each one thoroughly! Please provide as much detail in the scheduling form as possible about the story you'd like to tell."
 
 [permalinks]
