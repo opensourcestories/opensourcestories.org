@@ -3,7 +3,7 @@
 [![GitHub sponsors](https://img.shields.io/github/sponsors/opensourcestories)](https://github.com/sponsors/opensourcestories)
 [![Open Source Stories on Twitter](https://img.shields.io/twitter/follow/StoriesOfOSS)](https://twitter.com/StoriesOfOSS)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -33,6 +33,13 @@ To generate the HTML, run:
 
 The static files will be stored in the `public/` subdirectory.
 
+
+## Tell Your Own Open Source Story
+
+Do you have an Open Source Story that you'd like to tell? Request a storytelling session with one of our facilitators. While we cannot guarantee that we will be able to accommodate every request, we will review each one thoroughly! Please provide as much detail in the scheduling form as possible about the story you'd like to tell.
+
+[![Book us with Cal.com](https://cal.com/book-with-cal-dark.svg)](https://cal.com/team/open-source-stories/30-minute-storytelling-session-request?utm_source=banner&utm_campaign=oss)
+
 _____
 The theme for this website is based upon [ananke](https://github.com/theNewDynamic/gohugo-theme-ananke).
 
@@ -57,6 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/WebSnke"><img src="https://avatars.githubusercontent.com/u/94064167?v=4?s=100" width="100px;" alt="Sönke Joppien"/><br /><sub><b>Sönke Joppien</b></sub></a><br /><a href="#ideas-WebSnke" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jonsey-nonwork"><img src="https://avatars.githubusercontent.com/u/149746127?v=4?s=100" width="100px;" alt="Jonsey-nonwork"/><br /><sub><b>Jonsey-nonwork</b></sub></a><br /><a href="#content-Jonsey-nonwork" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://x.com/eskayML"><img src="https://avatars.githubusercontent.com/u/71832907?v=4?s=100" width="100px;" alt="Samuel Kalu"/><br /><sub><b>Samuel Kalu</b></sub></a><br /><a href="https://github.com/opensourcestories/opensourcestories.org/commits?author=eskayML" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

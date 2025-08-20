@@ -87,6 +87,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "eskayML",
+      "name": "Samuel Kalu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71832907?v=4",
+      "profile": "http://x.com/eskayML",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
