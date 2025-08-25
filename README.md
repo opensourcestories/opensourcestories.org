@@ -64,7 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/WebSnke"><img src="https://avatars.githubusercontent.com/u/94064167?v=4?s=100" width="100px;" alt="Sönke Joppien"/><br /><sub><b>Sönke Joppien</b></sub></a><br /><a href="#ideas-WebSnke" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jonsey-nonwork"><img src="https://avatars.githubusercontent.com/u/149746127?v=4?s=100" width="100px;" alt="Jonsey-nonwork"/><br /><sub><b>Jonsey-nonwork</b></sub></a><br /><a href="#content-Jonsey-nonwork" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://x.com/eskayML"><img src="https://avatars.githubusercontent.com/u/71832907?v=4?s=100" width="100px;" alt="Samuel Kalu"/><br /><sub><b>Samuel Kalu</b></sub></a><br /><a href="https://github.com/opensourcestories/opensourcestories.org/commits?author=eskayML" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://x.com/eskayML"><img src="https://avatars.githubusercontent.com/u/71832907?v=4?s=100" width="100px;" alt="Samuel Kalu"/><br /><sub><b>Samuel Kalu</b></sub></a><br /><a href="https://github.com/opensourcestories/opensourcestories.org/commits?author=eskayML" title="Code">💻</a> <a href="#infra-eskayML" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
   </tbody>
 </table>
