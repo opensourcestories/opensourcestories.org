@@ -1,0 +1,26 @@
+{{- $currentFile := $.File.TranslationBaseName -}}
+{{- $seenStories := slice -}}
+{{- $featuredStories := slice -}}
+{{- range .Site.RegularPages -}}
+  {{- if and (eq .Section "stories") (ne .File.TranslationBaseName $currentFile) -}}
+    {{- if not (in $seenStories .File.TranslationBaseName) -}}
+      {{- $seenStories = $seenStories | append .File.TranslationBaseName -}}
+      {{- $featuredStories = $featuredStories | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $featuredStories = $featuredStories | first 3 -}}
+{{- with $featuredStories -}}
+<div class="bg-light-gray pa3">
+  <h3 class="f5 fw4 mb4 mt0">{{ i18n "related" | default "Related" }}</h3>
+  <ul class="list pl0">
+    {{- range . -}}
+      <li class="mb3">
+        <a href="{{ .RelPermalink }}" class="link db f6 lh-copy">
+          {{ .Title }}
+        </a>
+      </li>
+    {{- end -}}
+  </ul>
+</div>
+{{- end -}}

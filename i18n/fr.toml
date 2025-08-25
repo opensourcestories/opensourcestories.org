@@ -1,0 +1,28 @@
+[available_languages]
+other = "Disponible en :"
+
+[transcript_available]
+other = "Transcription disponible en :"
+
+[original_language]
+other = "Original"
+
+[translation]
+other = "Traduction"
+
+[stories_section]
+other = "Histoires"
+
+[listen_original]
+other = "Écouter dans la langue originale"
+
+[related]
+other = "Connexe"
+
+[readingTime]
+one = "{{ .Count }} minute de lecture"
+other = "{{ .Count }} minutes de lecture"
+
+[wordCount]
+one = "{{ .Count }} mot"
+other = "{{ .Count }} mots"

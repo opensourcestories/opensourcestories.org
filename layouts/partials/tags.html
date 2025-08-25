@@ -1,7 +1,13 @@
+{{ if .Params.tags }}
 <div class="tag-group" style="display:inline-block;">
  {{ range sort .Params.tags }}
   <div class="tag" style="display:inline-block; padding:5px;">
-      <a href="/tags/{{. | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">{{.}}</a>
+      {{ $tagURL := printf "/tags/%s" (. | urlize) }}
+      {{ if ne $.Site.Language.Lang "en" }}
+        {{ $tagURL = printf "/%s/tags/%s" $.Site.Language.Lang (. | urlize) }}
+      {{ end }}
+      <a href="{{ $tagURL }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">{{.}}</a>
   </div>
 {{end}}
 </div>
+{{ end }}
