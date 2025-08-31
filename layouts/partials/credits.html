@@ -1,9 +1,12 @@
 <p class="mt4 mb4 f6 pv2 dib black sans-serif">
-    The story was facilitated by {{delimit .Params.facilitators ", " " and "}}
-    {{ if .Params.editors }}
-    <span>
-        and edited by {{delimit .Params.editors ", " " and "}}.
-    </span>
-    {{ end }}
+  The story was facilitated by {{ if .Params.facilitators }}{{ $fac := .Params.facilitators }}{{- delimit (slice) ", " "
+  and " -}}{{ range $i, $name := $fac }}{{ if $i }}, {{ end }}<a href="/facilitators/{{ $name | urlize | lower }}/"
+    class="link blue hover-black">{{ $name }}</a>{{ end }}{{ end }}
+  {{ if .Params.editors }}
+  <span>
+    and edited by {{ $eds := .Params.editors }}{{ range $i, $name := $eds }}{{ if $i }}, {{ end }}<a
+      href="/editors/{{ $name | urlize | lower }}/" class="link blue hover-black">{{ $name }}</a>{{ end }}.
+  </span>
+  {{ end }}
 
 </p>
