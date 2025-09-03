@@ -1,0 +1,28 @@
+[available_languages]
+other = "Available in:"
+
+[transcript_available]
+other = "Transcript available in:"
+
+[original_language]
+other = "Original"
+
+[translation]
+other = "Translation"
+
+[stories_section]
+other = "Stories"
+
+[listen_original]
+other = "Listen in the original language"
+
+[related]
+other = "Related"
+
+[readingTime]
+one = "{{ .Count }} min read"
+other = "{{ .Count }} min read"
+
+[wordCount]
+one = "{{ .Count }} word"
+other = "{{ .Count }} words"

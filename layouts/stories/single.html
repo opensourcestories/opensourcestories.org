@@ -7,7 +7,11 @@
 <article class="flex-l flex-wrap justify-between mw8 center ph3">
   <header class="mt4 w-100">
     <aside class="instapaper_ignoref b helvetica tracked">
-      {{with .CurrentSection.Title }}{{. | upper }}{{end}}
+      {{ if eq .Section "stories" }}
+        {{ (i18n "stories_section" | default "Stories") | upper }}
+      {{ else }}
+        {{with .CurrentSection.Title }}{{. | upper }}{{end}}
+      {{ end }}
     </aside>
     {{ partial "social/share.html" . }}
     <h1 class="f1 mt3 mb1">
@@ -34,13 +38,20 @@
     <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime }} </span>
     <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
     {{ end }}
+    
+    {{/* Language switcher for translated transcripts */}}
+    {{ partial "language-switcher.html" . }}
+
   </header>
+  {{ if .Params.storycorps }}
   <section>
   <div class="nested-copy-line-height lh-copy f5 dark-gray flex-column-ns">
+    <p class="f6 tracked mb2">{{ i18n "listen_original" | default "Listen in the original language" }}</p>
     <iframe src="https://player.blubrry.com/id/{{ $.Page.Params.storycorps }}" width="99.9%" height="165px" title="Blubrry Podcast Player" scrolling="no" frameborder="0"></iframe>
     <p class="bio">{{ $.Page.Params.bio }}</p>
   </div>
   </section>
+  {{ end }}
   <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "avenir"}} f4 nested-links {{ $.Param "text_color" | default "almost-black" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
       {{- partial "credits.html" . -}}

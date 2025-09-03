@@ -1,0 +1,15 @@
+<ul class="pl0 mr3">
+  {{ range $key, $value := .Site.Languages }}
+  {{ if or (eq $key "en") (eq $key "fr") }}
+  <li class="list f5 f4-ns fw4 dib pr3">
+    <a
+      class="hover-white no-underline white-90"
+      href="{{ if eq $key "en" }}/{{ else }}/{{ $key }}/{{ end }}"
+      title="{{ $value.LanguageName }}"
+    >
+      {{ $key }}
+    </a>
+  </li>
+  {{ end }}
+  {{ end }}
+</ul>

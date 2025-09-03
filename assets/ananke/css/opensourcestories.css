@@ -73,3 +73,51 @@ body {
     width: 32px;
     height: 32px;
 }
+
+/* Language switcher styling */
+.language-switcher {
+    margin: 1rem 0;
+    padding: 0.5rem;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    font-size: 0.875rem;
+}
+
+.language-label {
+    font-weight: 600;
+    margin-right: 0.5rem;
+    color: var(--almost-black);
+}
+
+.current-language {
+    font-weight: 600;
+    color: var(--oss-dark-green);
+    margin: 0 0.25rem;
+}
+
+.language-link {
+    color: #007bff;
+    text-decoration: none;
+    margin: 0 0.25rem;
+}
+
+.language-link:hover {
+    text-decoration: underline;
+}
+/* Language Switcher Dropdown */
+.language-switcher {
+  margin: 1rem 0;
+}
+
+.language-dropdown {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.language-dropdown:hover {
+  border-color: #007cba;
+}
